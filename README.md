@@ -1,2 +1,2 @@
-# AI-Girl-Translations
+# AI Girl Translations
 Translations for AI Girl/AI Syoujyo
