@@ -1,0 +1,2 @@
+ツボミ=Tsubomi
+商人=Merchant

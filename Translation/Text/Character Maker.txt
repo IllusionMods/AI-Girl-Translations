@@ -1,17 +1,84 @@
-﻿リップ=Lips
+﻿//Personalities
+機械的で無感情=Mechanical, Emotionless
+おおらかでやさしい=Open, Gentle
+意識が高く自信家=Aware, Confident
+自分勝手でわがまま=Selfish, Self-indulgent
+無気力でものぐさ=Lazy, Lethargic
+ポジティブで明るい=Positive, Bright
+
+//Accessories -> Head
+ヘアピン=Hairpin
+うさ耳リボン=Rabbit Ear Ribbon
+
+//Accessories -> Ears
+スター=Star
+
+//Accessories -> Eyes
+スクエア=Square
+
+//Accessories -> Face
+ピエロの鼻=Clown Nose
+
+//Accessories -> Neck
+コアキューブ=Core Cube
+
+//Accessories -> Shoulder
+トートバッグ=Tote Bag
+
+//Accessories -> Chest
+シンプルリング=Simple Ring
+
+//Accessories -> Waist
+ウエストバッグ=Waist Bag
+
+//Accessories -> Back
+リュック=Backpack
+
+//Accessories -> Arm
+腕章A=Armband A
+
+//Accessories -> Hand
+シンプル指輪=Simple Ring
+
+//Accessories -> Leg
+ミサンガA左=Friendship Bracelet A Left
+ミサンガA右=Friendship Bracelet A Right
+
+//Misc UI
+ペイント01=Paint 01
+ペイント02=Paint 02
+回転X=Rotation X
+回転Y=Rotation Y
+回転Z=Rotation Z
+移動X=Move X
+移動Y=Move Y
+移動Z=Move Z
+位置X=Position X
+位置Y=Position Y
+X位置=X Position
+Y位置=Y Position
+揺らさない=Stiffen
+スロット=Slot
+コピー=Copy
 新規保存=Save New
-調整01=Adjustment 01
+移動=Move
+なし=None
+BGM音量=BGM Vol
+SE音量=SFX Vol
+
+//Unorganized or machine translations past this point
+
+
+リップ=Lips
 左耳=L ear
 カラー=Color
-胸=Breast
+胸=Chest
 肩=Shoulder
 下半身=Lower body
 口=Mouth
-なし=None
 首周り奥=Neck Thickness
 髪=Hair
 右中指=R middle
-コピー=Copy
 日焼け跡=Suntan
 種類=Pattern
 タイプ=Type
@@ -21,7 +88,7 @@
 胸の尖り=Length
 小鼻上下=Nostril Height
 口横幅=Mouth Width
-速度=Strenght
+速度=Strength
 フェイス=Face
 腰下幅=Hips Width
 顔上部上下=Height
@@ -67,7 +134,6 @@
 乳輪の大きさ=Areola Size
 親=Parent
 回転量=Step
-タイプ02=Type 02
 日付=Date
 胸サイズ=Size
 口形状下=Lower Lip Thickness
@@ -83,7 +149,6 @@
 顔下部横幅=Lower Width
 声質=Voice
 耳下部形状=Lower Ear Shape
-カラー①=Color 1
 上腕=Arm
 胸上下角度=Angle
 鼻全体前後=Projection
@@ -110,7 +175,6 @@
 エクステ=Extensions
 パンスト=Pantyhose
 胸の左右位置=Spacing
-カラー②=Color 2
 頬下部上下=Lower Height
 前髪の設定=Bangs
 アイシャドウ=Eye Shadow
@@ -118,14 +182,12 @@
 全体=Overall
 スロットをコピー=Copy Slot
 サンプル=Sample
-SE音量=SFX vol
 顎先上下=Chin Height
 目=Eye
 顔上部前後=Upper Depth
 腰=Waist
 コーデ=Clothing
 まぶた形状２=eyelid shape 2
-移動=Move
 顎横幅=Jaw Width
 読込み=Load
 目の縦幅=Eye Height
@@ -163,7 +225,6 @@ SE音量=SFX vol
 着衣=Clothed
 オプション=Options
 上半身=Upper body
-カラー③=Color 3
 システム=System
 鼻全体横幅=Nose Size
 耳角度Z軸=Ear Rotation
@@ -190,7 +251,6 @@ SE音量=SFX vol
 胸の左右開き=Direction
 顎下部上下=Neck Droop
 乳首=Nipples
-タイプ01=Type 01
 左手首=L wrist
 画像=Image
 色相=Hue
@@ -268,10 +328,8 @@ SE音量=SFX vol
 色合い=Hue
 鮮やかさ=Saturation
 明るさ=Brightness
-調整02=Adjustment 02
 毛先カラー=Hair color
 柄設定=Pattern setting
-ペイント02=Paint 02
 コピー先を選択=Select copy destination
 可憐さ=Pretty
 質感=Texture
@@ -279,34 +337,18 @@ SE音量=SFX vol
 根本と毛先の色を自動設定=Auto set highlights
 ツヤ=gloss
 眉の位置Y=position Y
-調整05=Adjustment 05
-調整04=Adjustment 04
-調整03=Adjustment 03
-回転Z=Rotation Z
-回転Y=Rotation Y
-回転X=Rotation X
-移動Z=Move Z
-移動Y=Move Y
-移動X=Move X
-ツボミ=Bud
-カラー03=Color 03
-カラー02=Color 02
 キャラカードA=Character card A
 キャラカードB=Character card B
 判断力=judgement
 眉のタイプ=Eyebrow type
 ホクロの高さ=Mole height
 幅=width
-位置X=Position X
 調整①を上下反転=Flip adjustment ① upside down
 目のハイライト=Eye highlights
-ペイント01=Paint 01
-調整①=Adjustment ①
 高さ=height
 操作軸=Operation axis
 快楽=pleasure
 衣装カード=Costume card
-調整②=Adjustment ②
 ホクロのタイプ=Mole type
 右肘=R elbow
 配置=Arrangement
@@ -319,7 +361,6 @@ SE音量=SFX vol
 女の子に求める願望（最大３つ）=Desires for girls (up to 3)
 状態設定=Settings
 左右の設定を合わせる=Adjust left and right
-X位置=X position
 消去=Erase
 ライト強さ=Strength
 左肘=L elbow
@@ -345,8 +386,6 @@ X位置=X position
 瞳の設定=Eye settings
 まつ毛のタイプ=Eyelash type
 高さ調整=Height adjustment
-位置Y=Position Y
-Y位置=Y position
 肌の種類=Skin type
 目周り=Around the eyes
 掛け合わせる=Multiply
@@ -359,9 +398,7 @@ Y位置=Y position
 やさしさ=kindness
 ふたなり=Futanari
 保存・消去=Save / Delete
-スロット=slot
 調整値のコピー=Copy adjustment values
-カラー01=Color 01
 右胸=R chest
 ライト向きX=Direct X
 眉の位置X=position X
@@ -392,10 +429,8 @@ Y位置=Y position
 状態設定表示=Status setting display
 全て初期化=Reset All
 スライダーホイール操作=Slider wheel operation
-カラー04=Color 04
 下腹部=Lower abdomen
 左右の親を変更=Change left and right parent
-BGM音量=BGM vol
 融合=fusion
 影の範囲=Shadow range
 無邪気=Innocent
@@ -403,15 +438,6 @@ BGM音量=BGM vol
 眉の傾き=Tilt
 髪の調整をまとめて行う=Make hair adjustments together
 エクステの設定=Extension settings
-揺らさない=Stiffen
-機械的で無感情=Mechanical and emotionless
-おおらかでやさしい=Open and gentle
-意識が高く自信家=Aware and confident
-自分勝手でわがまま=Selfish and selfish
-無気力でものぐさ=Even lethargy
-ポジティブで明るい=Positive and bright
-01 なし=01 None
-タイプ０２=Type 02
 前面フレーム=Foreground
 口の開き=Mouth Openness
 目の開き=Eye Openness
@@ -419,7 +445,6 @@ BGM音量=BGM vol
 背面フレーム=Background
 戻る=Back
 撮影メニュー=Shooting menu
-タイプ０１=Type 01
 ワンピース=One-Piece
 Tシャツ=T-shirt
 キャミソールA=Camisole A
@@ -500,14 +525,8 @@ Tシャツ=T-shirt
 横分け=Side by side
 姫カット=Princess cut
 切り揃えショート=Trim short
-調整06=Adjustment 06
-調整07=Adjustment 07
 左クリックで適応、右クリックで削除=Adapt with left click, delete with right click
 本当に上書きしますか？=Really Overwrite This?
-タイプ2=Type 2
-タイプ5=Type 5
-タイプ3=Type 3
-タイプ4=Type 4
 ランジェリーライン=Lingerie line
 ワンピースライン２=One piece line 2
 ビキニライン=Bikini line
@@ -516,23 +535,10 @@ Tシャツ=T-shirt
 マイクロライン２=Microline 2
 スクール水着ライン=School swimsuit line
 レーシングライン=Racing line
-タイプ４=Type 4
-タイプ１=Type 1
-タイプ２=Type 2
-タイプ３=Type 3
 スレンダー=Slender
 普通=Normal
 ムキムキ=Muscular
 ポッチャリ=Chubby
-タイプ1=Type 1
-タイプ16=Type 16
-タイプ17=Type 17
-タイプ15=Type 15
-タイプ14=Type 14
-タイプ13=Type 13
-タイプ11=Type 11
-タイプ12=Type 12
-タイプ10=Type 10
 左頬=L Side of Face
 右頬=R Side of Face
 おでこ=Forehead
@@ -554,7 +560,6 @@ Tシャツ=T-shirt
 ギンガムチェック=Gingham Checkered
 横線=Horizontal Lines
 ソックス=socks
-カラー1=Color 1
 ほうれい線=Holy wire
 目元シワ=Wrinkles
 全体シワ2=Whole wrinkle 2
@@ -573,22 +578,10 @@ Tシャツ=T-shirt
 形状補助1=Shape aid 1
 形状補助2=Shape assistance 2
 形状補助3=Shape aid 3
-タイプ03=Type 03
-タイプ09=Type 09
-タイプ06=Type 06
-タイプ05=Type 05
-タイプ08=Type 08
-タイプ04=Type 04
-タイプ07=Type 07
 ホクロ=Mole
 ホクロ２=Mole 2
 ソバカス=Buckwheat
 ソバカス２=Buckwheat 2
-タイプ6=Type 6
-タイプ7=Type 7
-タイプ8=Type 8
-タイプ9=Type 9
-タイプ18=Type 18
 十字=cross
 五十字=Five crosses
 ワンピースライン１=One-piece line 1
@@ -637,19 +630,7 @@ Iライン=I line
 軍手=Work gloves
 ドクロ=Skull
 花柄=Flowers
-ヘアピン=Hairpin
-うさ耳リボン=Rabbit ear ribbon
-スター=Star
-スクエア=Square Glasses
-カラー2=Color 2
-カラー3=Color 3
-ピエロの鼻=Clown Nose
-コアキューブ=Core cube
-トートバッグ=Tote bag
-シンプルリング=Simple ring
-ウエストバッグ=Waist bag
-リュック=Ruck sack
-腕章A=Armband A
-シンプル指輪=Simple ring
-ミサンガA左=Misanga A left
-ミサンガA右=Misanga A right
+右の口元=Right mouth
+左の目元=Left eye
+そばかす=Freckle
+額中央=Front center
