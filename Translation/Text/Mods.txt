@@ -1,0 +1,11 @@
+//Koikatsu Pubes
+三角=Triangle
+小盾=Small Shield
+薄い=Wispy
+太縦長=Long And Wide
+横長=Broad
+大縦長=Wide And Wispy
+細縦長=Long And Narrow
+そり跡=Pubic Stubble
+薄縦長=Long And Wispy
+大盾=Large Shield

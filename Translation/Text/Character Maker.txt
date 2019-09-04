@@ -174,13 +174,6 @@
 //pattern also used in Color fields
 種類=Pattern
 カラー=Color
-//color 1,2,3 also used in Color fields
-カラー1=Color 1
-カラー2=Color 2
-カラー3=Color 3
-カラー①=Color 1
-カラー②=Color 2
-カラー③=Color 3
 親=Parent
 調整=Adjust
 配置=Arrangement
@@ -194,10 +187,6 @@
 //------------------------------------------------------------
 // Color fields
 //------------------------------------------------------------
-カラー01=Color 01
-カラー02=Color 02
-カラー03=Color 03
-カラー04=Color 04
 ツヤ=Gloss
 質感=Texture
 カラーサンプル=Color sample
@@ -213,14 +202,6 @@
 //------------------------------------------------------------
 // Adjust/Arrange/Parent and other positioning fields
 //------------------------------------------------------------
-調整01=Adjustment 01
-調整02=Adjustment 02
-調整03=Adjustment 03
-調整04=Adjustment 04
-調整05=Adjustment 05
-調整06=Adjustment 06
-調整07=Adjustment 07
-
 //eye
 幅=Width
 高さ=Height
@@ -269,44 +250,6 @@ Y位置=Y Position
 明るさ=Brightness
 //Sample#
 左クリックで適用=Left-Click To Apply
-
-//------------------------------------------------------------
-// Select Options
-//------------------------------------------------------------
-なし=None
-タイプ01=Type 01
-タイプ02=Type 02
-タイプ03=Type 03
-タイプ04=Type 04
-タイプ05=Type 05
-タイプ06=Type 06
-タイプ07=Type 07
-タイプ08=Type 08
-タイプ09=Type 09
-タイプ10=Type 10
-タイプ1=Type 1
-タイプ2=Type 2
-タイプ3=Type 3
-タイプ4=Type 4
-タイプ5=Type 5
-タイプ6=Type 6
-タイプ7=Type 7
-タイプ8=Type 8
-タイプ9=Type 9
-タイプ1=Type 1
-タイプ2=Type 2
-タイプ3=Type 3
-タイプ4=Type 4
-タイプ11=Type 11
-タイプ12=Type 12
-タイプ13=Type 13
-タイプ14=Type 14
-タイプ15=Type 15
-タイプ16=Type 16
-タイプ17=Type 17
-タイプ18=Type 18
-タイプ19=Type 19
-タイプ20=Type 20
 
 //------------------------------------------------------------
 // Paint and Pattern
@@ -531,9 +474,6 @@ SE音量=SFX vol
 
 //Type#
 //Sample#
-
-タイプ０１=Type 01
-タイプ０２=Type 02
 
 強さ=Intensity
 ほうれい線=Smile line
@@ -1047,6 +987,7 @@ Tシャツ=T-shirt
 //************************************************************
 // Unsorted
 //************************************************************
+なし=None
 コピー=Copy
 終了=End
 スロットをコピー=Copy Slot
