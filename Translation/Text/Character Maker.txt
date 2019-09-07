@@ -14,12 +14,6 @@
 //************************************************************
 
 //------------------------------------------------------------
-// Chara Names
-//------------------------------------------------------------
-ツボミ=Tsubomi
-商人=Merchant
-
-//------------------------------------------------------------
 // Personalities
 //------------------------------------------------------------
 機械的で無感情=Mechanical, Emotionless
@@ -32,24 +26,24 @@
 //------------------------------------------------------------
 // Desires
 //------------------------------------------------------------
-やさしさ=kindness
-快楽=pleasure
-小悪魔=impish
-刺激=stimulation
-礼儀=courtesy
-禁断=forbidden
-落ち着き=calmness
-お金=money
-知性=intelligence
-信念=belief
-忠誠=loyalty
-持久力=endurance
-可憐さ=pretty
-無邪気=innocent
-不完全=imperfect
-理解力=understanding
-判断力=judgement
-癒やし=soothing
+やさしさ=Kindness
+快楽=Pleasure
+小悪魔=Impish
+刺激=Stimulation
+礼儀=Courtesy
+禁断=Forbidden
+落ち着き=Calmness
+お金=Money
+知性=Intelligence
+信念=Belief
+忠誠=Loyalty
+持久力=Endurance
+可憐さ=Pretty
+無邪気=Innocent
+不完全=Imperfect
+理解力=Understanding
+判断力=Judgement
+癒やし=Soothing
 
 //------------------------------------------------------------
 // use # to search for instances of the following "\\Sample#"
@@ -58,10 +52,9 @@
 タイプ=Type
 名前=Name
 コーデ=Clothing
-瞳の設定=Eye settings
-キャラ設定=Character setting
+瞳の設定=Eye Settings
+キャラ設定=Character Setting
 ハート=Heart
-スター=Star
 肌=Skin
 顔=Face
 耳=Ears
@@ -83,12 +76,12 @@
 //------------------------------------------------------------
 // Placement (Paint and Accessories) Arrangement and Parent Tabs
 //------------------------------------------------------------
-//paint and accessories
+//Paint and Accessories
 左肩=L Should
 右肩=R Should
 
 //paint face
-//Breast#
+//Chest#
 左頬=L Side of Face
 右頬=R Side of Face
 おでこ=Forehead
@@ -99,10 +92,10 @@
 //paint body
 腹・股間=Midriff
 背中・うなじ=Between Shoulder Blades
-右脚裏=Back Of Right Leg
-右ふくらはぎ=Back Of Right Calf
-左脚裏=Back Of Left Leg
-左ふくらはぎ=Back Of Left Calf
+右脚裏=Back of Right Leg
+右ふくらはぎ=Back of Right Calf
+左脚裏=Back of Left Leg
+左ふくらはぎ=Back of Left Calf
 右脚=Right Leg
 左脚=Left Leg
 右スネ=Right Shin
@@ -111,32 +104,32 @@
 左足=Left Foot
 左尻=Left Buttcheek
 右尻=Right Buttcheek
-左腕=Left arm
-右腕=Right arm
+左腕=Left Arm
+右腕=Right Arm
 
 //accessories
 ポニー=Ponytail
-ツイン左=L. Twin
-ツイン右=R. Twin
+ツイン左=L Twin
+ツイン右=R Twin
 ヘアピン左=L Hairpin
 ヘアピン右=R Hairpin
 帽子=Hat
 額=Brow
 頭中心=Center of Head
 //Face#
-左耳=L ear
-右耳=R ear
+左耳=L Ear
+右耳=R Ear
 //Eyewear#
 //Nose#
 //Mouth#
 //Neck#
 胸上=Throat
 胸上中央=Center of Neck
-左胸=L chest
-右胸=R chest
+左胸=L Chest
+右胸=R Chest
 背中中央=Mid Back
-背中左=L. Back
-背中右=R. Back
+背中左=L Back
+背中右=R Back
 //Waist#
 腰前=Front Waist
 腰後ろ=Back Waist
@@ -146,27 +139,27 @@
 右太もも=R Thigh
 左ひざ=L Knee
 右ひざ=R Knee
-左足首=L ankle
-右足首=R ankle
+左足首=L Ankle
+右足首=R Ankle
 かかと左=L Heel
 かかと右=R Heel
-左肘=L elbow
-右肘=R elbow
+左肘=L Elbow
+右肘=R Elbow
 左上腕=L up arm
 右上腕=R up arm
-左手首=L wrist
-右手首=R wrist
+左手首=L Wrist
+右手首=R Wrist
 //L Hand#
 //R Hand#
-左人差指=L index
-右人差指=R index
-左中指=L middle
-右中指=R middle
-左薬指=L ring
-右薬指=R ring
-下腹部①=Low ab1
-下腹部②=Low ab2
-下腹部③=Low ab3
+左人差指=L Index
+右人差指=R Index
+左中指=L Middle
+右中指=R Middle
+左薬指=L Ring
+右薬指=R Ring
+下腹部①=Low Ab1
+下腹部②=Low Ab2
+下腹部③=Low Ab3
 
 //------------------------------------------------------------
 // Tabs
@@ -189,15 +182,15 @@
 //------------------------------------------------------------
 ツヤ=Gloss
 質感=Texture
-カラーサンプル=Color sample
-柄設定=Pattern setting
+カラーサンプル=Color Sample
+柄設定=Pattern Setting
 
 //------------------------------------------------------------
 // Misc fields
 //------------------------------------------------------------
-破れ具合=Degree of tear
-オプションパーツ01を表示=Display option part 01
-オプションパーツ02を表示=Display option part 02
+破れ具合=Degree of Tear
+オプションパーツ01を表示=Display Option Part 01
+オプションパーツ02を表示=Display Option Part 02
 
 //------------------------------------------------------------
 // Adjust/Arrange/Parent and other positioning fields
@@ -212,7 +205,7 @@ Y位置=Y Position
 位置X=Position X
 位置Y=Position Y
 
-位置=Trans
+位置=Tran
 回転=Rot
 拡縮=Scale
 
@@ -220,7 +213,7 @@ Y位置=Y Position
 回転量=Step
 拡縮量=Step
 
-操作軸=Op axis
+操作軸=Op Axis
 移動=Mov
 速度=Spd
 大きさ=Size
@@ -236,7 +229,7 @@ Y位置=Y Position
 回転Z=Rotation Z
 
 全て初期化=Reset All
-初期親=Initial parent
+初期親=Initial Parent
 
 //------------------------------------------------------------
 // Color Picker
@@ -249,7 +242,7 @@ Y位置=Y Position
 鮮やかさ=Saturation
 明るさ=Brightness
 //Sample#
-左クリックで適用=Left-Click To Apply
+左クリックで適用=Left-Click to Apply
 
 //------------------------------------------------------------
 // Paint and Pattern
@@ -261,18 +254,18 @@ Y位置=Y Position
 //------------------------------------------------------------
 // Paint
 //------------------------------------------------------------
-//Star#
+星=Star
 三日月=Crescent Moon
 水滴=Water Droplet
-絆創膏=Bandage plaster
-十字=cross
-五十字=Five crosses
+絆創膏=Bandage Plaster
+十字=Cross
+五十字=Five Crosses
 蝶=Butterfly
 クモ=Spider
 クモの巣=Spiderweb
 禁止=Prohibited
 陰陽=Yin-Yang
-キスマーク=Kiss mark
+キスマーク=Kiss Mark
 瞳=Pupil
 
 //------------------------------------------------------------
@@ -316,10 +309,10 @@ Y位置=Y Position
 丸=Circle
 ペイズリー=Paisley
 エイシェント=Ancient
-南国リーフ=Tropical leaf
+南国リーフ=Tropical Leaf
 ハイビスカス=Hibiscus
 スポーツ=Sports
-ストライプ細=Striped thin
+ストライプ細=Striped Thin
 
 //************************************************************
 // Main Menues (Left side)
@@ -348,13 +341,13 @@ Y位置=Y Position
 ホクロの設定=Moles
 
 目周り=Eye Area
-左右の設定を合わせる=Adjust left and right
+左右の設定を合わせる=Adjust Left and Right
 左目=Left Eye
 右目=Right Eye
-//Eye settings#
-目のハイライト=Eye highlights
-眉のタイプ=Eyebrow type
-まつ毛のタイプ=Eyelash type
+//Eye Settings#
+目のハイライト=Eye Highlights
+眉のタイプ=Eyebrow Type
+まつ毛のタイプ=Eyelash Type
 
 化粧=Makeup
 アイシャドウ=Eye Shadow
@@ -367,18 +360,18 @@ Y位置=Y Position
 ボディ=Body
 
 体型=Body Shape
-//Breast#
-上半身=Upper body
-下半身=Lower body
+//Chest#
+上半身=Upper Body
+下半身=Lower Body
 //Arm#
 //Leg#
 
 //Skin#
 
-肌の種類=Skin type
+肌の種類=Skin Type
 日焼け跡=Suntan
 乳首=Nipples
-アンダーヘア=Pubic hair
+アンダーヘア=Pubic Hair
 爪の色=Nail Color
 
 //------------------------------------------------------------
@@ -386,20 +379,20 @@ Y位置=Y Position
 //------------------------------------------------------------
 ヘアー=Hair
 
-前髪と後ろ髪の色を統一=Match bangs and back
-根本と毛先の色を自動設定=Auto set highlights
+前髪と後ろ髪の色を統一=Match Bangs and Back
+根本と毛先の色を自動設定=Auto Set Highlights
 
 後ろ髪=Back Hair
-後ろ髪の設定=Back Hair settings
+後ろ髪の設定=Back Hair Settings
 
 前髪=Bangs
-前髪の設定=Bangs settings
+前髪の設定=Bangs Settings
 
 横髪=Side Hair
-横髪の設定=Side Hair settings
+横髪の設定=Side Hair Settings
 
 エクステ=Extensions
-エクステの設定=Extension settings
+エクステの設定=Extension Settings
 
 描画設定=Graphics
 
@@ -429,7 +422,7 @@ Y位置=Y Position
 //Face#
 //Neck#
 //Shoulder#
-//Breast#
+//Chest#
 //Waist#
 背中=Back
 //Arm#
@@ -443,18 +436,18 @@ Y位置=Y Position
 //------------------------------------------------------------
 オプション=Options
 
-//Character setting#
+//Character Setting#
 名前・誕生日=Name / Birthday
 //Type#
 願望=Desire
 
-キャラカード=Character card
+キャラカード=Character Card
 保存・消去=Save / Delete
 読込み=Load
 
 システム=System
-状態設定表示=Status setting display
-スライダーホイール操作=Slider wheel operation
+状態設定表示=Status Setting Display
+スライダーホイール操作=Slider Wheel Operation
 
 コンフィグ=Config
 注視点の表示=Show Crosshair
@@ -476,24 +469,24 @@ SE音量=SFX vol
 //Sample#
 
 強さ=Intensity
-ほうれい線=Smile line
-目元シワ=Eye wrinkles
-口元シワ=Mouth wrinkles
-全体シワ1=Whole wrinkle 1
-全体シワ2=Whole wrinkle 2
-頬コケ=Cheek moss
-頬盛り=Cheek lines
-目元補助1=Eye assistance 1
-目元補助2=Eye assistance 2
-目元補助3=Eye assistance 3
-目元補助4=Eye assistance 4
-目元補助5=Eye assistance 5
-目元補助6=Eye assistance 6
-目元補助7=Eye assistance 7
-唇強調=Lip enhancement
-形状補助1=Shape assistance 1
-形状補助2=Shape assistance 2
-形状補助3=Shape assistance 3
+ほうれい線=Smile Line
+目元シワ=Eye Wrinkles
+口元シワ=Mouth Wrinkles
+全体シワ1=Whole Wrinkle 1
+全体シワ2=Whole Wrinkle 2
+頬コケ=Cheek Moss
+頬盛り=Cheek Lines
+目元補助1=Eye Assistance 1
+目元補助2=Eye Assistance 2
+目元補助3=Eye Assistance 3
+目元補助4=Eye Assistance 4
+目元補助5=Eye Assistance 5
+目元補助6=Eye Assistance 6
+目元補助7=Eye Assistance 7
+唇強調=Lip Enhancement
+形状補助1=Shape Assistance 1
+形状補助2=Shape Assistance 2
+形状補助3=Shape Assistance 3
 
 //------------------------------------------------------------
 // Face -> Overall
@@ -543,14 +536,14 @@ SE音量=SFX vol
 目前後=Eye Depth
 目の横幅=Eye Width
 目上下=Eye Open
-目の角度Z軸=Eye Angle z
-目の角度Y軸=Eye Angle y
+目の角度Z軸=Eye Angle Z
+目の角度Y軸=Eye Angle Y
 目尻上下位置=Outer Height
 目尻左右位置=Outer Dist
 目頭上下位置=Inner Height
 目頭左右位置=Inner Dist
-まぶた形状１=Eyelid shape 1
-まぶた形状２=Eyelid shape 2
+まぶた形状１=Eyelid Shape 1
+まぶた形状２=Eyelid Shape 2
 
 //------------------------------------------------------------
 // Face -> Nose
@@ -588,8 +581,8 @@ SE音量=SFX vol
 耳サイズ=Ear Size
 耳角度Y軸=Ear Angle
 耳角度Z軸=Ear Rotation
-耳上部形状=Upper Ear Shape
-耳下部形状=Lower Ear Shape
+耳上部形状=Up Ear Shape
+耳下部形状=Low Ear Shape
 
 //------------------------------------------------------------
 // Face -> Moles
@@ -599,27 +592,27 @@ SE音量=SFX vol
 ソバカス=Buckwheat
 ソバカス２=Buckwheat 2
 
-左の口元=Left mouth
-右の口元=Right mouth
-左の口上=Left mouth above
-右の口上=Right mouth above
-左の目元=Left eye
-右の目元=Right eye
-額中央=Front center
+左の口元=Left Mouth
+右の口元=Right Mouth
+左の口上=Left Mouth Above
+右の口上=Right Mouth Above
+左の目元=Left Eye
+右の目元=Right Eye
+額中央=Front Center
 そばかす=Freckle
-ホクロの幅=Mole width
-ホクロの高さ=Mole height
-ホクロの位置X=Mole position X
-ホクロの位置Y=Mole position Y
+ホクロの幅=Mole Width
+ホクロの高さ=Mole Height
+ホクロの位置X=Mole Position X
+ホクロの位置Y=Mole Position Y
 
 //------------------------------------------------------------
 // Face -> Left/Right Eye
 //------------------------------------------------------------
 白目=Whites
 瞳の種類=Type
-//Eye settings#
-瞳孔種類=Pupil type
-瞳孔設定=Pupil setting
+//Eye Settings#
+瞳孔種類=Pupil Type
+瞳孔設定=Pupil Setting
 
 発光=Light Emission
 
@@ -627,8 +620,8 @@ SE音量=SFX vol
 // Face -> Eye Settings
 //------------------------------------------------------------
 設定=Config
-高さ調整=Height adjustment
-影の範囲=Shadow range
+高さ調整=Height Adjustment
+影の範囲=Shadow Range
 
 //------------------------------------------------------------
 // Body -> Overall
@@ -673,7 +666,7 @@ SE音量=SFX vol
 腰下幅=Hips Width
 腰下奥=Hips Thickness
 尻=Butt
-尻角度=Butt angle
+尻角度=Butt Angle
 
 //------------------------------------------------------------
 // Body -> Arm
@@ -703,20 +696,20 @@ SE音量=SFX vol
 //------------------------------------------------------------
 // Body -> Suntan
 //------------------------------------------------------------
-ワンピースライン１=One-piece line 1
-ワンピースライン２=One piece line 2
-レーシングライン=Racing line
-スクール水着ライン=School swimsuit line
-ビキニライン=Bikini line
-マイクロライン１=Microline 1
-マイクロライン２=Microline 2
-チューブトップライン=Tube top line
-ランジェリーライン=Lingerie line
-キャミソールライン=Camisole line
-スポーツライン=Sports line
-体操着ライン=Gymnastics wear line
-ナチュラルライン1=Natural line 1
-ナチュラルライン2=Natural line 2
+ワンピースライン１=One-piece Line 1
+ワンピースライン２=One piece Line 2
+レーシングライン=Racing Line
+スクール水着ライン=School Swimsuit Line
+ビキニライン=Bikini Line
+マイクロライン１=Micro Line 1
+マイクロライン２=Micro Line 2
+チューブトップライン=Tube Top Line
+ランジェリーライン=Lingerie Line
+キャミソールライン=Camisole Line
+スポーツライン=Sports Line
+体操着ライン=Gymnastics Wear Line
+ナチュラルライン1=Natural Line 1
+ナチュラルライン2=Natural Line 2
 
 //------------------------------------------------------------
 // Body -> Public Hair
@@ -724,13 +717,13 @@ SE音量=SFX vol
 四角=Rectangular
 円形=Round
 薄小=Thin
-薄四角=Thin square
-薄円形=Thin circle
-小円形=Small circle
-大三角=Large triangle
+薄四角=Thin Square
+薄円形=Thin Circle
+小円形=Small Circle
+大三角=Large Triangle
 小三角=Small Triangle
-Iライン=I line
-細Iライン=Fine I line
+Iライン=I Line
+細Iライン=Fine I Line
 長菱=Chonbishi
 //Heart#
 まばら=Sparse
@@ -742,59 +735,59 @@ Iライン=I line
 //Both
 ショートヘア=Short Hair
 ウェーブロング=Wave Long
-外はねミディアム=Medium outside
+外はねミディアム=Medium Outside
 外はねショート=Short, Swept Out
 //Back
-ストレートロング=Straight long
-くせっけショート=Kakeke short
-ボリュームポニー=Volume pony
+ストレートロング=Straight Long
+くせっけショート=Short, Curled
+ボリュームポニー=Volume Pony
 細ツインテール=Thin Twintails
-セミロング=Semi-long
+セミロング=Semi-Long
 ぱっつんロング=Pad Long
-ツイン前おさげ=Twin front pigtails
-後ろおさげ=Pigtails behind
+ツイン前おさげ=Twin Front Pigtails
+後ろおさげ=Pigtails Behind
 はねっけロング=Hanekke Long
-ツインロール=Twin roll
+ツインロール=Twin Roll
 ぱっつんミディアム=Pattsu Medium
-横おさげ=Side pigtails
+横おさげ=Side Pigtails
 //Bangs
 ロングヘア=Long Hair
 くせっ毛ショート=Short, Curled
-横分け=Side by side
+横分け=Side by Side
 エムバング=Embang
 梳き髪=Combed Hair
-姫カット=Princess cut
-でこだし中わけ=Breaking out
-片目隠し=One blindfold
+姫カット=Princess Cut
+でこだし中わけ=Breaking Out
+片目隠し=One Blindfold
 はねっ毛=Lashes
 アシンメトリ=Asymmetry
 ぱっつんミデイアム=Patsun Medium
-切り揃えショート=Trim short
+切り揃えショート=Trim Short
 //Side
-太もみあげ=Thick sideburns
-ロングもみあげ=Long sideburns
-細もみあげ=Fine sideburns
-カール=curl
-ポニーおくれ毛=Pony combing hair
+太もみあげ=Thick Sideburns
+ロングもみあげ=Long Sideburns
+細もみあげ=Fine Sideburns
+カール=Curl
+ポニーおくれ毛=Pony Combing Hair
 三つ編み=Braided
-細三つ編み=Thin braid
+細三つ編み=Thin Braid
 //Extentions
-横あほ毛=Horizontal hair
-2本あほ毛=2 ahoge
+横あほ毛=Horizontal Hair
+2本あほ毛=2 Ahoge
 上向きあほ毛=Upwards
-前あほ毛=Maho
+前あほ毛=Ahoge
 お団子=Dumpling
-編みカチューシャ=Knitted headband
-後ろ編み込み=Back weaving
+編みカチューシャ=Braided Headband
+後ろ編み込み=Back Weave
 
 髪設定=Hair setting
 滑らかさ=Smoothness
-基本カラー=Basic color
-根本カラー=Root color
-毛先カラー=Tips color
-ツヤカラー=Glossy color
+基本カラー=Basic Color
+根本カラー=Root Color
+毛先カラー=Tips Color
+ツヤカラー=Glossy Color
 
-装飾設定=Decoration settings
+装飾設定=Decoration Settings
 
 //------------------------------------------------------------
 // Clothing -> Tops
@@ -808,28 +801,28 @@ Tシャツ=T-shirt
 //------------------------------------------------------------
 ショートパンツ=Short Pants
 ホットパンツ=Hotpants
-プリーツスカート=Pleated skirt
+プリーツスカート=Pleated Skirt
 
 //------------------------------------------------------------
 // Clothing -> Inner Top/Bottom
 //------------------------------------------------------------
-ノーマル=normal
-リボンビキニ=Ribbon bikini
+ノーマル=Normal
+リボンビキニ=Ribbon Bikini
 
 //------------------------------------------------------------
 // Clothing -> Gloves
 //------------------------------------------------------------
-軍手=Work gloves
+軍手=Work Gloves
 
 //------------------------------------------------------------
 // Clothing -> Pantyhose
 //------------------------------------------------------------
-ストッキング=stockings
+ストッキング=Stockings
 
 //------------------------------------------------------------
 // Clothing -> Socks
 //------------------------------------------------------------
-ソックス=socks
+ソックス=Socks
 
 //------------------------------------------------------------
 // Clothing -> Shoes
@@ -841,10 +834,10 @@ Tシャツ=T-shirt
 //------------------------------------------------------------
 //Head
 ヘアピン=Hairpin
-うさ耳リボン=Rabbit ear ribbon
+うさ耳リボン=Rabbit Ear Ribbon
 
 //Ears
-//Star#
+スター=Star
 
 //Eyes
 スクエア=Square
@@ -910,7 +903,7 @@ Tシャツ=T-shirt
 体=Body
 髪=Hair
 //Clothing#
-//Character setting#
+//Character Setting#
 
 //------------------------------------------------------------
 // Options -> Search
@@ -973,8 +966,8 @@ Tシャツ=T-shirt
 //************************************************************
 // Prompts
 //************************************************************
-本当に上書きしますか？=Really Overwrite This?
-本当に削除しますか？=Really Delete This?
+本当に上書きしますか？=Are you sure you want to overwrite this?
+本当に削除しますか？=Are you sure you want to delete this?
 終了しますか？=Do you want to exit?
 
 確定=Confirm
@@ -999,27 +992,27 @@ Tシャツ=T-shirt
 服読込み=Load Clothing
 全て読込み=Load All
 明度=Brightness
-コピー先を選択=Select copy destination
-キャラカードA=Character card A
-キャラカードB=Character card B
-調整①を上下反転=Flip adjustment ① upside down
-調整②を上下反転=Flip adjustment ② upside down
-調整①を左右反転=Flip adjustment ① horizontally
-調整②を左右反転=Reverse adjustment ②
+コピー先を選択=Select Copy Destination
+キャラカードA=Character Card A
+キャラカードB=Character Card B
+調整①を上下反転=Flip Adjustment ① Upside Down
+調整②を上下反転=Flip Adjustment ② Upside Down
+調整①を左右反転=Flip Adjustment ① Horizontally
+調整②を左右反転=Flip Adjustment ② Horizontally
 調整①=Adjustment ①
 調整②=Adjustment ②
-衣装カード=Costume card
-ホクロのタイプ=Mole type
-左クリックで現在のカラーを登録=Left click to register current color
-コピー元を選択=Select copy source
-装飾読込み=Decorative reading
+衣装カード=Costume Card
+ホクロのタイプ=Mole Type
+左クリックで現在のカラーを登録=Left Click to Register Current Color
+コピー元を選択=Select Copy Source
+装飾読込み=Decorative Reading
 掛け合わせる=Multiply
 ふたなり=Futanari
-調整値のコピー=Copy adjustment values
-肌のタイプ=Skin type
-コピーする=make a copy
-下腹部=Lower abdomen
-左右の親を変更=Change left and right parent
-融合=fusion
-髪の調整をまとめて行う=Make hair adjustments together
+調整値のコピー=Copy Adjustment Values
+肌のタイプ=Skin Type
+コピーする=Make a Copy
+下腹部=Lower Abdomen
+左右の親を変更=Change Left and Right Parent
+融合=Fusion
+髪の調整をまとめて行う=Make Hair Adjustments Together
 
