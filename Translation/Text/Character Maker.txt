@@ -535,7 +535,7 @@ SE音量=SFX vol
 目横位置=Eye Spacing
 目前後=Eye Depth
 目の横幅=Eye Width
-目上下=Eye Open
+目上下=Eye Vertical
 目の角度Z軸=Eye Angle Z
 目の角度Y軸=Eye Angle Y
 目尻上下位置=Outer Height
@@ -560,8 +560,8 @@ SE音量=SFX vol
 小鼻前後=Nostril Length
 小鼻角度X軸=Nostril Inner Width
 小鼻角度Z軸=Nostril Outer Width
-鼻先高さ=Tip Height
-鼻先角度X軸=Tip Length
+鼻先高さ=Tip Length
+鼻先角度X軸=Tip Height
 鼻先サイズ=Tip Size
 
 //------------------------------------------------------------
