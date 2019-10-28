@@ -52,7 +52,7 @@ SSR（反射）=SSR (reflection)
 テキストウィンドウオプション=Show option buttons
 
 ● フィールド=● Field
-操作ガイド表示=Show basic help
+操作ガイド表示=Show guide
 ストーリーヘルプ表示=Show story help
 ミニマップ表示=Show mini map
 中央ポインター表示=Center pointer display

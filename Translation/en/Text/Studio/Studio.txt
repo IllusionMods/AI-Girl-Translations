@@ -1701,8 +1701,8 @@ r:"^スロ([0-9][0-9])$"=r:"Slot $1"
 FK=FK
 IK=IK
 視線=Gaze
-首操作=Head Operation
-眉・目・口=Brows / Eyes / Mouth
+首操作=Neck
+眉・目・口=Face
 手=Hands
 ポーズ=Pose
 
