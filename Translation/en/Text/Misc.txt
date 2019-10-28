@@ -1,0 +1,17 @@
+１人目=1st Person
+２人目=2nd Person
+３人目=3rd Person
+４人目=4th Person
+中に出す=Cum Inside
+同時に=Climax Simultaneously
+外に出す=Cum Outside
+アドバイス=Advice
+アドバイスする=Advise
+データ端末=Data Terminal
+
+//Actions
+商人と話す=Talk to Trader
+明かりをつける=Turn On Light
+中を探る=Search Inside
+調べる=Inspect
+寝る=Sleep

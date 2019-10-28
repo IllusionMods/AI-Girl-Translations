@@ -1,0 +1,87 @@
+//Looting Regex
+rs:"^(<color[%#0-9A-F]+>)([\S\s]+)(<\/color>)([\sx0-9]+を入手しました。)$"=$1 $2 $3 $4
+//r:"^([\sx0-9]+)を入手しました。$"=$1
+ x 1 を入手しました。= x 1
+ x 2 を入手しました。= x 2
+ x 3 を入手しました。= x 3
+ x 4 を入手しました。= x 4
+ x 5 を入手しました。= x 5
+
+//Crafting
+必要素材=Materials Req.
+装備クラフト=Equipment Crafting
+素材クラフト=Material Crafting
+レシピ1=Recipe 1
+レシピ2=Recipe 2
+レシピ3=Recipe 3
+レシピ4=Recipe 4
+廃材=Scrap
+飲み水=Drinking Water
+流木=Driftwood
+石材=Stone
+ガラス片=Piece of Glass
+綿=Cotton
+布=Cloth
+つる=Vine
+ロープ=Rope
+丈夫な布=Durable Cloth
+油=Oil
+樹脂=Resin
+ゴム=Rubber
+シリコン=Silicon
+破れた革=Torn Leather
+丈夫な革=Durable Leather
+木材=Wood
+角材=Square Wood
+木の板=Wooden Board
+炭材=Charcoal
+燃料=Fuel
+カーボン=Carbon
+鉄材=Iron
+金具=Metal Fittings
+プレート=Plate
+パイプ=Pipe
+合金材=Alloy Material
+魚団子=Fish Dumpling
+野花の種=Wildflower Seeds
+綿花の種=Cotton Seeds
+ガーゼ=Gauze
+濡れタオル=Wet Towel
+折れた釣り竿=Broken Fishing Rod
+釣り竿=Fishing Rod
+ボロボロの手袋=Tattered Gloves
+グローブ=Gloves
+頑丈なグローブ=Sturdy Gloves
+壊れた虫網=Broken Bug Net
+虫網=Bug Net
+丈夫な虫網=Durable Bug Net
+頑丈な虫網=Sturdy Bug Net
+朽ちたシャベル=Decayed Shovel
+シャベル=Shovel
+丈夫なシャベル=Durable Shovel
+上質なシャベル=High-quality shovel
+欠けたツルハシ=Broken Pickaxe
+ツルハシ=Pickaxe
+丈夫なツルハシ=Durable Pickaxe
+上質なツルハシ=High-quality Pickaxe
+捕獲ゲージ=Capture Cage
+松明=Torch
+ランプ=Lamp
+携帯用ランプ=Portable Lamp
+ハンドライト=Hand Light
+予備ポーチ1=Spare Pouch 1
+予備ポーチ2=Spare Pouch 2
+予備ポーチ3=Spare Pouch 3
+予備ポーチ4=Spare Pouch 4
+汚れた帽子=Dirty Hat
+破れたカバン=Torn Bag
+錆びた腕輪=Rusty Bangle
+拘束具=Restraint
+ビデオカメラ=Video Camera
+
+//Pouch
+綿花=Cotton Wool
+睡眠薬=Sleeping Pills
+
+//Storage
+貯蔵庫を見る=View Storehouse
