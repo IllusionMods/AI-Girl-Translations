@@ -9,3 +9,10 @@
 そり跡=Pubic Stubble
 薄縦長=Long And Wispy
 大盾=Large Shield
+
+//Sideloader Modpack
+[XT]LTl蕾丝=[MOD] Lace
+黑丝平裆=[MOD] Black Silk
+黑丝连裤袜=[MOD] Black Silk Pantyhose
+长筒黑丝=[MOD] Long Black Wire
+黑丝T裆=[MOD] Black Silk T Cruch
