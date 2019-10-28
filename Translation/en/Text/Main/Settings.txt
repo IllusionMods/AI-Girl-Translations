@@ -33,7 +33,6 @@ SSR（反射）=SSR (reflection)
 環境音=Environment
 システムSE=System SFX
 ゲームSE=Game SFX
-シャン=Beauty
 
 ゲーム設定=Game
 ● テキスト=● Text
