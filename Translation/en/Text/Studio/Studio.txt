@@ -2022,6 +2022,9 @@ r:"^FKアナルビーズ([0-9])$"=r:"FK Anal Beads $1"
 服装=Clothing Menu
 タイプ=Type
 一括=Set All
+アイテム設定=Item settings
+服装詳細=Clothes
+ 服装 一括= All Clothes
 
 // Animation Menu -> Current State -> Clothing Settings
 トップ=Top
@@ -2037,6 +2040,7 @@ r:"^FKアナルビーズ([0-9])$"=r:"FK Anal Beads $1"
 r:"^スロ([0-9][0-9])$"=r:"Slot $1"
 
 // Animation Menu -> Current State -> Fluids
+汁=Fluids
 顔=Face
 胸=Chest
 背中=Back
@@ -2049,6 +2053,9 @@ r:"^スロ([0-9][0-9])$"=r:"Slot $1"
 乳首=Nipple Stiffness
 男根=Penis
 男根サイズ=Penis Size
+ 涙= Tears
+ 濡れ= Wetness
+ 肌艶= Skin Gloss
 
 // Animation Menu -> Current State -> Males Only
 単色化=Monocolor
