@@ -10,23 +10,23 @@ Hアイテム=H-Items
 // Base
 
 木部屋１=Wooden room 1
-木で作られた部屋。３方向に壁がある。=Wooden room with 3 side of walls.
+木で作られた部屋。３方向に壁がある。=A wooden room walled off on 3 sides.
 木部屋２=Wooden room 2
-床が木で作られた部屋。壁がない。=Room with wooden floor, without walls.
+床が木で作られた部屋。壁がない。=A wooden room without any walls.
 木部屋３=Wooden room 3
-木で作られた部屋。壁が一か所しかない。=Wooden room with only 1 wall.
+木で作られた部屋。壁が一か所しかない。=A wooden room walled off on just 1 side.
 木部屋４=Wooden room 4
-木で作られた部屋。壁に窓がある。=Wooden room with window on the wall.
+木で作られた部屋。壁に窓がある。=A wooden room with a window on one wall.
 木部屋５=Wooden room 5
-木で作られた部屋。壁に出入口がある。=Wooden room with entrance on the wall.
+木で作られた部屋。壁に出入口がある。=A wooden room with an entrance on one wall.
 木部屋６=Wooden room 6
-木で作られた部屋。２方向に壁がある。=Wooden room with 2 side of walls.
+木で作られた部屋。２方向に壁がある。=A wooden room walled off on 2 sides.
 木部屋７=Wooden room 7
-木で作られた部屋。壁に囲まれ、屋根がある。=Wooden room with walls and roof.
+木で作られた部屋。壁に囲まれ、屋根がある。=A wooden room with walls and a roof.
 木部屋８=Wooden room 8
-木で作られた部屋。三角形になっている。=Triangle wooden room.
+木で作られた部屋。三角形になっている。=A triangle-shaped wooden room.
 木部屋９=Wooden room 9
-木で作られた部屋。傾斜の付いた屋根がある。=Wooden room with tilt roof.
+木で作られた部屋。傾斜の付いた屋根がある。=A wooden room with tilted roof.
 
 石部屋１=Stone room 1
 石材で作られた部屋。天井も石でできている。=Stone room with stone ceiling.
