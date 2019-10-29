@@ -110,6 +110,16 @@ r:"^ポイント([0-9]+)$"=r:"Point $1"
 部位 : 男根根本=Part: Base Of Penis
 部位 : 女性器=Part: Female Genitalia
 部位 : 尻穴=Part: Anus
+部位 : 顔=Part: Face
+部位 : 左耳=Part: Left Ear
+部位 : 右耳=Part: Right Ear
+部位 : 左胸=Part: Left Chest
+部位 : 右胸=Part: Right Chest
+部位 : 左肘=Part: Left Elbow
+部位 : 右肘=Part: Right Elbow
+部位 : 下腹部①=Part: Lower Abdomen ①
+部位 : 下腹部②=Part: Lower Abdomen ②
+部位 : 下腹部③=Part: Lower Abdomen ③
 
 // Right Sidebar -> Default New Folder
 フォルダー=New Folder
@@ -121,6 +131,9 @@ r:"^ポイント([0-9]+)$"=r:"Point $1"
 //
 // Color Picker
 //
+
+左クリックで現在のカラーを登録します=Left-click to copy current color
+全削除=Delete All
 
 // Picker
 ピッカー=Picker
@@ -148,6 +161,7 @@ r:"^([Ａ-Ｚ])回転$"=r:"$1 Rot."
 //
 // Map Controller
 //
+マップコントローラー=Map Controller
 位置=Location
 //Horiz.
 //Vert.
@@ -258,6 +272,7 @@ r:"^星([A-Z])$"=r:"Stars $1"
 武器=Weapons
 エフェクト=Effects
 グロー=Glow
+ペット=Pets
 // Character Design Addon Pack Vol. 2
 FKアイテム=FK Items
 
@@ -359,96 +374,93 @@ FKアイテム=FK Items
 階段型(通常)=Stairs (General)
 半カプセル(通常)=Half Capsule (General)
 
-// Add -> Items -> Models -> Character
-スフィア(キャラ)=Sphere (Character)
-キューブ(キャラ）=Cube (Character)
-ピラミッド(キャラ）=Pyramid (Character)
-コーン(キャラ）=Cone (Character)
-シリンダー(キャラ）=Cylinder (Character)
-クリスタル(キャラ）=Diamond (Character)
-リング(キャラ）=Ring (Character)
-星1(キャラ）=Star 1 (Character)
-星2(キャラ）=Star 2 (Character)
-星3(キャラ）=Star 3 (Character)
-星4(キャラ）=Star 4 (Character)
-ハート1(キャラ）=Heart 1 (Character)
-ハート2(キャラ）=Heart 2 (Character)
-爪(キャラ）=Claw 1 (Character)
-筒(キャラ）=Dot 1 (Character)
-筒2(キャラ）=Sot 2 (Character)
-パイプ1(キャラ）=Pipe 1 (Character)
-パイプ2(キャラ）=Pipe 2 (Character)
-台形1(キャラ）=Trapezoid 1 (Character)
-台形2(キャラ）=Trapezoid 2 (Character)
-矢印1(キャラ）=Arrow 1 (Character)
-矢印2(キャラ）=Arrow 2 (Character)
-矢印3(キャラ）=Arrow 3 (Character)
-穴あきキューブ(キャラ）=Hollow Cube (Character)
-直角1(キャラ）=Right Angle 1 (Character)
-直角2(キャラ）=Right Angle 2 (Character)
-直角3(キャラ）=Right Angle 3 (Character)
-三日月1(キャラ）=Crescent Moon 1 (Character)
-三日月2(キャラ）=Crescent Moon 2 (Character)
-三日月3(キャラ）=Crescent Moon 3 (Character)
-十字(キャラ）=Cross (Character)
-Ｖ字(キャラ）=V-Mark (Character)
-穴あき楕円(キャラ）=Hollow Elipse (Character)
-先尖り棒(キャラ）=Pointed Rod (Character)
-三角(キャラ）=Triangle (Character)
-穴あき三角(キャラ）=Hollow Triangle (Character)
-弧1(キャラ）=Arc 1 (Character)
-弧2(キャラ）=Arc 2 (Character)
-弧3(キャラ）=Arc 3 (Character)
-四分円(キャラ）=Quadrant (Character)
-半円(キャラ）=Semicircle (Character)
-五角形(キャラ）=Pentagon (Character)
-六角形(キャラ）=Hexagon (Character)
-穴あき六角形(キャラ）=Hollow Hexagon (Character)
-八角形(キャラ）=Octagon (Character)
-頭(キャラ）=Head (Character)
-平面（キャラ）=Flat Plane (Character)
-輪(キャラ)=Hoop (Character)
-カプセル(キャラ)=Capsule (Character)
-正台形(キャラ)=Perfect Trapezoid (Character)
-// Patch 0525
-山型多角形1(キャラ)=Mountain Polygon 1 (Character)
-山型多角形2(キャラ)=Mountain Polygon 2 (Character)
-長六角形(キャラ)=Long Hexagon (General)
-長五角形（キャラ）=Long Pentagon (General)
-歪み三角柱(キャラ)=Bent Triangle (General)
-マウス型右(キャラ)=Right Mouse Button (General)
-マウス型左(キャラ)=Left Mouse Button (General)
-三角横台形(キャラ)=Horizontal Triangle (General)
-五角横台形(キャラ)=Horizontal Pentagon (General)
-円形横台形(キャラ)=Horizontal Circle (General)
-ドロップ立体(キャラ)=Thick Droplet (General)
-ドロップ平面(キャラ)=Flattened Droplet (General)
-ひょうたん立体(キャラ)=Thick Gourd (General)
-ひょうたん平面(キャラ)=Flattened Gourd (General)
-// Patch 0629
-角リング(キャラ)=Angled Ring (Character)
-立体半円(キャラ)=Solid Hemisphere (Character)
-立体四半円(キャラ)=Solid Quadrasphere (Character)
-角型(キャラ)=Angular Teardrop (Character)
-直角形(キャラ)=Right Angle Triangle (Character)
-斜ひし形(キャラ)=Parallelogram (Character)
-歪み台形(キャラ)=Squared Trapezoid (Character)
-欠け四角(キャラ)=Square With Curve (Character)
-二対多角形(キャラ)=Notched Hexagon (Character)
-ヒレ型(キャラ)=Fin (Character)
-歪み多角形(キャラ)=Bent Tube (Character)
-角なし斜ひし形(キャラ)=Beveled Parallelogram (Character)
-角なし歪み台形(キャラ)=Beveled Squared Trapezoid (Character)
-角なし四角錐(キャラ)=Beveled Pyramid (Character)
-角なし三角(キャラ)=Beveled Triangle (Character)
-角なし四角(キャラ)=Beveled Square (Character)
-筒四分(キャラ)=Quarter Tube (Character)
-// Patch 0727
-半ピラミッド(キャラ)=Half Pyramid (Character)
-角なし半四角錐(キャラ)=Beveled Half-Squared Pyramid (Character)
-半コーン(キャラ)=Half Cone (Character)
-階段型(キャラ)=Stairs (Character)
-半カプセル(キャラ)=Half Capsule (Character)
+// Add -> Items -> Models -> Alpha
+スフィア(アルファ）=Sphere (Alpha)
+キューブ(アルファ）=Cube (Alpha)
+ピラミッド(アルファ）=Pyramid (Alpha)
+コーン(アルファ）=Corn (Alpha)
+シリンダー(アルファ）=Cylinder (Alpha)
+クリスタル(アルファ）=Crystal (Alpha)
+リング(アルファ）=Ring (Alpha)
+星1(アルファ）=Star 1 (Alpha)
+星2(アルファ）=Star 2 (Alpha)
+星3(アルファ）=Star 3 (Alpha)
+星4(アルファ）=Star 4 (Alpha)
+ハート1(アルファ）=Heart 1 (Alpha)
+ハート2(アルファ）=Heart 2 (Alpha)
+爪(アルファ）=Nail (Alpha)
+筒(アルファ）=Tube (Alpha)
+筒2(アルファ）=Tube 2 (Alpha)
+パイプ1(アルファ）=Pipe 1 (Alpha)
+パイプ2(アルファ）=Pipe 2 (Alpha)
+台形1(アルファ）=Trapezoid 1 (Alpha)
+台形2(アルファ）=Trapezoid 2 (Alpha)
+矢印1(アルファ）=Arrow 1 (Alpha)
+矢印2(アルファ）=Arrow 2 (Alpha)
+矢印3(アルファ）=Arrow 3 (Alpha)
+穴あきキューブ(アルファ）=Perforated Cube (Alpha)
+直角1(アルファ）=Right Angle 1 (Alpha)
+直角2(アルファ）=Right Angle 2 (Alpha)
+直角3(アルファ）=Right Angle 3 (Alpha)
+三日月1(アルファ）=Crescent Moon 1 (Alpha)
+三日月2(アルファ）=Crescent Moon 2 (Alpha)
+三日月3(アルファ）=Crescent Moon 3 (Alpha)
+十字(アルファ）=Cross (Alpha)
+Ｖ字(アルファ）=V-Shaped (Alpha)
+穴あき楕円(アルファ）=Perforated Ellipse (Alpha)
+先尖り棒(アルファ）=Pointed Stick (Alpha)
+三角(アルファ）=Triangle (Alpha)
+穴あき三角(アルファ)=Perforated Triangle (Alpha)
+弧1(アルファ）=Arc 1 (Alpha)
+弧2(アルファ）=Arc 2 (Alpha)
+弧3(アルファ）=Arc 3 (Alpha)
+四分円(アルファ）=Quadrant (Alpha)
+半円(アルファ）=Semicircle (Alpha)
+五角形(アルファ）=Pentagon (Alpha)
+六角形(アルファ）=Hexagon (Alpha)
+穴あき六角形(アルファ）=Perforated Hexagon (Alpha)
+八角形(アルファ）=Octagon (Alpha)
+頭(アルファ）=Head (Alpha)
+平面（アルファ）=Plane (Alpha)
+輪(アルファ)=Wheel (Alpha)
+カプセル(アルファ)=Capsule (Alpha)
+正台形(アルファ)=Regular Trapezoid (Alpha)
+山型多角形1(アルファ)=Mountain Polygon 1 (Alpha)
+山型多角形2(アルファ)=Mountain Polygon 2 (Alpha)
+長六角形(アルファ)=Long Hexagon (Alpha)
+長五角形（アルファ）=Long Pentagon (Alpha)
+歪み三角柱(アルファ)=Distorted Triangular Prism (Alpha)
+マウス型右(アルファ)=Mouse Type Right (Alpha)
+マウス型左(アルファ)=Mouse Type Left (Alpha)
+三角横台形(アルファ)=Triangular Horizontal Trapezoid (Alpha)
+五角横台形(アルファ)=Pentagram (Alpha)
+円形横台形(アルファ)=Circular Horizontal Trapezoid (Alpha)
+ドロップ立体(アルファ)=Drop Solid (Alpha)
+ドロップ平面(アルファ)=Drop Plane (Alpha)
+ひょうたん立体(アルファ)=Gourd Solid (Alpha)
+ひょうたん平面(アルファ)=Gourd Plane (Alpha)
+角リング(アルファ)=Square Ring (Alpha)
+立体半円(アルファ)=Solid Semicircle (Alpha)
+立体四半円(アルファ)=Solid Quarter Circle (Alpha)
+角型(アルファ)=Square Type (Alpha)
+直角形(アルファ)=Right Angle (Alpha)
+斜ひし形(アルファ)=Oblique Diamond (Alpha)
+歪み台形(アルファ)=Distortion Trapezoid (Alpha)
+欠け四角(アルファ)=Chip Square (Alpha)
+二対多角形(アルファ)=Two-Sided Polygon (Alpha)
+ヒレ型(アルファ)=Fin Type (Alpha)
+歪み多角形(アルファ)=Distorted Polygon (Alpha)
+角なし斜ひし形(アルファ)=Angleless Rhombus (Alpha)
+角なし歪み台形(アルファ)=Cornerless Distortion Trapezoid (Alpha)
+角なし四角錐(アルファ)=Square Pyramid Without Angle (Alpha)
+角なし三角(アルファ)=Triangle With No Corner (Alpha)
+角なし四角(アルファ)=Square Without Square (Alpha)
+筒四分(アルファ)=Tube Quarter (Alpha)
+半ピラミッド(アルファ)=Half Pyramid (Alpha)
+角なし半四角錐(アルファ)=Half Square Pyramid Without Angle (Alpha)
+半コーン(アルファ)=Half Cone (Alpha)
+階段型(アルファ)=Staircase Type (Alpha)
+半カプセル(アルファ)=Half Capsule (Alpha)
 
 //
 // Add -> Items -> Base
@@ -462,6 +474,11 @@ FKアイテム=FK Items
 建造物=Structures
 空=Skies
 画像板=Image Board
+環境=Environment
+自然物=Nature
+天井=Ceilings
+床壁=Floors & Walls
+部屋=Rooms
 
 // Add -> Items -> Base -> Ground
 r:"^畳([0-9])$"=r:"Tatami Mat $1"
@@ -542,6 +559,89 @@ r:"^ビル([0-9])$"=r:"Building $1"
 // Add -> Items -> Base -> Image Board
 長方形=Rectangle
 
+// Add -> Items -> Base - Installed Objects
+エンジン付きボート=Boat With Engine
+木製のボート=Wooden Boat
+木製のオール=Wooden Oar
+電線2=Electric Wire 2
+電線1=Electric Wire 1
+折れた電柱=Broken Electric Pole
+電柱3=Utility Pole 3
+電柱2=Utility Pole 2
+電柱1=Utility Pole 1
+古びたデータ端末=Old Data Terminal
+錆びた遊具=Rusted Playground Equipment
+トイレの仕切り=Toilet Partition
+木の柵=Wooden Fence
+機械的なドア=Mechanical Door
+分厚いドア=Thick Door
+小屋のドア=Hut Door
+窓付きのドア=Door With Window
+塔のドア=Tower Door
+錆びたドア3=Rusty Door 3
+錆びたドア2=Rusty Door 2
+錆びたドア1=Rusty Door 1
+トイレのドア=Toilet Door
+
+// Add -> Items -> Base - Nature
+サンゴ2=Coral 2
+サンゴ1=Coral 1
+綿花(成熟)=Cotton (Mature)
+綿花(未成熟)=Cotton (Immature)
+野花(成熟)=Wild Flowers (Mature)
+野花(未成熟)=Wildflower (Immature)
+実のなる木(成熟)=Fruit Tree (Mature)
+実のなる木(未成熟)=Fruit Tree (Immature)
+イモ(成熟)=Potato (Mature)
+イモ(未成熟)=Potato (Immature)
+ウリ(成熟)=Cucumber (Mature)
+ウリ(未成熟)=Woori (Immature)
+双葉=Futaba
+古い切株2=Old Stump 2
+古い切株1=Old Stump 1
+苔むした倒木=Mossy Fallen Tree
+きれいな花=Beautiful Flowers
+処理場=Treatment Plant
+塔=Tower
+レストラン=Restaurant
+工場=Factory
+シャンのアジト=Shan's Hideout
+壊れた桟橋=Broken Pier
+
+// Add -> Items -> Base - Envoronment
+変哲もない岩9=Normal Rock 9
+変哲もない岩8=Normal Rock 8
+変哲もない岩7=Normal Rock 7
+変哲もない岩6=Normal Rock 6
+変哲もない岩5=Normal Rock 5
+変哲もない岩4=Normal Rock 4
+変哲もない岩3=Normal Rock 3
+変哲もない岩2=Normal Rock 2
+変哲もない岩1=Normal Rock 1
+厳めしい岩4=Rough Rock 4
+厳めしい岩3=Rough Rock 3
+厳めしい岩2=Rough Rock 2
+厳めしい岩1=Rough Rock 1
+荘厳な岩3=Majestic Rock 3
+荘厳な岩2=Majestic Rock 2
+荘厳な岩1=Majestic Rock 1
+なだらかな岩3=Smooth Rock 3
+なだらかな岩2=Smooth Rock 2
+なだらかな岩1=Smooth Rock 1
+苔むした岩7=Mossy Rock 7
+苔むした岩6=Mossy Rock 6
+苔むした岩5=Mossy Rock 5
+苔むした岩4=Mossy Rock 4
+苔むした岩3=Mossy Rock 3
+苔むした岩2=Mossy Rock 2
+苔むした岩1=Mossy Rock 1
+洞窟=Cave
+土=Soil Floor
+岩場=Rock Floor
+砂浜2=Sandy Beach 2
+砂浜1=Sandy Beach 1
+草原2=Meadow 2
+草原1=Meadow 1
 
 //
 // Add -> Items -> Furniture
@@ -555,11 +655,15 @@ r:"^ビル([0-9])$"=r:"Building $1"
 水周り=Bathroom
 // Patch 0727
 サマー=Summer
+キッチンカウンター=Kitchen
+寝具=Beds
 
 // Add -> Items -> Furniture -> Beds
 自室ベッド=Personal Bed
 保健室ベッド=School Bed
 布団=Futon
+クッション2=Cushion 2
+クッション1=Cushion 1
 
 // Add -> Items -> Furniture -> Desks
 r:"^机([0-9])$"=r:"Desk $1"
@@ -578,6 +682,7 @@ r:"^ちゃぶ台([0-9])$"=r:"Chabudai $1"
 ガラステーブル(円)=Circular Glass Table
 教室机=Classroom Desk
 教卓=Teacher's Desk
+事務机=Office Desk
 
 // Add -> Items -> Furniture -> Chairs
 r:"^椅子([0-9])$"=r:"Chair $1"
@@ -596,6 +701,9 @@ r:"^和風長椅子([0-9])$"=r:"Japanese Chair $1"
 // Patch 0525
 丸椅子(高)=Stool (High)
 テラスチェアー=Terrace Chair
+水没したベンチ=Submerged Bench
+事務椅子=Office Chair
+錆びた高い椅子=Rusty High Chair
 
 // Add -> Items -> Furniture -> Shelves
 r:"^ロッカー([0-9])$"=r:"Locker $1"
@@ -625,6 +733,8 @@ r:"^蛇口([0-9])$"=r:"Faucet $1"
 シャワーノズル=Shower Nozzle
 シャワーノブ=Shower Knob
 r:"^洗面器([0-9])$"=r:"Sink $1"
+シャワー列=Shower Line
+古びたトイレ=Old Toilet
 
 // Add -> Items -> Furniture -> Summer
 ビーチチェア=Beach Chair
@@ -633,6 +743,88 @@ r:"^洗面器([0-9])$"=r:"Sink $1"
 木の長椅子=Wooden Bench
 木の机=Wooden Desk
 木の箱=Wooden Box
+
+//
+// Add -> Items -> Ornaments
+//
+
+// Ornaments - Small Articles
+魔女の大鍋=Witch's Large Pot
+コンテナ=Container
+お店の棚=Store Shelves
+錆びた棚=Rusty Shelf
+小枝=Twig
+じょうろ=Watering Can
+ビニール傘=Vinyl Umbrella
+箒=箒
+ウキ=Uki
+ピッケル=Ice Ax
+砂の古城=Sand Castle
+砂のお城=Sand Castle
+砂のお山=Pile Of Sand
+プレゼント3=Present 3
+プレゼント2=Present 2
+プレゼント1=Present 1
+小石=Pebble
+歯ブラシ=Toothbrush
+木のコップ=Cup Of Wood
+木のスプーン=Wooden Spoon
+木の皿=Wooden Dish
+おぼん=Bon
+なべ=Pan
+おたま=Ladle
+まな板=Cutting Board
+フライパン=Frying Pan
+フライ返し=Fly Back
+携帯機器=Portable Device
+携帯ゲーム機=Handheld Game Console
+猫じゃらし=Cat Play
+オニブダイ=Onibudai
+コムツ=Komtsu
+オッチャン=Ochan
+猫魚=Cat Fish
+コツブウオ=Dragonfly
+ヤリマス=Yarimus
+トアバ=Toaba
+長靴=Boots
+魚雷=Torpedo
+ヌタウナギ=Japanese Eel
+空き缶=Empty Can
+
+// Ornaments - Misc
+シャコ貝=Clam Shellfish
+ふしぎな箱=Mysterious Box
+空いた箱=Empty Box
+鉱石のかけら=Fragment Of Ore
+鉱石=Ore
+床のゴミ=Garbage On The Floor
+ゴミ箱=Garbage Can
+壊れた樽=Broken Barrel
+錆びた階段=Rusty Staircase
+ホース=Hose
+トタン=Tin
+鉄板=Iron Plate
+鉄パイプ2=Iron Pipe 2
+鉄パイプ1=Iron Pipe 1
+流木2=Driftwood 2
+流木1=Driftwood 1
+板3=Board 3
+板2=Board 2
+板1=Board 1
+レンガ2=Brick 2
+レンガ1=Brick 1
+看板=Sign
+消火栓=Fire Hydrant
+古びた空き缶=Old Empty Can
+古びた瓶=Old Bottle
+古びた梯子=Old Ladder
+ドアランプ=Door Lamp
+コンソール=Console
+何かのブレーカー=Something Breaker
+古びた冷蔵庫=Old Refrigerator
+壊れた発電機=Broken Generator
+自販機=Vending Machine
+光る床=Glowing Floor
 
 //
 // Add -> Items -> Objects
@@ -784,6 +976,19 @@ r:"^照明機器([０-９])$"=r:"Stage Lighting $1"
 
 飲み物=Drinks
 食べ物=Food
+飲食物=Food & Drinks
+
+// Foodstuffs - Food & drinks
+赤い実=Red Fruit
+生卵=Raw Egg
+ホールケーキ=Whole Cake
+ダークマター=Dark Matter
+カップ麺=Cup Noodle
+豪華ブイヤベース=Luxury Bouillabaisse
+オムレツ=Omelette
+バナナイモサラダ=Banana Salad
+ココナッツスープ=Coconut Soup
+焼き魚=Grilled Fish
 
 // Add -> Items -> Objects -> Foodstuffs -> Drinks
 ドリンク缶=Drink Can
@@ -997,6 +1202,13 @@ r:"^細リボン([A-Z])$"=r:"Fine Ribbon $1"
 星のバレッタ=Star Barette
 星の髪飾り=Star Ornament
 クロスヘアピン=Cross Hairpin
+あほ毛=Ahoge
+細おくれ毛=Thin Hair
+おくれ毛=Back Hair
+カールエクステ=Curl Extension
+三つ編みカチューシャ=Braid Headband
+お団子髪=Bun Hair
+はねあほ毛=Hair Splash
 
 // Add -> Items -> Character -> Head
 r:"^あほ毛([A-Z])$"=r:"Ahoge $1"
@@ -1036,6 +1248,33 @@ r:"^ハートあほ毛([A-Z])$"=r:"Heart Ahoge $1"
 // Character Design Addon Pack Vol. 1 (add06)
 鬼神の額当て(右)=Demon God's Brow Guard (Right)
 鬼神の額当て(左)=Demon God's Brow Guard (Left)
+// AIS
+基本図形：リング=Shape: Ring
+基本図形：スター=Shape: Star
+基本図形：スフィア=Shape: Sphere
+基本図形：ピラミッド=Shape: Pyramid
+基本図形：クリスタル=Shape: Crystal
+基本図形：ハート=Shape: Heart
+基本図形：シリンダー=Shape: Cylinder
+基本図形：キューブ=Shape: Cube
+基本図形：コーン=Shape: Cone
+基本図形：カプセル=Shape: Capsule
+スイカ=Watermelon
+カボチャランタン=Pumpkin Lantern
+魔女の帽子=Witch Hat
+折れうさ耳カチューシャ=Folded Rabbit Ears
+うさ耳カチューシャ=Rabbit Ears
+ポニークリップ=Pony Clip
+キュービーヘッド=Cuby Head
+花のコサージュ=Flower Corsage
+猫耳=Cat Ear
+シルクハット=Silk Hat
+頭乗りヒヨコ=Head Chick
+頭で跳ねる魚=Head Fish
+頭乗り猫=Head Cat
+宝石の髪飾り=Jewelry Ornament
+カチューシャ=Headband
+翼の髪飾り=Wing Ornament
 
 // Add -> Items -> Character -> Face
 スクエア=Square Glasses
@@ -1072,6 +1311,34 @@ r:"^ハート([A-Z])$"=r:"Heart $1"
 第三の目=Third Eye
 リング=Ring
 リングジュエル=Jeweled Ring
+// AIS
+ライトゴーグル=Light Goggles
+ゴーグル=Goggles
+パピヨン=Papillon
+医療用眼帯右用=Eye Patch Right
+医療用眼帯左用=Eye Patch Left
+布目隠し=Cloth Blindfold
+アイマスクB=Eye Mask B
+アイマスクA=Eye Mask A
+鼻掛け眼鏡=Retro Glasses
+ボストン=Boston Glasses
+メタルラウンド=Round Glasses
+メタルアンダーリム=Under Rim Glasses
+メタルオーバル=Oval Glasses
+ブロウ=Blow
+一輪のバラ=Single Rose
+リコーダー=Recorder
+バードマスク=Bird Mask
+天狗の鼻=Tengu Nose
+口当て布=Mouthpiece
+顔包帯右=Face Bandage Right
+顔包帯左=Face Bandage Left
+スターリング=Sterling
+三連イヤリング=Triple Earrings
+パール=Pearl
+フラワー=Flower
+クリスタル=Crystal
+クリスタルピラー=Crystal Pillar
 
 // Add -> Items -> Character -> Neck
 マフラー=Muffler
@@ -1093,6 +1360,30 @@ r:"^ハート([A-Z])$"=r:"Heart $1"
 シデ=Shinto Paper Streamer
 鬼神のリボン=Demon God's Ribbon
 勾玉の首飾り=Magatama Amulet
+// AIS
+ネクタイ=Necktie
+バニーリボンタイ=Bunny Ribbon Tie
+スカーフ=Scarf
+リングネックレス=Ring Necklace
+ストーンネックレス=Stone Necklace
+フラワーレイ=Flower Lei
+ハートネックレス=Heart Necklace
+シルバーハートネックレス=Silver Heart Necklace
+フラワーネックレス=Flower Necklace
+カラーストーンネックレス=Colored Stone Necklace
+ネイチャーネックレス=Nature Necklace
+フックネックレス=Hook Necklace
+拘束用首輪=Restraint Collar
+ネクタイリボン=Tie Ribbon
+チェーンネックレス=Chain Necklace
+革の首輪=Leather Collar
+レースチョーカー=Lace Choker
+商人のマフラー=Merchant Muffler
+商人のネックレス=Merchant Necklace
+ルーズネクタイB=Loose Tie B
+ルーズネクタイA=Loose Tie A
+ラインチョーカー=Line Choker
+ゴールドチョーカー=Gold Choker
 
 // Add -> Items -> Character -> Torso
 リュックサック=Backpack
@@ -1106,8 +1397,22 @@ r:"^ハート([A-Z])$"=r:"Heart $1"
 小悪魔の翼左用=Left Devil Wing
 悪魔の翼右用=Right Demon Wing
 悪魔の翼左用=Left Demon Wing
+// AIS
+オウムのおもちゃ=Parrot Toy
+スクールバッグ=School Bag
+ミニショルダー=Mini Shoulder
+洗濯バサミ=Clothespin
+ジュエルリング=Jewel Ring
+シャチフロート=Killer Whale Float
+鳥籠=Bird Cage
+ネコリュック=Cat Rucksack
+ミニリュック=Mini Rucksack
+商人カバン=Merchant Bag
+妖精の羽=Fairy Wings
+ダンボール=Cardboard
+革鞄=Leather Bag
 
-// Add -> Items -> Character -> Hips
+// Add -> Items -> Character -> Waist
 小悪魔尻尾=Devil Tail
 悪魔尻尾=Demon Tail
 ウサギ尻尾=Rabbit Tail
@@ -1119,8 +1424,22 @@ r:"^ハート([A-Z])$"=r:"Heart $1"
 テールリボン=Tail Ribbon
 エレガントリボン=Elegant Ribbon
 鬼神の腰当右用=Demon God's Hip Guard (Right)
+// AIS
+ミサンガB=Misanga B
+ミサンガA=Misanga A
+レースガーターリング=Lace Garter Ring
+ガーターリング=Garter Ring
+ティアアンクレット=Tier Anklet
+商人の道具入れ=Merchant Toolbox
+バニー付けしっぽ=Bunny Tail
+猫シッポ=Cat Tail
+鞭=Whip
+手錠=Handcuffs
+鍵束=Key Bundle
+浮き輪b=Floating Ring B
+浮き輪a=Float A
 
-// Add -> Items -> Character -> Arms
+// Add -> Items -> Character -> Arm
 腕ベルト=Arm Belt
 メタルバングル=Metal Bangle
 ナイロンボストン=Nylon Boston Bag
@@ -1130,8 +1449,28 @@ r:"^ハート([A-Z])$"=r:"Heart $1"
 くノ一肩当て=Kunoichi Shoulderpad
 巫女袖=Shrine Maiden Sleeve
 鬼神の肩当て=Demon God's Shoulderpad
+// AIS
+ツイストリング=Twist Ring
+スポーツブレスレット=Sports Bracelet
+スマートウォッチ=Smart Watch
+光輪=Halo
+ホロウォッチ=Holowatch
+花のリング=Flower Ring
+薬瓶の腕輪=Medicine Bottle Bangles
+丸型腕時計=Round Watch
+メタルブレスレット=Metal Bracelet
+リストバンド=Wristband
+腕時計=Watches
+ストーンブレスレット=Stone Bracelet
+レザーバングル=Leather Bangle
+イルカとカラーストーン=Dolphin And Colored Stone
+アームレット=Armlet
+バンダナ巻き=Bandana Winding
+レザーアーム=Leather Arm
+バニーカフス左用=Bunny Cuff Left
+腕章=Armband
 
-// Add -> Items -> Character -> Hands
+// Add -> Items -> Character -> Hand
 お金持ちの指輪=Diamond Ring
 食べかけアイスバー=Half-Eaten Popsicle
 傘=Umbrella
@@ -1146,40 +1485,14 @@ r:"^ハート([A-Z])$"=r:"Heart $1"
 洗濯ばさみ=Clothespin
 持ち看板=Handheld Sign
 コントローラー=Controller
-
-// Add -> Items -> Character -> Mecha
-艦艇の模型=War Fleet Model
-魚雷発射管の模型=Torpedo Tube Model
-2連装砲台の模型=Twin Gun Mount Model
-r:"^メカ装甲([０-９])$"=r:"Mecha Armor $1"
-メカ装甲６×３=Mecha Armor ６×３
-r:"^メカアンテナ([0-9])$"=r:"Mecha Antenna $1"
-メカショルダー=Mecha Shoulder
-メカウィング=Mecha Wing
-メカウイングⅡ=Mecha Wing Ⅱ
-メカシールド=Mecha Shield
-メカシールドⅡ=Mecha Shield Ⅱ
-メカブースター=Mecha Booster
-メカブースターⅡ=Mecha Booster Ⅱ
-メカサークル=Mecha Circle
-メカボックス=Mecha Box
-メカポッド=Mecha Pod
-メカデルタ=Mecha Delta
-メカチューブ=Mecha Tube
-メカポール=Mecha Pole
-メカビームポール=Mecha Beam Pole
-メカシザー=Mecha Scissors
-メカドリル=Mecha Drill
-メカバイザー=Mecha Visor
-メカバイザーⅡ=Mecha Visor Ⅱ
-メカゴーグル=Mecha Goggles
-メカボール=Mecha Ball
-メカヘアー=Mecha Hair
-メカレシーバー=Mecha Receiver
-メカタイ=Mecha Tie
-メカループ=Mecha Loop
-メカアンプ=Mecha Amplifier
-メカウィングリング=Mecha Winged Ring
+// AIS
+宝石の指輪B=Gemstone ring B
+宝石の指輪A=Gemstone ring A
+ツインリング=Twin Ring
+スカルヘッド=Skull Head
+チアポンポン=Chiapompon
+抱きつきキュービー=Hug Cubby
+暴走の右手=Runaway Right Hand
 
 // Add -> Items -> Character -> Fantasy
 ナイトバイザー=Knight Visor
@@ -1360,6 +1673,17 @@ r:"^色影\\(四角([0-9])\\)$"=r:"Colored Shadow (Square $1)"
 r:"^レンズフレア([A-Z])$"=r:"Lens Flare $1" // Lens Flares C-G were added in Patch 0525, A/B are base game
 // Patch 0727
 色影=Colored Shadow
+//AIS
+色影(縁四角)=Color Shadow (Edge ​​Square)
+色影(縁円)=Color Shadow (Edge ​​Circle)
+色影(十字)=Color Shadow (Cross)
+色影(雫)=Color Shadow (Dark Blue)
+色影(欠月)=Color Shadow (Missing Month)
+色影(月)=Color Shadow (Moon)
+色影(星)=Color Shadow (Star)
+色影(ハート)=Color Shadow (Heart)
+色影(三角)=Color Shadow (Triangle)
+色影(六角)=Color Shadow (Hexagon)
 
 //
 // Add -> Items -> Gimmicks
@@ -1421,10 +1745,47 @@ r:"^回転([0-9]+)_Bタイプ（obj無し）$"=r:"$1° Rotator Type B (Without O
 //Ventilation Fan
 虫の声=Crickets Chirping
 焚火=Bonfire
+// AIS
+焚き木=Wood
+電子音=Electronic Sound
+夜虫音=Nightworm Sound
+滝（大）=Waterfall (Large)
+滝（小）=Waterfall (Small)
+溝=Drain
+川=River
+木々=Trees
+海（遠）=Sea (Far)
+海（近）=Sea (Near)
+鳥の鳴き声=Bird Call
 
-// Add -> Items -> 3D SFX -> Personalities
+// Add -> Items -> 3D SFX -> Voices
 r:"^喘ぎ([0-9])$"=r:"Panting $1"
 r:"^フェラ([0-9])$"=r:"Blowjob $1"
+// AIS
+ポジティブ(喘ぎ2)=Positive (Panting 2)
+ポジティブ(喘ぎ1)=Positive (Panting 1)
+ポジティブ(フェラ2)=Positive (Blowjob 2)
+ポジティブ(フェラ1)=Positive (Blowjob 1)
+ものぐさ(喘ぎ2)=Lazy (Panting 2)
+ものぐさ(喘ぎ1)=Lazy (Panting 1)
+ものぐさ(フェラ2)=Lazy (Blowjob 2)
+ものぐさ(フェラ1)=Lazy (Blowjob 1)
+わがまま(喘ぎ2)=Selfish (Panting 2)
+わがまま(喘ぎ1)=Selfish (Panting 1)
+わがまま(フェラ2)=Selfish (Blowjob 2)
+わがまま(フェラ1)=Selfish (Blowjob 1)
+自信家(喘ぎ2)=Confident (Panting 2)
+自信家(喘ぎ1)=Confident (Panting 1)
+自信家(フェラ2)=Confident (Blowjob 2)
+自信家(フェラ1)=Confident (Blowjob 1)
+おおらか(喘ぎ2)=Friendly (Panting 2)
+おおらか(喘ぎ1)=Friendly (Panting 1)
+おおらか(フェラ2)=Friendly (Blowjob 2)
+おおらか(フェラ1)=Friendly (Blowjob 1)
+無感情(喘ぎ2)=Emotionless (Panting 2)
+無感情(喘ぎ1)=Emotionless (Panting 1)
+無感情(フェラ2)=Emotionless (Blowjob 2)
+無感情(フェラ1)=Emotionless (Blowjob 1)
 
 //
 // Add -> Items -> Weapons
@@ -1498,6 +1859,9 @@ r:"^フェラ([0-9])$"=r:"Blowjob $1"
 // Character Design Addon Pack Vol. 3 (add09)
 魔法陣=Magic Circle
 r:"^溶解粘液([0-9])$"=r:"Dissolving Liquids $1"
+// AIS
+海原=Sea
+熱帯の海=Tropical sea
 
 // Add -> Items -> Effects -> Particles
 滝=Waterfall
@@ -1522,6 +1886,35 @@ r:"^溶解粘液([0-9])$"=r:"Dissolving Liquids $1"
 光の軌跡=Point of Light
 光の閃光=Flashes of Light
 光の粉=Sparkles of Light
+// AIS
+湯気=Steam
+泡=Foam
+煙=Smoke
+火花=Spark
+ダスト=Dust
+採取ピッケル=Picking Ice
+採取あみ=Hovering Sparkles
+採取床=Floating Sparkles
+採取中=During Collecting
+採取手=Collecting Hand
+
+//
+// Add -> Items -> Pets
+//
+
+動物=Animals
+
+// Animals
+お魚くわえた猫=Cat with a fish
+カエル=Frog
+黒い精霊=Black Spirit
+妖精=Fairy
+キュービー=Cuby
+猫戦車=Cat Tank
+猫=Cat
+ヒヨコ=Chick
+鶏=Chicken
+鳥=Bird
 
 //
 // Add -> Items -> Glow
@@ -1578,47 +1971,8 @@ r:"^FKアナルビーズ([0-9])$"=r:"FK Anal Beads $1"
 //
 
 なし=None
-自室=Bedroom
-1F=1st Floor
-2F=2nd Floor
-3F=3rd Floor
-r:"^教室([0-9])-([0-9])$"=r:"Classroom $1-$2"
-1F女子トイレ=1st Floor Girls' Bathroom
-2F女子トイレ=2nd Floor Girls' Bathroom
-3F女子トイレ=3rd Floor Girls' Bathroom
-職員室=Staff Room
-職員トイレ(男)=Staff Bathroom (Males)
-保健室=School Infirmary
-図書室=Library
-部室=Club Room
-漫研=Manga Club
-和室=Japanese-style Room
-体育倉庫=Gym Storehouse
-体育館=Gymnasium
-中庭=Courtyard
-グラウンド=Sports Ground
-屋上=Rooftop
-プール=Pool
-食堂=Cafeteria
-シャワールーム=Shower Room
-ロッカールーム=Locker Room
-裏庭=Rear Garden
-ライブステージ=Live Concert Stage
-体育館ライブ=Live Gymnasium Concert
-女子トイレ個室=Single Girl's Toilet
-シャワールーム個室=Single Shower Stall
-ロッカールーム個室=Single Locker Area
-空き部室=Unused Clubroom
-空き教室=Unused Classroom
-// Afterschool DLC
-ラブホテル=Love Hotel
-カラオケ=Karaoke Room
-教会=Church
-満員電車=Crowded Train
-電車=Train
-公園=Park
-// Koikatsu Darkness DLC (via Emotion Creators)
-備品倉庫=Equipment Storehouse
+ハウジング島=Housing Island
+孤島=Solitary Island
 
 //
 // Add -> Map Lights
@@ -1627,6 +1981,12 @@ r:"^教室([0-9])-([0-9])$"=r:"Classroom $1-$2"
 全体光=Entire Map
 ポイントライト=Point Light
 スポットライト=Spotlight
+スポットライト(マップ)=Spotlight (Map)
+ポイントライト(マップ)=Point Light (Map)
+全体光(マップ)=Whole Light (Map)
+スポットライト(キャラ)=Spotlight (Char)
+ポイントライト(キャラ)=Point Light (Char)
+全体光(キャラ)=Whole Light (Char)
 
 //
 // Background
@@ -2391,36 +2751,17 @@ BGM=Game BGM
 外部読込=Load External File
 
 // Sound Menu -> Game BGM
-タイトル=Title Screen
-マップ移動中=During Map Movement
-マップ夕方=Map In Evening
-カスタム=Customizer
-コミュニケーションモード=Communication Mode
-出会い=Encounter
-恋人と会話=Conversation With Lover
-怒り=Angry
-Hシーン(穏やか)=H-Scene (Gentle)
-Hシーン(Hなムード)=H-Scene (H-Mode)
-Hシーン(覗き)=H-Scene (Peeping)
-もの悲しい=Melancholy
-告白/回想=Confession / Reflection
-デート(ウキウキ)=Date (Cheerful)
-自宅(朝メニュー)=Home (Morning Menu)
-自宅(夜メニュー)=Home (Evening Menu)
-システムメニュー=System Menu
-//Club Room
-日常=Normal Day
-夕焼け=Evening
-思い出=Memories
-r:"^エンディング曲アレンジ([0-9])$"=r:"Ending Arrangement $1"
-クールな女の子と会話=Conversation With Calm Girl
-元気な女の子と会話=Conversation With Energetic Girl
-朝の公園=Morning At The Park
-カフェ=Cafe
-システム画面=System Screen
-// Afterschool DLC
-青空アドベンチャー=Blue Sky Adventure
-RunningDreamer=Running Dreamer
+独り言=Monologue
+シャンの家=Shan's House
+遠い昔の街=Distant City
+今の世界=Present World
+暗い森=Dark Forest
+森と滝=Forest And Waterfall
+星空と浜辺=Starry Sky And Beach
+昼の砂浜=Sandy Beach At Noon
+古の研究=Ancient Research
+廃墟と少女=Ruins And Girl
+メインタイトル=Title Screen
 
 //
 // System Menu
@@ -2541,6 +2882,23 @@ illusion文字のみ 黒=Word: Illusion (Black)
 アウトラインの濃さ=Outline Density
 アウトラインの幅=Outline Thickness
 全体の陰影の色=Overall Shadow Color
+// System Menu -> Scene Effects (New in AIS)
+発光範囲\n=Emission range\n
+発光上限=Emission upper limit
+地平線=Horizon
+拡散範囲=Diffusion range
+影響度=Impact
+画像サイズ=Image size
+映り込み=Reflection
+コントラスト=Contrast
+環境光=Ambient light
+光の範囲=Light range
+色調整=Color adjustment
+主被写体=Main subject
+背景フォグ無効=Disable background fog
+光の伸び=Light stretch
+高さ濃度=Height concentration
+スクリーンスペースリフレクション=Screen space reflection
 
 // System Menu -> Scene Effects -> Color Adjustment -> Shade Dropdown List
 昼=Midday

@@ -1,4 +1,0 @@
-部屋=Room
-マップコントローラー=Map Controller
-全削除=Delete All
-左クリックで現在のカラーを登録します=Left-Click To Copy Current Color
