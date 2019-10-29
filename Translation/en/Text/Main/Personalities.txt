@@ -4,6 +4,3 @@
 自分勝手でわがまま=Selfish
 無気力でものぐさ=Lazy
 ポジティブで明るい=Positive
-
-// In settings / voice volumes
-シャン=Beauty

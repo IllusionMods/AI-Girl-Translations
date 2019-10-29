@@ -1,2 +1,6 @@
 ツボミ=Tsubomi
 商人=Merchant
+主人公=Protagonist
+
+// In settings / voice volumes
+シャン=Beauty
