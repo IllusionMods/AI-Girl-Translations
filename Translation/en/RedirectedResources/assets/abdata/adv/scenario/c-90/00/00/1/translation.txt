@@ -1,7 +1,7 @@
-//それじゃ、私はお宝探しに戻るから=
-//何かあったら、また声かけて=
-//材料集まったら、必ず声かけてよ=
-//ん、それじゃあね=
-//いいもの仕入れて待ってるから=
-//体調は崩さないように。それじゃあね=
-//お宝が私を呼んでるから、またね=
+それじゃ、私はお宝探しに戻るから=Well then, I'll go back to treasure hunting.
+何かあったら、また声かけて=If something happens, call me again.
+材料集まったら、必ず声かけてよ=If you gather materials, be sure to call me.
+ん、それじゃあね=Hm, well then, see you.
+いいもの仕入れて待ってるから=I'll replenish my stock with good things, so keep waiting.
+体調は崩さないように。それじゃあね=Take care of your health. Well then, see you.
+お宝が私を呼んでるから、またね=The treasures are calling me, see you later.
