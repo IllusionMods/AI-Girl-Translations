@@ -1,235 +1,264 @@
-// Category names
+// CraftScene/Canvas/Info/Text
+//======================================================================
+拠点1\r\n範囲 100 : 80 : 100=Base 1\r\nSize 100 : 80 : 100
+拠点2\r\n範囲 100 : 80 : 100=Base 2\r\nSize 100 : 80 : 100
+拠点3\r\n範囲 200 : 100 : 200=Base 3\r\nSize 200 : 100 : 200
 
-すべて=All
+
+// CraftScene/Canvas/Add/List
+//======================================================================
+
+// CraftScene/Canvas/List/Text
+//--------------------------------------------------
+配置アイテム=Placed Item(s)
+
+// CraftScene/Canvas/List/VirtualizingTreeView/Viewport/VirtualContent/Housing.OCFolder Data: Housing.OCFolder/Background/ItemLayout/Text
+//--------------------------------------------------
+フォルダー=Folder
+// CraftScene/Canvas/Setting/Image Background/Text
+フォルダー設定=Folder Settings
+// CraftScene/Canvas/Setting/Image Background/Folder/Text
+//名前=Name
+
+// CraftScene/Canvas/Add/List/Text Category
+//--------------------------------------------------
+//すべて=All
 ベース=Base
 家具=Furniture
-雑貨=Misc.
+雑貨=Miscellaneous
 ガーデニング=Gardening
 Hアイテム=H-Items
 
-// Base
 
-木部屋１=Wooden room 1
+// CraftScene/Canvas/Add/Info
+//======================================================================
+// CraftScene/Canvas/Add/Info/Text Name
+// CraftScene/Canvas/Add/Info/Text Text
+//--------------------------------------------------
+
+// Base
+//--------------------------------------------------
+木部屋１=Wooden Room 1
 木で作られた部屋。３方向に壁がある。=A wooden room walled off on 3 sides.
-木部屋２=Wooden room 2
+木部屋２=Wooden Room 2
 床が木で作られた部屋。壁がない。=A wooden room without any walls.
-木部屋３=Wooden room 3
+木部屋３=Wooden Room 3
 木で作られた部屋。壁が一か所しかない。=A wooden room walled off on just 1 side.
-木部屋４=Wooden room 4
+木部屋４=Wooden Room 4
 木で作られた部屋。壁に窓がある。=A wooden room with a window on one wall.
-木部屋５=Wooden room 5
+木部屋５=Wooden Room 5
 木で作られた部屋。壁に出入口がある。=A wooden room with an entrance on one wall.
-木部屋６=Wooden room 6
+木部屋６=Wooden Room 6
 木で作られた部屋。２方向に壁がある。=A wooden room walled off on 2 sides.
-木部屋７=Wooden room 7
+木部屋７=Wooden Room 7
 木で作られた部屋。壁に囲まれ、屋根がある。=A wooden room with walls and a roof.
-木部屋８=Wooden room 8
+木部屋８=Wooden Room 8
 木で作られた部屋。三角形になっている。=A triangle-shaped wooden room.
-木部屋９=Wooden room 9
+木部屋９=Wooden Room 9
 木で作られた部屋。傾斜の付いた屋根がある。=A wooden room with tilted roof.
 
-石部屋１=Stone room 1
+石部屋１=Stone Room 1
 石材で作られた部屋。天井も石でできている。=Stone room with stone ceiling.
-石部屋２=Stone room 2
+石部屋２=Stone Room 2
 石材で作られた部屋。壁に窓がある。=Stone room with window on the wall.
-石部屋３=Stone room 3
+石部屋３=Stone Room 3
 石材で作られた部屋。壁に出入口がある。=Stone room with entrance on the wall.
-石部屋４=Stone room 4
+石部屋４=Stone Room 4
 石材で作られた部屋。２方向に壁がある。=Stone room with 2 side of walls.
-石部屋５=Stone room 5
+石部屋５=Stone Room 5
 石材で作られた部屋。広さが１／２。=Stone room with 1/2 size.
-石部屋６=Stone room 6
+石部屋６=Stone Room 6
 石材で作られた部屋。壁がない。=Stone room without walls.
-石部屋７=Stone room 7
+石部屋７=Stone Room 7
 石材で作られた部屋。壁に囲まれ、屋根がある。=Stone room with walls and roof.
 
-シンプルな部屋１=Simple room 1
+シンプルな部屋１=Simple Room 1
 床は板で壁には壁紙が貼られた部屋。=Room with board floor and wallpaper on walls.
-シンプルな部屋２=Simple room 2
+シンプルな部屋２=Simple Room 2
 床が板の部屋。壁がない。=Room with board floor and without walls.
-シンプルな部屋３=Simple room 3
+シンプルな部屋３=Simple Room 3
 床は板で壁には壁紙が貼られた部屋。壁が一枚のみ。=Room with board floor and wallpaper on walls, only 1 wall.
-シンプルな部屋４=Simple room 4
+シンプルな部屋４=Simple Room 4
 床は板で壁には壁紙が貼られた部屋。壁に窓がある。=Room with board floor and wallpaper on walls, window on the wall.
-シンプルな部屋５=Simple room 5
+シンプルな部屋５=Simple Room 5
 床は板で壁には壁紙が貼られた部屋。壁に出入口がある。=Room with board floor and wallpaper on walls, entrance on the wall.
-シンプルな部屋６=Simple room 6
+シンプルな部屋６=Simple Room 6
 床は板で壁には壁紙が貼られた部屋。２方向に壁がある。=Room with board floor and wallpaper on walls, with 2 walls.
-シンプルな部屋７=Simple room 7
+シンプルな部屋７=Simple Room 7
 床は板で壁には壁紙が貼られた部屋。壁に囲まれ、屋根がある。=Room with board floor and wallpaper on walls, all walls and a roof.
-シンプルな部屋８=Simple room 8
+シンプルな部屋８=Simple Room 8
 床は板で壁には壁紙が貼られた部屋。三角形になっている。=Room with board floor and wallpaper on walls, triangle type.
-シンプルな部屋９=Simple room 9
+シンプルな部屋９=Simple Room 9
 床は板で壁には壁紙が貼られた部屋。広さが１／２。=Room with board floor and wallpaper on walls, 1/2 size.
 
-木床１=Wooden floor 1
+木床１=Wooden Floor 1
 木材で作られた床。=Floor made of wood.
-木床２=Wooden floor 2
+木床２=Wooden Floor 2
 木材で作られた床。外周に枠が付いている。=Floor made of wood with frame.
-木床３=Wooden floor 3
-木床４=Wooden floor 4
-木床５=Wooden floor 5
+木床３=Wooden Floor 3
+木床４=Wooden Floor 4
+木床５=Wooden Floor 5
 木材で作られた床板の一部分。外周に枠が付いている。=Part of wooden floor, with frame.
-木床６=Wooden floor 6
+木床６=Wooden Floor 6
 木材で作られた床。３方に柵が付いている。=Floor made of wood with 3 sides of fences.
-木床７=Wooden floor 7
+木床７=Wooden Floor 7
 木材で作られた長方形の床。外周に枠が付いている。=Rectangle wooden floor, with frame.
 
-石床１=Stone floor 1
+石床１=Stone Floor 1
 石材で作られた床。=Floor made of stone.
-石床２=Stone floor 2
+石床２=Stone Floor 2
 石材で作られた床。外周に枠が付いている。=Floor made of stone, with frame.
-石床３=Stone floor 3
-石床４=Stone floor 4
-石床５=Stone floor 5
+石床３=Stone Floor 3
+石床４=Stone Floor 4
+石床５=Stone Floor 5
 石材で作られた床の一部分。外周に枠が付いている。=Part of stone floor, with frame.
-石床６=Stone floor 6
+石床６=Stone Floor 6
 石材で作られた床。３方に柵が付いている。=Floor made of stone, with 3 sides of fences.
-石床７=Stone floor 7
+石床７=Stone Floor 7
 石材で作られた長方形の床。外周に枠が付いている。=Rectangle stone floor, with frame.
 
-シンプルな床１=Simple floor 1
+シンプルな床１=Simple Floor 1
 フローリングの床。=Flooring.
-シンプルな床２=Simple floor 2
+シンプルな床２=Simple Floor 2
 フローリングの床。外周に枠が付いている。=Flooring with frame.
-シンプルな床３=Simple floor 3
-シンプルな床４=Simple floor 4
-シンプルな床５=Simple floor 5
+シンプルな床３=Simple Floor 3
+シンプルな床４=Simple Floor 4
+シンプルな床５=Simple Floor 5
 フローリングの床板の一部分。外周に枠が付いている。=Part of flooring, with frame.
-シンプルな床６=Simple floor 6
+シンプルな床６=Simple Floor 6
 フローリングの床。３方に柵が付いている。=Flooring with 3 sides of fences.
-シンプルな床７=Simple floor 7
+シンプルな床７=Simple Floor 7
 フローリングの床。外周に枠が付いている。=Flooring with frame.
 
-木壁１=Wooden wall 1
+木壁１=Wooden Wall 1
 木材で作られた細い壁。=Narrow wall made of wood.
-木壁２=Wooden wall 2
+木壁２=Wooden Wall 2
 木材で作られた広い壁。=Wide wall made of wood.
-木壁３=Wooden wall 3
+木壁３=Wooden Wall 3
 木材で作られた壁。出入口が付いている。=Wooden wall with entrance.
-木壁４=Wooden wall 4
+木壁４=Wooden Wall 4
 木材で作られた壁。=Wall made of wood.
-木壁５=Wooden wall 5
+木壁５=Wooden Wall 5
 木材で作られた壁。窓が付いている。=Wall made of wood, with window.
 
-石壁１=Stone wall 1
+石壁１=Stone Wall 1
 石材で作られた細い壁。=Narrow wall made of stone.
-石壁２=Stone wall 2
+石壁２=Stone Wall 2
 石材で作られた広い壁。=Wide wall made of stone.
-石壁３=Stone wall 3
+石壁３=Stone Wall 3
 石材で作られた壁。出入口が付いている。=Stone wall with entrance.
-石壁４=Stone wall 4
+石壁４=Stone Wall 4
 石材で作られた壁。=Wall made of stone.
-石壁５=Stone wall 5
+石壁５=Stone Wall 5
 石材で作られた壁。窓が付いている。=Wall made of stone, with window.
 
-シンプルな壁１=Simple wall 1
+シンプルな壁１=Simple Wall 1
 壁紙が貼られた細い壁。=Narrow wall with wallpaper.
-シンプルな壁２=Simple wall 2
+シンプルな壁２=Simple Wall 2
 壁紙が貼られた広い壁。=Wide wall with wallpaper.
-シンプルな壁３=Simple wall 3
+シンプルな壁３=Simple Wall 3
 壁紙が貼られた壁。出入口が付いている。=Wall with wallpaper and entrance.
-シンプルな壁４=Simple wall 4
+シンプルな壁４=Simple Wall 4
 壁紙が貼られた壁。=Wall with wallpaper.
-シンプルな壁５=Simple wall 5
+シンプルな壁５=Simple Wall 5
 壁紙が貼られた壁。窓が付いている。=Wall with wallpaper and window.
 
-木の隔壁1=Wooden partition wall 1
+木の隔壁1=Wooden Partition Wall 1
 室内を仕切るための木材で作られた細い壁。=Narrow wooden wall made to partition a room.
-木の隔壁2=Wooden partition wall 2
+木の隔壁2=Wooden Partition Wall 2
 室内を仕切るための木材で作られた広い壁。=Wide wooden wall made to partition a room.
-木の隔壁3=Wooden partition wall 3
+木の隔壁3=Wooden Partition Wall 3
 室内を仕切るための出入口が付いている木材の壁。=Wooden wall made to partition a room with entrance.
-木の隔壁4=Wooden partition wall 4
+木の隔壁4=Wooden Partition Wall 4
 室内を仕切るための木材で作られた壁。=Wooden wall made to partition a room.
-木の隔壁5=Wooden partition wall 5
+木の隔壁5=Wooden Partition Wall 5
 室内を仕切るための窓が付いている木材の壁。=Wooden wall made to partition a room with window.
 
-石の隔壁1=Stone partition wall 1
+石の隔壁1=Stone Partition Wall 1
 室内を仕切るための窓が付いている石材で作られた細い壁。=Narrow stone wall made to partition a room.
-石の隔壁2=Stone partition wall 2
+石の隔壁2=Stone Partition Wall 2
 室内を仕切るための窓が付いている石材で作られた広い壁。=Wide stone wall made to partition a room.
-石の隔壁3=Stone partition wall 3
+石の隔壁3=Stone Partition Wall 3
 室内を仕切るための出入口が付いている石材の壁。=Stone wall made to partition a room with entrance.
-石の隔壁4=Stone partition wall 4
+石の隔壁4=Stone Partition Wall 4
 室内を仕切るための石材で作られた壁。=Stone wall made to partition a room.
-石の隔壁5=Stone partition wall 5
+石の隔壁5=Stone Partition Wall 5
 室内を仕切るための窓が付いている石材の壁。=Stone wall made to partition a room with window.
 
-シンプルな隔壁1=Simple partition wall 1
+シンプルな隔壁1=Simple Partition Wall 1
 室内を仕切るための壁紙の細い壁。=Narrow wallpapered wall made to partition a room.
-シンプルな隔壁2=Simple partition wall 2
+シンプルな隔壁2=Simple Partition Wall 2
 室内を仕切るための壁紙の広い壁。=Wide wallpapered wall made to partition a room.
-シンプルな隔壁3=Simple partition wall 3
+シンプルな隔壁3=Simple Partition Wall 3
 室内を仕切るための出入口が付いている壁紙の壁。=Wallpapered wall made to partition a room with entrance.
-シンプルな隔壁4=Simple partition wall 4
+シンプルな隔壁4=Simple Partition Wall 4
 室内を仕切るための壁紙が貼られた壁。=Wallpapered wall made to partition a room.
-シンプルな隔壁5=Simple partition wall 5
+シンプルな隔壁5=Simple Partition Wall 5
 室内を仕切るための窓が付いている壁紙の壁。=Wallpapered wall made to partition a room with window.
 
-木天井１=Wooden ceiling 1
+木天井１=Wooden Ceiling 1
 木材で作られた天井。=Ceiling made of wood.
-木天井２=Wooden ceiling 2
-木天井３=Wooden ceiling 3
-木天井４=Wooden ceiling 4
+木天井２=Wooden Ceiling 2
+木天井３=Wooden Ceiling 3
+木天井４=Wooden Ceiling 4
 木材で作られた天井の一部分。外周に枠が付いている。=Part of ceiling made of wood, with frame.
-木天井５=Wooden ceiling 5
+木天井５=Wooden Ceiling 5
 木材で作られた天井。外周に枠が付いている。=Ceiling made of wood, with frame.
-木天井６=Wooden ceiling 6
+木天井６=Wooden Ceiling 6
 木材で作られた天井。長方形になっている。=Rectangle ceiling made of wood.
 
-石天井１=Stone ceiling 1
+石天井１=Stone Ceiling 1
 石材で作られた天井。=Ceiling made of wood.
-石天井２=Stone ceiling 2
-石天井３=Stone ceiling 3
-石天井４=Stone ceiling 4
+石天井２=Stone Ceiling 2
+石天井３=Stone Ceiling 3
+石天井４=Stone Ceiling 4
 石材で作られた天井の一部分。外周に枠が付いている。=Part of ceiling made of stone, with frame.
-石天井５=Stone ceiling 5
+石天井５=Stone Ceiling 5
 石材で作られた天井。外周に枠が付いている。=Ceiling made of stone, with frame.
-石天井６=Stone ceiling 6
+石天井６=Stone Ceiling 6
 石材で作られた天井。長方形になっている。=Rectangle ceiling made of stone.
 
-シンプルな天井１=Simple ceiling 1
+シンプルな天井１=Simple Ceiling 1
 シンプルなデザインの天井。=Ceiling of simple design.
-シンプルな天井２=Simple ceiling 2
-シンプルな天井３=Simple ceiling 3
-シンプルな天井４=Simple ceiling 4
-シンプルな天井５=Simple ceiling 5
+シンプルな天井２=Simple Ceiling 2
+シンプルな天井３=Simple Ceiling 3
+シンプルな天井４=Simple Ceiling 4
+シンプルな天井５=Simple Ceiling 5
 シンプルなデザインの天井。外周に枠が付いている。=Ceiling of simple design, with frame.
-シンプルな天井６=Simple ceiling 6
+シンプルな天井６=Simple Ceiling 6
 シンプルなデザインの天井。長方形になっている。=Rectangle ceiling of simple design.
 
-木屋根１=Wooden roof 1
+木屋根１=Wooden Roof 1
 木材で作られた屋根。=Roof made of wood.
-木屋根２=Wooden roof 2
+木屋根２=Wooden Roof 2
 木材で作られた屋根の一部。=Part of roof, made of wood.
 
-石屋根１=Stone roof 1
+石屋根１=Stone Roof 1
 石材で作られた屋根。=Roof made of stone.
-石屋根２=Stone roof 2
+石屋根２=Stone Roof 2
 石材で作られた屋根の一部。=Part of roof, made of stone.
 
-シンプルな屋根１=Simple roof 1
+シンプルな屋根１=Simple Roof 1
 シンプルなデザインの屋根。=Roof of simple design.
-シンプルな屋根２=Simple roof 2
+シンプルな屋根２=Simple Roof 2
 シンプルなデザインの屋根の一部。=Part of roof with simple design.
 
-木階段１=Wooden stairs 1
+木階段１=Wooden Stairs 1
 木材で作られた階段。=Stairs made of wood.
-木階段２=Wooden stairs 2
-木階段３=Wooden stairs 3
+木階段２=Wooden Stairs 2
+木階段３=Wooden Stairs 3
 木材で作られた手すり付き階段。=Stairs made of wood, with handrail.
 
-石階段１=Stone stairs 1
+石階段１=Stone Stairs 1
 石材で作られた大型の階段。=Large stairs made of wood.
-シンプルな階段１=Simple stair 1
-シンプルな階段２=Simple stair 2
+シンプルな階段１=Simple Stair 1
+シンプルな階段２=Simple Stair 2
 片側に手摺が付いた階段。=Stair with handrail on side.
 
-木のドア1=Wooden door 1
-木のドア2=Wooden door 2
+木のドア1=Wooden Door 1
+木のドア2=Wooden Door 2
 木材で作られたドア。=Door made of wood.
-シンプルなドア=Simple door
+シンプルなドア=Simple Door
 シンプルなデザインのドア。=Door of simple design.
 
 木の柱=Wooden Pillar
@@ -240,155 +269,155 @@ Hアイテム=H-Items
 石材で造られた飾り柱=Pillar made of stone for decoration
 
 // Furniture
+//--------------------------------------------------
+流木の椅子=Driftwood Chair
+流木をつなぎ合わせた椅子。行動：女の子が休憩する。=Chair made from matching driftwood. Action: Girls rest.
 
-流木の椅子=Driftwood chair
-流木をつなぎ合わせた椅子。行動：女の子が休憩する。=Chair made from matching driftwood. Action: Can rest on it.
+木製の椅子=Wooden Chair
+木材で作られた椅子。行動：女の子が休憩する。=Chair made of wood. Action: Girls rest.
 
-木製の椅子=Chair made of wood
-木材で作られた椅子。行動：女の子が休憩する。=Chair made of wood. Action: Can rest on it.
+木製の丸椅子=Wooden Stool
+木材で作られた丸い椅子。行動：女の子が休憩する。=Stool made of wood. Action: Girls rest.
 
-木製の丸椅子=Stool made of wood
-木材で作られた丸い椅子。行動：女の子が休憩する。=Stool made of wood. Action: Can rest on it.
+派手な椅子=Fancy Chair
+派手な色合いをした椅子。行動：女の子が休憩する。=Chair with fancy paint. Action: Girls rest.
 
-派手な椅子=Fancy chair
-派手な色合いをした椅子。行動：女の子が休憩する。=Chair with fancy paint. Action: Can rest on it.
-
-赤い椅子=Red chair
-赤い色をした椅子。行動：女の子が休憩する。=Chair with red color. Action: Can rest on it.
+赤い椅子=Red Chair
+赤い色をした椅子。行動：女の子が休憩する。=Chair with red color. Action: Girls rest.
 
 高い丸椅子=High Stool
-足の長い丸い椅子。行動：女の子が休憩する。=Stool with high legs. Action: Can rest on it.
+足の長い丸い椅子。行動：女の子が休憩する。=Stool with high legs. Action: Girls rest.
 
-木製の高い椅子=High wooden chair
-木材で作られた足の長い椅子。行動：女の子が休憩する。=Long leg wooden chair. Action: Can rest on it.
+木製の高い椅子=Wooden High Stool
+木材で作られた足の長い椅子。行動：女の子が休憩する。=Long leg wooden chair. Action: Girls rest.
 
-缶の椅子=Drum chair
-缶を使って作られた椅子。行動：女の子が休憩する。=Chair made from drum. Action: Can rest on it.
+缶の椅子=Drum Stool
+缶を使って作られた椅子。行動：女の子が休憩する。=Stool made from drum. Action: Girls rest.
 
-丸い椅子=Round chair
-円柱型の丸椅子。行動：女の子が休憩する。=Chair of round shape. Action: Can rest on it.
+丸い椅子=Round Chair
+円柱型の丸椅子。行動：女の子が休憩する。=Chair of round shape. Action: Girls rest.
 
-屋外用椅子=Outdoor chair
-屋外用に作られたひじ掛け椅子。行動：女の子が休憩する。=Chair used for outdoor. Action: Can rest on it.
+屋外用椅子=Outdoor Chair
+屋外用に作られたひじ掛け椅子。行動：女の子が休憩する。=Chair used for outdoor. Action: Girls rest.
 
-機械的な椅子=Mechanical chair
-機械のような見た目の椅子。行動：女の子が休憩する。=Chair with mechanical looks. Action: Can rest on it.
+機械的な椅子=Mechanical Chair
+機械のような見た目の椅子。行動：女の子が休憩する。=Chair with mechanical looks. Action: Girls rest.
 
-機械的な丸椅子=Mechanical stool
-機械の一部のような丸い椅子。行動：女の子が休憩する。=Stool with mechanical looks. Action: Can rest on it.
+機械的な丸椅子=Mechanical Stool
+機械の一部のような丸い椅子。行動：女の子が休憩する。=Stool with mechanical looks. Action: Girls rest.
 
-本と流木椅子=Driftwood chair with books
-本が置かれてる流木の椅子。行動：女の子が本を読む。=Driftwood chair with books. Action: Girls can read books on it.
+本と流木椅子=Driftwood Chair with Books
+本が置かれてる流木の椅子。行動：女の子が本を読む。=Driftwood chair with books. Action: Girls read books.
 
-本と木の椅子=Wood chair with books
-本が置かれてる木製の椅子。行動：女の子が本を読む。=Wooden chair with books. Action: Girls can read books on it.
+本と木の椅子=Wooden Chair with Books
+本が置かれてる木製の椅子。行動：女の子が本を読む。=Wooden chair with books. Action: Girls read books.
 
-本と派手な椅子=Fancy chair with books
-本が置かれてる派手な椅子。行動：女の子が本を読む。=Fancy wooden chair with books. Action: Girls can read books on it.
+本と派手な椅子=Fancy Chair with Books
+本が置かれてる派手な椅子。行動：女の子が本を読む。=Fancy wooden chair with books. Action: Girls read books.
 
-ぬいぐるみと派手な椅子=Flashy chair with stuffed toy
-ぬいぐるみが置かれている派手な椅子。行動：女の子がぬいぐるみに反応する。=Fancy wooden chair with stuffed toy. Action: Girls can read books on it.
+ぬいぐるみと派手な椅子=Fancy Chair with Plush Toy
+ぬいぐるみが置かれている派手な椅子。行動：女の子がぬいぐるみに反応する。=Fancy wooden chair with plush toy. Action: Girls react to plush toy.
 
-機械的な箱=Mechanical box
-機械のような見た目の箱。行動：女の子が休憩する。=Box of mechanical looks. Action: Can rest on it.
+機械的な箱=Mechanical Box
+機械のような見た目の箱。行動：女の子が休憩する。=Box of mechanical looks. Action: Girls rest.
 
-クーラーボックス=Fridge chest
-捨てられていたクーラーボックス。行動：女の子が休憩する。=Action: Can rest on it.
+クーラーボックス=Cooler Box
+捨てられていたクーラーボックス。行動：女の子が休憩する。=Action: Girls rest.
 
-流木のベンチ=Driftwood bench
-流木で作られたベンチ。行動：女の子が休憩する。=Action: Can rest on it.
+流木のベンチ=Driftwood Bench
+流木で作られたベンチ。行動：女の子が休憩する。=Action: Girls rest.
 
 木のベンチ=Wooden bench
-木材で作られたベンチ。行動：女の子が休憩する。=Action: Can rest on it.
+木材で作られたベンチ。行動：女の子が休憩する。=Action: Girls rest.
 
-屋外用ベンチ=Outdoor bench
-屋外用の長椅子。行動：女の子が休憩する。=Action: Can rest on it.
+屋外用ベンチ=Outdoor Bench
+屋外用の長椅子。行動：女の子が休憩する。=Action: Girls rest.
 
-石造りのベンチ=Stone bench
-石材で作られたベンチ。行動：女の子が休憩する。=Action: Can rest on it.
+石造りのベンチ=Stone Bench
+石材で作られたベンチ。行動：女の子が休憩する。=Action: Girls rest.
 
-お店のソファ=Shop sofa
-お店に置いてありそうなソファ。行動：女の子が休憩する。=Action: Can rest on it.
+お店のソファ=Shop Sofa
+お店に置いてありそうなソファ。行動：女の子が休憩する。=Action: Girls rest.
 
-プラスチックベンチ=Plastic bench
-プラスチックで作られたベンチ。行動：女の子が休憩する。=Action: Can rest on it.
+プラスチックベンチ=Plastic Bench
+プラスチックで作られたベンチ。行動：女の子が休憩する。=Action: Girls rest.
 
-機械的なベンチ=Mechanical bench
-機械的な外見をしたベンチ。行動：女の子が休憩する。=Action: Can rest on it.
+機械的なベンチ=Mechanical Bench
+機械的な外見をしたベンチ。行動：女の子が休憩する。=Action: Girls rest.
 
-布製ソファベッド=Cloth studio couch
-布で作られたソファベッド。行動：女の子が寝る。=Studio couch made of cloth. Action: Can sleep on it.
+布製ソファベッド=Cloth Couch
+布で作られたソファベッド。行動：女の子が寝る。=Couch made of cloth. Action: Girl sleep.
 
-普通ソファベッド=Common studio couch
-普通のサイズのソファベッド。行動：女の子が寝る。=Studio couch of normal size. Action: Can sleep on it.
+普通ソファベッド=Common Couch
+普通のサイズのソファベッド。行動：女の子が寝る。=Couch of normal size. Action: Girl sleep.
 
-木造りソファベッド=Wooden studio couch
-ひじ掛けが木材で作られたソファベッド。行動：女の子が寝る。=Studio couch with wooden arms. Action: Can sleep on it.
+木造りソファベッド=Wooden Couch
+ひじ掛けが木材で作られたソファベッド。行動：女の子が寝る。=Couch with armrests, made of wood. Action: Girl sleep.
 
-革製ソファベッド=Leather studio couch
-革で作られた豪華なソファベッド。行動：女の子が寝る。=Action: Studio couch made of leather. Can sleep on it.
+革製ソファベッド=Leather Couch
+革で作られた豪華なソファベッド。行動：女の子が寝る。=Couch made of leather. Action: Girl sleep.
 
-派手なソファベッド=Fancy studio couch 
-派手な装飾のソファベッド。行動：女の子が寝る。=Fancy decorated studio couch. Action: Can sleep on it.
+派手なソファベッド=Fancy Couch 
+派手な装飾のソファベッド。行動：女の子が寝る。=Fancy decorated couch. Action: Girl sleep.
 
-廃材ベッド=Garbage bed
-廃材で作ったベッド。行動：女の子が寝る。=Bed made from scraps. Action: Can sleep on it.
+廃材ベッド=Scrap Bed
+廃材で作ったベッド。行動：女の子が寝る。=Bed made from scraps. Action: Girl sleep.
 
-パイプベッド=Pipe bed
-錆びれて汚れているパイプベッド。行動：女の子が寝る。=Rusty pipe bed. Action: Can sleep on it.
+パイプベッド=Pipe Bed
+錆びれて汚れているパイプベッド。行動：女の子が寝る。=Rusty pipe bed. Action: Girl sleep.
 
-屋外用ベッド=Outdoor bed
-屋外用に作られたベッド。行動：女の子が寝る。=Bed made for outdoor use. Action: Can sleep on it.
+屋外用ベッド=Outdoor Bed
+屋外用に作られたベッド。行動：女の子が寝る。=Bed made for outdoor use. Action: Girl sleep.
 
-大きなベッド=Large bed
-普通に作られた大きなベッド。行動：女の子が寝る。=Common large bed. Action: Can sleep on it.
+大きなベッド=Large Bed
+普通に作られた大きなベッド。行動：女の子が寝る。=Common large bed. Action: Girl sleep.
 
-派手なベッド=Fancy bed
-派手な装飾の大きなベッド。行動：女の子が寝る。=Fancy decorated bed. Action: Can sleep on it.
+派手なベッド=Fancy Bed
+派手な装飾の大きなベッド。行動：女の子が寝る。=Fancy decorated bed. Action: Girl sleep.
 
-枯草の寝床=Bed made of fodder
-枯草を敷いて作った寝床。行動：女の子が寝る。=Bed made of fodder. Action: Can sleep on it.
+枯草の寝床=Hay Bed
+枯草を敷いて作った寝床。行動：女の子が寝る。=Bed made of hay. Action: Girl sleep.
 
-シュラフ=Sleeping bag
-キルティング加工された寝袋。行動：女の子が寝る。=Quilting sleeping bed. Action: Can sleep on it.
+シュラフ=Sleeping Bag
+キルティング加工された寝袋。行動：女の子が寝る。=Quilted sleeping bag. Action: Girl sleep.
 
-マッサージマット=Massage mat
+マッサージマット=Massage Mat
 室内の運動やマッサージなどに使うマット。=Massage mat used for indoor sports and massage.
 
-流木の机=Driftwood desk
+流木の机=Driftwood Desk
 流木で作られた机。=Desk made of driftwood.
 
-木の長机=Wooden long desk
+木の長机=Wooden Long Desk
 木材で作られた長机。=Long desk made of wood.
 
-木の机=Wooden desk
+木の机=Wooden Desk
 木材で作られた普通の机。=Common desk made of wood.
 
-木の小棚=Wooden shelf with drawer
+木の小棚=Wooden Shelf
 木材で作られた小さな棚。=Small shelf made of wood.
 
-引き出し机=Desk with drawer
-引き出しの付いたアンティークな机。=Antique desk with drawer.
+引き出し机=Drawer Desk
+引き出しの付いたアンティークな机。=Antique desk with drawers.
 
-お店の机=Shop desk
+お店の机=Shop Desk
 お店に置いてありそうな机。=Desk from a shop.
 
-屋外用用机=Outdoor desk
+屋外用用机=Outdoor Desk
 屋外で使用する組み立て式の机。=Composite desk made for outdoor use.
 
-ケーブルドラム=Cable drum
+ケーブルドラム=Cable Drum
 大型のケーブルドラム。=Large cable drum.
 
-派手な机=Fancy desk
+派手な机=Fancy Desk
 派手な装飾の机。=Fancy decorated desk.
 
-ガラスの机=Glass desk
+ガラスの机=Glass Desk
 板面がガラスで作られた机。=Desk with a glass surface.
 
-ガラスの長机=Long glass desk
+ガラスの長机=Long Glass Desk
 板面がガラス製の長机。=Long desk with a glass surface.
 
-移動式の台=Movable desk
+移動式の台=Movable Desk
 キャスター付きの台。=Desk with casters.
 
 樽=Barrel
@@ -397,172 +426,172 @@ Hアイテム=H-Items
 ドラム缶=Drum
 縁が錆びたドラム缶。=Drum with rust on the rim.
 
-巨大なバッテリー=Large battery
-大きなバッテリー。=Large battery.
+巨大なバッテリー=Large Battery
+大きなバッテリー。=Large Battery.
 
-機械的な机=Mechanical desk
+機械的な机=Mechanical Desk
 機械的な装飾の机。=Desk with mechanical decoration.
 
-機械的な机・角=Mechanical desk with corner
+機械的な机・角=Mechanical Corner Desk
 機械的な装飾のL字型の机。=L-shaped desk with mechanical decoration.
 
-機械的な机・大=Large mechanical desk
+機械的な机・大=Large Mechanical Desk
 機械の操作パネルのような机。=Large mechanical desk with operating panel.
 
-大きな換気口=Large vent
+大きな換気口=Large Vent
 ファンが二つある大型の排気ダクト。=Large venting duct with 2 fans.
 
-流木の食卓=Driftwood dining table
-流木で作られた食卓。行動：女の子が食事をする。=Dining table made of driftwood. Action: Will eat on it.
+流木の食卓=Driftwood Dining Table
+流木で作られた食卓。行動：女の子が食事をする。=Dining table made of driftwood. Action: Girls eat.
 
-木の食卓=Wooden dining table
-木製の食卓。行動：女の子が食事をする。=Dining table made of wood. Action: Will eat on it.
+木の食卓=Wooden Dining Table
+木製の食卓。行動：女の子が食事をする。=Dining table made of wood. Action: Girls eat.
 
-屋外用の食卓=Outdoor dining table
-屋外用の食卓。行動：女の子が食事をする。=Dining table made for outdoor. Action: Will eat on it.
+屋外用の食卓=Outdoor Dining Table
+屋外用の食卓。行動：女の子が食事をする。=Dining table made for outdoor. Action: Girls eat.
 
-派手な食卓=Fancy dining table
-派手な装飾の食卓。行動：女の子が食事をする。=Dining table with fancy decoration. Action: Will eat on it.
+派手な食卓=Fancy Dining Table
+派手な装飾の食卓。行動：女の子が食事をする。=Dining table with fancy decoration. Action: Girls eat.
 
-機械的な食卓=Mechanical dining table
-機械的な装飾の食卓。行動：女の子が食事をする。=Dining table with mechanical decoration. Action: Will eat on it.
+機械的な食卓=Mechanical Dining Table
+機械的な装飾の食卓。行動：女の子が食事をする。=Dining table with mechanical decoration. Action: Girls eat.
 
-本と流木机=Driftwood desk with books
-本が置かれてる流木の机椅子。行動：女の子が本を読む。=Driftwood desk with books. Action: Will read on it.
+本と流木机=Driftwood Table with Books
+本が置かれてる流木の机椅子。行動：女の子が本を読む。=Driftwood table with books. Action: Girls read books.
 
-本と木の机=Wooden desk with books
-本が置かれてる流木の机椅子。行動：女の子が本を読む。=Wooden desk with books. Action: Will read on it.
+本と木の机=Wooden Table with Books
+本が置かれてる流木の机椅子。行動：女の子が本を読む。=Wooden table with books. Action: Girls read books.
 
-本と派手な机=Fancy desk with books
-本が置かれてる流木の机椅子。行動：女の子が本を読む。=Fancy desk with books. Action: Will read on it.
+本と派手な机=Fancy Table with Books
+本が置かれてる流木の机椅子。行動：女の子が本を読む。=Fancy table with books. Action: Girls read books.
 
 焚火=Campfire
-薪を燃やす焚火。=Campfire firing firewood.
+薪を燃やす焚火。=Campfire for burning firewood.
 
-かまど=Cooking stove
-石材で作った原始的なかまど。行動：女の子が料理をする。=Cooking stove made of stone. Action: Will cook on it.
+かまど=Cooking Stove
+石材で作った原始的なかまど。行動：女の子が料理をする。=Cooking stove made of stone. Action: Girls cook.
 
-屋外調理セット=Outdoor cooking set
-キャンプなどで使う調理セット。行動：女の子が料理をする。=Cooking set made for camping. Action: Will cook on it.
+屋外調理セット=Outdoor Cooking Set
+キャンプなどで使う調理セット。行動：女の子が料理をする。=Cooking set made for camping. Action: Girls cook.
 
 キッチン=Kitchen
-配管が見える戸棚のないキッチン。行動：女の子が料理をする。=Kitchen with no cupboard, pipes visible. Action: Will cook on it.
+配管が見える戸棚のないキッチン。行動：女の子が料理をする。=Kitchen with no cupboard, pipes visible. Action: Girls cook.
 
 システムキッチン=Systematic Kitchen
-シンプルなデザインのキッチン。行動：女の子が料理をする。=Simple design kitchen. Action: Will cook on it.
+シンプルなデザインのキッチン。行動：女の子が料理をする。=Simple design kitchen. Action: Girls cook.
 
 カウンター=Counter
 木製のシンプルなカウンター。=Simple counter made of wood.
 
-カウンターシンク=Counter sink
-流し台の付いたカウンター。=Counter with sink in it.
+カウンターシンク=Counter with Sink
+流し台の付いたカウンター。=Simple counter made of wood with a sink.
 
-お店のカウンター=Shop counter
+お店のカウンター=Shop Counter
 お店に置いてありそうなカウンター。=Counter from a shop.
 
-バーカウンター1=Bar counter 1
+バーカウンター1=Bar Counter 1
 木製のバーカウンター。=Bar counter made of wood.
 
-バーカウンター2=Bar counter 2
+バーカウンター2=Bar Counter 2
 出入口用のバーカウンター。=Bar counter made for waiting room.
 
-バーカウンター角=A corner of bar counter
+バーカウンター角=Bar Counter Corner
 扇形になったバーカウンターのコーナー部分。=Part of fan-shaped bar counter.
 
-受付カウンター=Reception counter
+受付カウンター=Reception Counter
 石材を使っている受付用のカウンター。=Stone counter made for reception.
 
-長い受付カウンター=Long reception counter
+長い受付カウンター=Long Reception Counter
 長く作られた受付用カウンター。=Long counter made for reception.
 
-おしゃれなカウンター=Fashioned counter
-おしゃれな作りをしたカウンター。=Fashioned counter.
+おしゃれなカウンター=Fashionable Counter
+おしゃれな作りをしたカウンター。=Fashionable counter.
 
-シンプルカウンター1=Simple counter 1
+シンプルカウンター1=Simple Counter 1
 シンプルなデザインのカウンター。=Counter of simple design.
 
-シンプルカウンター2=Simple counter 2
+シンプルカウンター2=Simple Counter 2
 引き出しが付いたシンプルなデザインのカウンター。=Counter with drawer of simple design.
 
-シンプルシンク=Simple sink
-シンプルなデザインのシンク付きカウンター。=Counter with sink of simple design.
+シンプルシンク=Simple Counter with Sink
+シンプルなデザインのシンク付きカウンター。=Counter with a sink of simple design.
 
-古式トイレ=Old-school toilet
-汚れた古いタイプの洋式トイレ。行動：女の子がトイレを使う。=Dirty old-school toilet. Action: Will toilet.
+古式トイレ=Old-fashioned Toilet
+汚れた古いタイプの洋式トイレ。行動：女の子がトイレを使う。=Dirty old-fashioned toilet. Action: Girls use the toilet.
 
 トイレ小屋=Toilet house
-トイレ設置用の小さな小屋。行動：女の子がトイレを使う。=Little House used as toilet. Action: Will toilet.
+トイレ設置用の小さな小屋。行動：女の子がトイレを使う。=Little House used as toilet. Action: Girls use the toilet.
 
 和式トイレ=Squat toilet
-キレイな和式トイレ。行動：女の子がトイレを使う。=Clean squat toilet. Action: Will toilet.
+キレイな和式トイレ。行動：女の子がトイレを使う。=Clean squat toilet. Action: Girls use the toilet.
 
 タイル床和式トイレ=Squat toilet with tiles
-タイル張りの和式トイレ。行動：女の子がトイレを使う。=Squat toilet with tiles. Action: Will toilet.
+タイル張りの和式トイレ。行動：女の子がトイレを使う。=Squat toilet with tiles. Action: Girls use the toilet.
 
 トイレ=Toilet
-キレイな洋式トイレ。行動：女の子がトイレを使う。=Western toilet. Action: Will toilet.
+キレイな洋式トイレ。行動：女の子がトイレを使う。=Western toilet. Action: Girls use the toilet.
 
-ドラム缶風呂=Bathing drum
+ドラム缶風呂=Bathing Drum
 下に火がついているドラム缶風呂。=Bathing drum with fire under.
 
 シャワー=Shower
-配管が錆びついたシャワー。行動：女の子がお風呂に入る。=Shower with rusty piping. Action: Will bath.
+配管が錆びついたシャワー。行動：女の子がお風呂に入る。=Shower with rusty piping. Action: Girls take a bath.
 
 バスタブ=Bathtub
-お湯の入った白いバスタブ。行動：女の子がお風呂に入る。=White bathtub with hot water inside. Action: Will bath.
+お湯の入った白いバスタブ。行動：女の子がお風呂に入る。=White bathtub with hot water inside. Girls take a bath.
 
-金属製バスタブ=Metal bathtub
-お湯の入った金属製のバスタブ。行動：女の子がお風呂に入る。=Metal bathtub with hot water inside. Action: Will bath.
+金属製バスタブ=Metal Bathtub
+お湯の入った金属製のバスタブ。行動：女の子がお風呂に入る。=Metal bathtub with hot water inside. Action: Girls take a bath.
 
 ジャグジー=Jacuzzi
-大きめのジャグジー付きバス。行動：女の子がお風呂に入る。=Jacuzzi. Action: Will bath.
+大きめのジャグジー付きバス。行動：女の子がお風呂に入る。=Jacuzzi. Action: Girls take a bath.
 
-// Misc.
-
+// Miscellaneous
+//--------------------------------------------------
 チェスト=Chest
-蓋の付いた木の箱。機能：アイテム倉庫として使える。=A wooden box with a lid. Feature: Can be used to store items.
+蓋の付いた木の箱。機能：アイテム倉庫として使える。=A wooden box with a lid. Function: Can be used to store items.
 
 鶏小屋=Chicken Coop
-木製の小さな小屋。機能：鶏を飼うことができる。=A small wooden coop. Feature: Can keep chickens.
+木製の小さな小屋。機能：鶏を飼うことができる。=A small wooden coop. Function: Can keep chickens.
 
 畑=Field
-小さな畑。機能：種を植えて育てられる。=A small field. Feature: Can plant and grow seeds.
+小さな畑。機能：種を植えて育てられる。=A small field. Function: Can plant and grow seeds.
 
 畑 4マス=Four-Square Field
-畑。４マス分の広さがある。機能：種を植えて育てられる。=A field with four spaces. Feature: Can plant and grow seeds.
+畑。４マス分の広さがある。機能：種を植えて育てられる。=A field with four spaces. Function: Can plant and grow seeds.
 
 畑 6マス=Six-Square Field
-畑。６マス分の広さがある。機能：種を植えて育てられる。=A field with six spaces. Feature: Can plant and grow seeds.
+畑。６マス分の広さがある。機能：種を植えて育てられる。=A field with six spaces. Function: Can plant and grow seeds.
 
 畑 8マス=Eight-Square Field
-畑。８マス分の広さがある。機能：種を植えて育てられる。=A field with eight spaces. Feature: Can plant and grow seeds.
+畑。８マス分の広さがある。機能：種を植えて育てられる。=A field with eight spaces. Function: Can plant and grow seeds.
 
 井戸=Well
-ポンプ式の井戸。機能：女の子が飲み水を手に入れられる。=A well with a pump. Feature: Can gather drinking water.
+ポンプ式の井戸。機能：女の子が飲み水を手に入れられる。=A well with a pump. Function: Girls can get drinking water.
 
 薬台=Medicine Table
-薬を調合するための木製の台。機能：薬のクラフトが可能。=A wooden table for preparing medicine. Feature: Can craft drugs.
+薬を調合するための木製の台。機能：薬のクラフトが可能。=A wooden table for preparing medicine. Function: Can craft drugs.
 
 木のクローゼット=Wooden Closet
-木製のクローゼット。機能：女の子が服を着替える。=A wooden closet. Feature: Can change clothes.
+木製のクローゼット。機能：女の子が服を着替える。=A wooden closet. Function: Girls change clothes.
 
 脱衣かご=Clothes Basket
-脱いだ衣服を入れるためのかご。機能：女の子が服を着替える。=A basket for storing clothes. Feature: Can change clothes.
+脱いだ衣服を入れるためのかご。機能：女の子が服を着替える。=A basket for storing clothes. Function: Girls change clothes.
 
 ペットマット=Petmat
-ペット用の小さなマット。機能：手に入れたペットを配置できる。=A small mat for pets. Feature: Can place pets.
+ペット用の小さなマット。機能：手に入れたペットを配置できる。=A small mat for pets. Function: Can place pets.
 
 ペット合成装置=Pet Synthesizer
-ペットを合成するための装置。機能：ペットをクラフトできる。=A device that makes pets. Feature: Can craft pets.
+ペットを合成するための装置。機能：ペットをクラフトできる。=A device that makes pets. Function: Can craft pets.
 
 蓄音機=Gramophone
-レトロな雰囲気の蓄音機。機能：BGMを変更できる=An old-fashioned record player. Feature: Can change the BGM.
+レトロな雰囲気の蓄音機。機能：BGMを変更できる=An old-fashioned record player. Function: Can change the BGM.
 
 ジュークボックス=Jukebox
-大型のジュークボックス。機能：BGMを変更できる=A large jukebox. Feature: Can change the BGM.
+大型のジュークボックス。機能：BGMを変更できる=A large jukebox. Function: Can change the BGM.
 
 高級なコンポ=Entertainment Center
-高級感のあるコンポーネントシステム。機能：BGMを変更できる。=A fancy stereo system. Feature: Can change the BGM.
+高級感のあるコンポーネントシステム。機能：BGMを変更できる。=A fancy stereo system. Function: Can change the BGM.
 
 暖炉=Fireplace
 薪を燃やして温まる暖炉。=A fireplace that burns wood and warms the room.
@@ -717,64 +746,63 @@ Hアイテム=H-Items
 街灯2=Streetlight 2
 壁などに取り付けるタイプの街灯。=A streetlight that can be mounted on a wall.
 
-
 // Gardening
+//--------------------------------------------------
+ボロ小屋=Scrap Shed
+屋根が竹でできたボロボロの小屋。=Scrap shed with bamboo made roof.
 
-ボロ小屋=Scrap shanty
-屋根が竹でできたボロボロの小屋。=Scrap shanty with bamboo made roof.
-
-原始的なテント=Aboriginal tent
+原始的なテント=Primitive Tent
 布と木でできた原始的なテント。=Tent made of cloth and wood.
 
 テント=Tent
 軽量で張りやすい近代的なテント。=Lightweight modern tent.
 
-巨大なテント=Large tent
-中に家具などが置かれている大きなテント。=Large tent with furnitures inside.
+巨大なテント=Huge Tent
+中に家具などが置かれている大きなテント。=Huge tent with furniture inside.
 
-小屋=Little house
-木で作られた小さな小屋。=Little house made of wood.
+小屋=Hut
+木で作られた小さな小屋。=Hut made of wood.
 
-トタン小屋１=Tin shed 1
+トタン小屋１=Tin Shed 1
 錆びついたトタンで覆われた小屋。=Rusty tin shed.
 
-トタン小屋２=Tin shed 2
+トタン小屋２=Tin Shed 2
 錆びついたトタンで作られた小屋。壁が一面しかない。=Rusty tin shed, 1 wall only.
 
-販売所=Shopping stand
+販売所=Shopping Stand
 小さな一人用の販売所。カウンターの付いた窓が開いている。=Shopping stand made for 1 person. With counter and window.
 
-街の噴水=Street fountain
+街の噴水=Street Fountain
 石材で作られた苔の生えた噴水。=Mossy fountain made of stone.
 
-白い噴水=White fountain
+白い噴水=White Fountain
 白い石で作られた噴水。綺麗な水が漂っている。=Fountain made of white stone. Spraying beatifully.
 
-壊れた変電機=Broken generator
+壊れた変電機=Broken Generator
 あちこちが錆びついて壊れた変電機。=Broken generator with rust here and there.
 
-崩れたお店１=Collapsed shop 1
+崩れたお店１=Collapsed Shop 1
 風化して屋根や壁が崩れた店舗風の建物。=Decayed shopping building with collapsed walls.
 
-崩れたお店２=Collapsed shop 2
+崩れたお店２=Collapsed Shop 2
 風化して屋根や壁が崩れた、広い店舗風の建物。=Large decayed shopping building with collapsed walls.
 
-石材建築物１=Stone building 1
+石材建築物１=Stone Building 1
 石材で作られた廃屋。=Abandoned stone house.
 
-石材建築物２=Stone building 2
+石材建築物２=Stone Building 2
 石材で作られた廃屋。=Abandoned stone house.
 
-石材建築物３=Stone building 3
+石材建築物３=Stone Building 3
 石材で作られた廃屋。=Abandoned stone house.
 
-石材建築物４=Stone building 4
+石材建築物４=Stone Building 4
 石材で作られた廃屋。=Abandoned stone house.
 
-石材建築物５=Stone building 5
+石材建築物５=Stone Building 5
 石材で作られた廃屋。=Abandoned stone house.
 
-石材建築物６=Stone building 6
+石材建築物６=Stone Building 6
 石材で作られた廃屋。=Abandoned stone house.
 
 瓦礫１=Rubble 1
@@ -786,40 +814,40 @@ Hアイテム=H-Items
 瓦礫３=Rubble 3
 廃屋などの瓦礫。=Ruins like abandoned house.
 
-何かの跡地１=Some ruin 1
+何かの跡地１=Some Ruin 1
 廃墟と化した建築物の跡地。=Building turned into ruins.
 
-何かの跡地２=Some ruin 2
+何かの跡地２=Some Ruin 2
 廃墟と化した建築物の跡地。=Building turned into ruins.
 
-何かの跡地３=Some ruin 3
+何かの跡地３=Some Ruin 3
 廃墟と化した建築物の跡地。=Building turned into ruins.
 
-フェンス入り口=Metal fence gate
+フェンス入り口=Metal Fence Gate
 金網と鉄でできたドア。錆びた鎖が巻いてある。=Metal fence gate with rusty lock.
 
-フェンス=Metal fence
+フェンス=Metal Fence
 金網で作られたフェンス。=Fence made from metal wire.
 
-曲がったフェンス=Bend metal fence
+曲がったフェンス=Bend Metal Fence
 一部がひしゃげて折れ曲がっているフェンス。=Metal fence of some part bended.
 
-長い柵=Long metal fence
+長い柵=Long Metal Fence
 長い鉄の柵。全体的に錆びている。=Long metal fence with rust all over it.
 
-短い柵=Short metal fence
+短い柵=Short Metal Fence
 短い鉄の柵。全体的に錆びている。=Short metal fence with rust all over it.
 
-街の柵=Street fence
+街の柵=Street Fence
 路地や欄干などに使われる柵。全体的に風化している。=Fence used on street. All decayed.
 
-白い柵=White fence
+白い柵=White Fence
 白く塗られたキレイな柵。=Beautiful white painted fence.
 
-木製プランター=Wooden planter
+木製プランター=Wooden Planter
 木材で作られたキレイなプランター。=Beautiful wooden planter.
 
-プランター壁付=Planter with wall
+プランター壁付=Planter With Wall
 木の壁と一体化したプランター。=Uniform planter with wall.
 
 シダ草1=Fern 1
@@ -852,37 +880,37 @@ Hアイテム=H-Items
 シダ草10=Fern 10
 葉の数が少なく、一枚一枚が大きいシダ科の植物。=Large pteridophyte with less leaves.
 
-低い草1=Lower grass 1
+低い草1=Lower Grass 1
 根に近いほど葉の色が赤くなる背が低い草。=Short grass with leaves near root turned red.
 
-低い草2=Lower grass 2 
+低い草2=Lower Grass 2 
 全体が鮮やかな緑色をしている背が低い草。=Short grass with whole green color.
 
-低い草3=Lower grass 3
+低い草3=Lower Grass 3
 太い茎から大きな葉が生えている背が低い草。=Short grass with large leaves sent from thick stems.
 
-赤い花=Red flower
+赤い花=Red Flower
 大きな花をいくつも咲かせている赤い花。=Red flower plant with several flowers.
 
-紫色の花=Purple flower
+紫色の花=Purple Flower
 緑の葉の間にいくつもの花が咲いている紫色の花。=Purple flower between green leaves.
 
-白い花=White flower
+白い花=White Flower
 一本の茎からいくつかの花が咲いている白い花。=White flower with only 1 stem.
 
-小さな花1=Little flower 1
+小さな花1=Little Flower 1
 薄い紫色をしている背の低い小さな花。=Little short flower with light purple color.
 
-小さな花2=Little flower 2
+小さな花2=Little Flower 2
 花弁は黄色い背の低い小さな花。=Little short flower with yellow petals.
 
-大きな花1=Big flower 1
+大きな花1=Big Flower 1
 赤い色をしている背の高い大きな花。=High flower with red color.
 
-大きな花2=Big flower 2
+大きな花2=Big Flower 2
 青い色をしている背の高い大きな花。=High flower with blue color.
 
-大きな花3=Big flower 3
+大きな花3=Big Flower 3
 白い色をしている背の高い大きな花。=High flower with white color.
 
 茂み1=Bush 1
@@ -909,19 +937,19 @@ Hアイテム=H-Items
 クローバー=Clover
 クローバーの葉がまとまって生えている。=Clover.
 
-ヤシの木1=Coconut tree 1
+ヤシの木1=Coconut Tree 1
 大きなヤシの木。=Big coconut tree.
 
-ヤシの木2=Coconut tree 2
+ヤシの木2=Coconut Tree 2
 ヤシの実がなっているヤシの木。=Coconut tree with coconuts.
 
-ヤシの木3=Coconut tree 3
+ヤシの木3=Coconut Tree 3
 幹がまっすぐ伸びているヤシの木。=Coconut tree with straight trunk.
 
-低めのヤシの木1=Short coconut tree 1
+低めのヤシの木1=Short Coconut Tree 1
 低めのヤシの木。=Short coconut tree.
 
-低めのヤシの木2=Short coconut tree 2
+低めのヤシの木2=Short Coconut Tree 2
 緑色をしている低めのヤシの木。=Short green coconut tree.
 
 木1=Tree 1
@@ -948,25 +976,25 @@ Hアイテム=H-Items
 木8=Tree 8
 緑の生い茂った木。幹が三又に分かれている。=Green flourished tree, thick trunk, 3 branches.
 
-倒木1=Collapsed tree 1
+倒木1=Collapsed Tree 1
 枯れて倒れた木。全体が緑色に苔むしている。=Collapsed tree with green moss all over.
 
-倒木2=Collapsed tree 2
+倒木2=Collapsed Tree 2
 枯れて倒れた木。所々に苔が生えている。=Collapsed tree with green moss here and there.
 
-枯草1=Withered grass 1
+枯草1=Withered Grass 1
 枯草の群生。=Withered grass.
 
-枯草2=Withered grass 2
+枯草2=Withered Grass 2
 少し背の高い枯草の群生。=A litter higher withered grass.
 
-枯草3=Withered grass 3
+枯草3=Withered Grass 3
 ススキのような枯草の群生。=Withered pampas-like grass.
 
-枯草4=Withered grass 4
+枯草4=Withered Grass 4
 少し背の低い枯草の群生。=A little shorter withered grass.
 
-枯草5=Withered grass 5
+枯草5=Withered Grass 5
 地面を覆うように生えている枯草の群生。=withered grass growing against the ground.
 
 蔦1=Ivy 1
@@ -981,27 +1009,28 @@ Hアイテム=H-Items
 キノコ=Mushroom
 傘が黄色いキノコ。=Mushroom with yellow top.
 
-赤いキノコ=Reg mushroom
+赤いキノコ=Red Mushroom
 傘が赤いキノコ。=Mushroom with red top.
 
-// Sex Toys
-分娩台=Delivery table
-両足を開いて座る診察台。機能：女の子とアクセスするとエッチができる。=2 legs opened examination table. Action: Can sex on it when accessing with girls.
+// H-Items
+//--------------------------------------------------
+分娩台=Delivery Table
+両足を開いて座る診察台。機能：女の子とアクセスするとエッチができる。=2 legs opened examination table. Function: If you access it with a girl, you can have sex.
 
 ディルド=Dildo
-性器を模して造られた模型。機能：女の子がエッチをする。=Model made of penis shape. Action: Can sex on it.
+性器を模して造られた模型。機能：女の子がエッチをする。=Model made of penis shape. Function: Girls have sex.
 
-拘束台=Restraint table
-首と手を拘束する台。機能：女の子とアクセスするとエッチができる。=Table that can restain head and hands. Action: Can sex on it when accessing with girls.
+拘束台=Restraint Table
+首と手を拘束する台。機能：女の子とアクセスするとエッチができる。=Table that can restain head and hands. Function: If you access it with a girl, you can have sex.
 
-壁穴=Wall with hole
-壁に空いた大きな穴。機能：女の子にエッチな悪戯ができる。=Wall with big hole on it. Action: Can make sexual fun of girls.
+壁穴=Wall with Hole
+壁に空いた大きな穴。機能：女の子にエッチな悪戯ができる。=Wall with big hole on it. Function: You can play naughty tricks on girls.
 
-三角木馬=Spanish donkey
-股の部分が三角になっている木馬。機能：女の子とアクセスするとエッチができる。=Triangle shaped horse. Action: Can sex on it when accessing with girls.
+三角木馬=Spanish Donkey
+股の部分が三角になっている木馬。機能：女の子とアクセスするとエッチができる。=Triangle shaped horse. Function: If you access it with a girl, you can have sex.
 
-拘束デンマ台=Restraint vibrator table
-手足を拘束してデンマなどを使う台。機能：女の子とアクセスするとエッチができる。=Table used for vibrator which can restain hands and feet. Action: Can sex on it when accessing with girls.
+拘束デンマ台=Restraint Vibrator Table
+手足を拘束してデンマなどを使う台。機能：女の子とアクセスするとエッチができる。=Table used for vibrator which can restain hands and feet. Function: If you access it with a girl, you can have sex.
 
-拘束鞍馬=Restraint pommel horse
-手足を拘束する鞍馬。機能：女の子とアクセスするとエッチができる。=Pommel horse which restain hands and feet. Action: Can sex on it when accessing with girls.
+拘束鞍馬=Restraint Pommel Horse
+手足を拘束する鞍馬。機能：女の子とアクセスするとエッチができる。=Pommel horse which restain hands and feet. Function: If you access it with a girl, you can have sex.

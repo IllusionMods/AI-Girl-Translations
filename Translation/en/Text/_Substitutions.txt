@@ -1,1 +1,10 @@
-﻿
+﻿// Name Substitutions
+// TODO convert the text that uses these into splitter regexes and have the translations in a separate file, substitutions aren't ideal
+//--------------------------------------------------
+プレイヤー=Player
+ツボミ=Tsubomi
+商人=Trader
+シャン=Shan
+主人公=Hero
+アスナ=Asuna
+紅・兵士=Aka Heishi
