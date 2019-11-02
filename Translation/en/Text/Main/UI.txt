@@ -33,31 +33,30 @@
 
 // MapScene/MapUI(Clone)/CommandCanvas/AllAreaMap(Clone)/Move/warpArea/Scroll View/Viewport/Content/WarpListNode(Clone)/Text
 //--------------------------------------------------
-拠点：浜辺=Base: Beach
-{{A}}の家={{A}}'s House
-拠点：森=Base: Forest
-拠点：廃墟=Base: Ruins
-拠点：ハウジング島=Base: Housing Island
+// for "拠点：XXX" lines
+sr:"^(拠点)(：)(.*)$"=$1$2 $3
+拠点=Base
+シャンの家=Shan's House
+廃墟=Ruins
+浜辺=Beach
+森=Forest
+ハウジング島=Housing Island
 
 // MapScene/MapUI(Clone)/CommandCanvas/AllAreaMap(Clone)/ClickedText/Text
 //--------------------------------------------------
-：拠点：浜辺=: Base: Beach
-：{{A}}の家=: {{A}}'s House
-：拠点：森=: Base: Forest
-：拠点：廃墟=: Base: Ruins
-：グローブ=: Gloves
-：虫網=: Bug Net
-：シャベル=: Shovel
-：ツルハシ=: Pickaxe
-：アイテムボックス=: Item Box
-：端末=: Terminal
-：ベッド=: Bedding
-：椅子=: Seating
-：畑=: Field
-：料理=: Cookery
-：風呂=: Bathing
-：トイレ=: Toilet
-：{{A}}=: {{A}}
+sr:"^(：)(.*)$"="$1 $2
+グローブ=Gloves
+虫網=Bug Net
+シャベル=Shovel
+ツルハシ=Pickaxe
+アイテムボックス=Item Box
+端末=Terminal
+ベッド=Bedding
+椅子=Seating
+畑=Field
+料理=Cookery
+風呂=Bathing
+トイレ=Toilet
 
 
 // MapScene/MapUI(Clone)/CommandCanvas/MenuUI(Clone)/CellularUI
@@ -460,9 +459,9 @@ r:"^(.*)を担ぐ$"=r:"Carry $1"
 // MapScene/MapUI(Clone)/CommandCanvas/CharaLookEditUI(Clone)/Panel/SelectPanel/Infomation/IconText/Text
 女の子の容姿変更=Change Girl's Appearance
 // MapScene/MapUI(Clone)/CommandCanvas/PlayerChangeUI(Clone)/Panel/SelectPanel/Infomation/IconText/Text
-{{A}}を変更=Change {{A}}
+r:"^(.*)を変更$"=r"Change $1"
 // MapScene/MapUI(Clone)/CommandCanvas/PlayerLookEditUI(Clone)/Panel/SelectPanel/Infomation/IconText/Text
-{{A}}の容姿変更=Change {{A}}'s Appearance
+r:"^(.*)の容姿変更"=r:"Change $1's Appearance"
 // MapScene/MapUI(Clone)/CommandCanvas/CharaLookEditUI(Clone)/Panel/SelectPanel/Infomation/ElementLayout/btnCharaCreation/Text
 // MapScene/MapUI(Clone)/CommandCanvas/PlayerLookEditUI(Clone)/Panel/SelectPanel/Infomation/ElementLayout/btnCharaCreation/Text
 キャラ編集=Edit Char.
