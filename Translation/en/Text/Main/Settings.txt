@@ -33,7 +33,13 @@ SSR（反射）=SSR (reflection)
 環境音=Environment
 システムSE=System SFX
 ゲームSE=Game SFX
-シャン=Beauty
+機械的で無感情=Emotionless
+おおらかでやさしい=Friendly
+意識が高く自信家=Confident
+自分勝手でわがまま=Selfish
+無気力でものぐさ=Lazy
+ポジティブで明るい=Positive
+シャン=Shan
 
 ゲーム設定=Game
 ● テキスト=● Text
