@@ -31,11 +31,13 @@
 //--------------------------------------------------
 廃墟の島=Ruined Island
 
+
 // MapScene/MapUI(Clone)/CommandCanvas/AllAreaMap(Clone)/Move/warpArea/Scroll View/Viewport/Content/WarpListNode(Clone)/Text
 //--------------------------------------------------
 // for "拠点：XXX" lines
-sr:"^(拠点)(：)(.*)$"=$1$2 $3
+sr:"^(：?拠点)(：)(.*)$"=$1$2 $3
 拠点=Base
+：拠点=: Base
 シャンの家=Shan's House
 廃墟=Ruins
 浜辺=Beach
