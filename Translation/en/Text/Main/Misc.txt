@@ -51,3 +51,9 @@
 同時に=Climax Simultaneously
 外に出す=Cum Outside
 アドバイス=Advice
+
+// Mouse H Controls
+エッチを開始する=Start H
+// 上で速くなる\n下で遅くなる$=Speed Up\nSlow Down
+// static version (above) doesn't work so use regex
+r:"^上で速くなる\n下で遅くなる$"=r:"Speed Up\nSlow Down"

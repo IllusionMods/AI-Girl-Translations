@@ -37,6 +37,7 @@
 {{A}}の家={{A}}'s House
 拠点：森=Base: Forest
 拠点：廃墟=Base: Ruins
+拠点：ハウジング島=Base: Housing Island
 
 // MapScene/MapUI(Clone)/CommandCanvas/AllAreaMap(Clone)/ClickedText/Text
 //--------------------------------------------------
