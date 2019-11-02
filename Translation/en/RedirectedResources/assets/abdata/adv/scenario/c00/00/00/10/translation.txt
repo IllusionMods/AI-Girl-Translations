@@ -1,5 +1,5 @@
-//……ちょっと、忙しい=I'm little bit busy
-//また、後でね=See you later
-//……ごめん、今は忙しいの=Sorry, i'm busy now
-//後にしてくれると、嬉しい=I will be happy to see you later
-//……今は、話をしたくない= Right now, i don't want to talk
+……ちょっと、忙しい=I'm little bit busy
+また、後でね=See you later
+……ごめん、今は忙しいの=Sorry, i'm busy now
+後にしてくれると、嬉しい=I will be happy to see you later
+……今は、話をしたくない= Right now, i don't want to talk
