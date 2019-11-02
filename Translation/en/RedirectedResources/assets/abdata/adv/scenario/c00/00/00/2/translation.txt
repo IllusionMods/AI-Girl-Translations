@@ -1,7 +1,7 @@
-//……いない、けど=
-//たぶん……いないと思う=
-//誰も……該当しない=
-//セリフ=
-//……教えない=
-//はぁ……今、答えたりしない=
-//あなたに言う必要……ない=
+……いない、けど=...No, but
+たぶん……いないと思う=Maybe...i don't think so
+誰も……該当しない=Nobody...care
+セリフ=Serif
+……教えない=...I will not tell you
+はぁ……今、答えたりしない=Haa...Now, i don't want to answer
+あなたに言う必要……ない=No need...to tell you
