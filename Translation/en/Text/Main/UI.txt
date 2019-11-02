@@ -362,9 +362,9 @@ Hスキル=H-Skill(s)
 
 // Girl - Actions
 //--------------------------------------------------
-{{A}}にアクション=Interact with {{A}}
-{{A}}と話す=Talk with {{A}}
-{{A}}を担ぐ=Carry {{A}}
+r:"^(.*)にアクション$"=r:"Interact with $1"
+r:"^(.*)と話す$"=r:"Talk with $1"
+r:"^(.*)を担ぐ$"=r:"Carry $1"
 下ろす=Drop Off
 ベッドに寝かせる=Put To Bed
 一緒にご飯を食べる=Eat Rice Together

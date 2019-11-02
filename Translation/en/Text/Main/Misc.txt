@@ -7,8 +7,9 @@
 //==================================================
 セーブしました=Scene saved.
 <color%3D#64B916>system</color> :=<color%3D#64B916>System</color> :
-<color%3D#E94321>{{A}}</color>が寝ました=<color%3D#E94321>{{A}}</color> went to sleep.
-<color%3D#E94321>{{A}}</color>が倒れました=<color%3D#E94321>{{A}}</color> collapsed.
+sr:"^(<color[%#0-9A-F]+>)(.*)(</color>)(が寝ました|が倒れました)$"=$1$2$3 $4
+が寝ました=went to sleep.
+が倒れました=collapsed.
 
 // MapScene/MapUI(Clone)/CommandCanvas/CharaEntryUI(Clone)/LoadCharaPanel
 //======================================================================
