@@ -457,13 +457,13 @@ Hアイテム=H-Items
 機械的な装飾の食卓。行動：女の子が食事をする。=Dining table with mechanical decoration. Action: Girls eat.
 
 本と流木机=Driftwood Table with Books
-本が置かれてる流木の机椅子。行動：女の子が本を読む。=Driftwood table with books. Action: Girls read books.
+本が置かれてる流木の机椅子。行動：女の子が本を読む。=Table with books. Action: Girls read books.
 
 本と木の机=Wooden Table with Books
-本が置かれてる流木の机椅子。行動：女の子が本を読む。=Wooden table with books. Action: Girls read books.
+本が置かれてる流木の机椅子。行動：女の子が本を読む。=Table with books. Action: Girls read books.
 
 本と派手な机=Fancy Table with Books
-本が置かれてる流木の机椅子。行動：女の子が本を読む。=Fancy table with books. Action: Girls read books.
+本が置かれてる流木の机椅子。行動：女の子が本を読む。=Table with books. Action: Girls read books.
 
 焚火=Campfire
 薪を燃やす焚火。=Campfire for burning firewood.
