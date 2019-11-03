@@ -94,19 +94,89 @@
 豪華ブイヤベース=Luxury Bouillabaisse
 カップ麺3分後=Instant Cup Noodles
 
-// Unsorted
-//--------------------------------------------------
-疑似餌=Fake Bait
-ミミズ=Earthworm
-
 // Materials
 //--------------------------------------------------
 廃材=Scrap
 
 // Unsorted
 //--------------------------------------------------
-野花= Wild Flowers
+疑似餌=Fake Bait
+ミミズ=Earthworm
+
+// Unsorted
+//--------------------------------------------------
+野花=Wild Flowers
 川の水=River Water
 綿花=Cotton Wool
 睡眠薬=Sleeping Pills
 ダークマター=Dark Matter
+
+
+// Plant(s)
+//--------------------------------------------------
+つる=Vine
+すこし丈夫な植物の蔓。加工すれば何かにつかえそう。=A slightly strong plant vine. If it is processed, it seems to be usable for something.
+霧雨草=Drizzle
+やわらかい多肉植物。集めると飲み水が確保できる。=Soft succulent plant. Collecting water can be secured.
+解熱草=Antipyretic grass
+風邪状態の女の子にあげると熱を下げる効果があるが、このままでは効果は薄い。=If you give it to a girl with a cold, there is an effect to lower the fever, but the effect is not as it is.
+ウズラタマゴダケ=Quail eggs
+小さな卵の形をした食用キノコ。胃腸薬の材料になる。=Edible mushroom in the shape of a small egg. It becomes a material for gastrointestinal drugs.
+デカニガウリ=Decigaiuri
+太く大きく育ったニガウリ。ここまで育つ事は滅多にない。=A bitter gourd that grew thick and big. I rarely grow up so far.
+ニガウリ=Bitter gourd
+表面にイボイボがある細長い緑の植物。食べるとかなり苦い。=An elongated green plant with warts on the surface. It is quite bitter when eaten.
+金管草=Brass grass
+摂取すると寝つきが良くなるが、多用は厳禁。睡眠薬などの材料にも使われる。=Ingestion improves sleep, but heavy use is strictly prohibited. Also used for sleeping pills and other materials.
+綿花=Cotton Wool
+親指ほどの大きさの白い綿毛の花。繭の様にも見える。=A white fluff flower about the size of a thumb. It looks like a spider.
+野花=Wild Flowers
+小さな花が咲く野草。茎にツヤがあり、油分を多く含んでいる。=Wild flowers with small flowers. The stem is glossy and contains a lot of oil.
+
+// Tree(s)
+//--------------------------------------------------
+
+// Fish(es)
+//--------------------------------------------------
+
+// Seed(s)
+//--------------------------------------------------
+
+// Bait
+//--------------------------------------------------
+
+// Drink(s)
+//--------------------------------------------------
+
+// Cooking
+//--------------------------------------------------
+
+// Medicine
+//--------------------------------------------------
+
+// Pet(s)
+//--------------------------------------------------
+
+// Equipment
+//--------------------------------------------------
+
+// Tool
+//--------------------------------------------------
+
+// Present(s)
+//--------------------------------------------------
+
+// Valuable(s)
+//--------------------------------------------------
+
+// Ecchi
+//--------------------------------------------------
+
+// Material(s)
+//--------------------------------------------------
+
+// Skill(s)
+//--------------------------------------------------
+
+// H-Skill(s)
+//--------------------------------------------------
