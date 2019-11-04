@@ -29,22 +29,22 @@
 //------------------------------------------------------------
 やさしさ=Kindness
 快楽=Pleasure
-小悪魔=Impish
-刺激=Stimulation
+小悪魔=Mischief
+刺激=Thrills
 礼儀=Courtesy
-禁断=Forbidden
+禁断=Taboos
 落ち着き=Calmness
-お金=Money
+お金=Wealth
 知性=Intelligence
-信念=Belief
+信念=Conviction​
 忠誠=Loyalty
 持久力=Endurance
-可憐さ=Pretty
-無邪気=Innocent
-不完全=Imperfect
+可憐さ=Sweetness
+無邪気=Innocence
+不完全=Imperfection
 理解力=Understanding
-判断力=Judgement
-癒やし=Soothing
+判断力=Sharpness
+癒やし=Comfort
 
 //------------------------------------------------------------
 // use # to search for instances of the following "\\Sample#"
