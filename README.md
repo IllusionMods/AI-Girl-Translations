@@ -4,11 +4,10 @@ English translation project for AI Girl / AI Shoujo / AI Syoujyo.
 The translations are applied at runtime and do not require replacing or modifying any game files.
 
 ## Installation
-1. Install at least [BepInEx 5 build #161](https://github.com/BepInEx/BepInEx), latest [BepisPlugins for AI](https://github.com/bbepis/BepisPlugins/releases), latest [XUnity.AutoTranslator](https://github.com/bbepis/XUnity.AutoTranslator) and AI_TextResourceRedirector (needed for ADV translations).
+1. Install at least [BepInEx 5 build #161](https://github.com/BepInEx/BepInEx), latest [BepisPlugins for AI](https://github.com/bbepis/BepisPlugins/releases), latest [XUnity.AutoTranslator](https://github.com/bbepis/XUnity.AutoTranslator) and [AI_TextResourceRedirector](https://github.com/DeathWeasel1337/KK_Plugins#textresourceredirector) (needed for ADV translations).
 2. Go to the releases page above and download the latest release. Alternatively, advanced users can get the latest beta translations by clicking "Clone or download" button above. Read the ADV translations section below to see how to enable ADV translations if you do this.
 3. Extract the zip and merge the Translation folder with the one in your BepInEx folder. It's recommended to delete your old translation folder to prevent translation collisions.
-4. Install [TextResourceRedirector](https://github.com/DeathWeasel1337/KK_Plugins#textresourceredirector) for ADV translations to work.
-5. Optionally get [AI_Subtitles](https://github.com/DeathWeasel1337/KK_Plugins#subtitles) to see subtitles, if any.
+4. Optionally get [AI_Subtitles](https://github.com/DeathWeasel1337/KK_Plugins#subtitles) to see subtitles, if any.
 
 ## Contribution
 Any help is appreciated. Regardless of your translation skill and Japanese knowledge you can still help with translations. Even if you have no experience you can help by proofreading or using Google translate or other translation services and then cleaning up the translation using sanity and a bit of logic. Absolutely no raw machine translations will be accepted, users can use [XUnity.AutoTranslator](https://github.com/bbepis/XUnity.AutoTranslator/releases) for that.
