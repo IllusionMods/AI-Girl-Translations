@@ -33,6 +33,13 @@ SSR（反射）=SSR (reflection)
 環境音=Environment
 システムSE=System SFX
 ゲームSE=Game SFX
+機械的で無感情=Emotionless
+おおらかでやさしい=Friendly
+意識が高く自信家=Confident
+自分勝手でわがまま=Selfish
+無気力でものぐさ=Lazy
+ポジティブで明るい=Positive
+シャン=Shan
 
 ゲーム設定=Game
 ● テキスト=● Text
@@ -52,7 +59,7 @@ SSR（反射）=SSR (reflection)
 テキストウィンドウオプション=Show option buttons
 
 ● フィールド=● Field
-操作ガイド表示=Show guide
+操作ガイド表示=Show basic help
 ストーリーヘルプ表示=Show story help
 ミニマップ表示=Show mini map
 中央ポインター表示=Center pointer display

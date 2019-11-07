@@ -1,3 +1,49 @@
+// MapScene/MapUI(Clone)/HUDCanvas/WarningMessageUI(Clone)
+//==================================================
+装備のランクが足りません=Insufficient Equipment Rank
+夜になるまで寝ることはできません=Can't Sleep Until Night
+
+// MapScene/MapUI(Clone)/CommandCanvas/GameLog(Clone)
+//==================================================
+セーブしました=Scene saved.
+<color%3D#64B916>system</color> :=<color%3D#64B916>System</color> :
+sr:"^(<color[%#0-9A-F]+>)(.*)(</color>)(が寝ました|が倒れました)$"=$1$2$3 $4
+が寝ました=went to sleep.
+が倒れました=collapsed.
+
+// MapScene/MapUI(Clone)/CommandCanvas/CharaEntryUI(Clone)/LoadCharaPanel
+//======================================================================
+性別 : =Sex : 
+通常スキル=Normal Skill
+エッチスキル=Ecchi Skill
+ライフスタイル : =Lifestyle : 
+女子力EXP=Girl-power EXP
+信頼EXP=Trust EXP
+人間性EXP=Humanity EXP
+本能EXP=Instinct EXP
+変態EXP=Perversion EXP
+警戒EXP=Vigilance EXP
+社交EXP=Sociability EXP
+闇EXP=Darkness EXP
+
+
+// MapScene/MapUI(Clone)/CommandCanvas/ADVWindow(Clone)/Panel/WindowPanel/WindowLayout/Text
+// MapScene/MapUI(Clone)/CommandCanvas/ChoiceUI(Clone)/BasePanel/Motion/Option(Clone)/Panel/Label
+//--------------------------------------------------
+貴方は普段どうやって息抜きしてる？=How do you usually take a breather?
+いっぱい身体を動かす=Move a lot.
+浜辺で日向ぼっこ=Sunbathe​ on a beach.
+ひたすら寝る=Go to bed.
+//--------------------------------------------------
+あっ……ごめんなさい。最近、寝つきがよくなくて……=Oh... I'm sorry. Recently I haven't been able to sleep well...
+寝る前に身体をほぐすといいよ=Relax your body before going to bed.
+心配……大丈夫？=Worry... Are you okay?
+体調が悪いの？=Are you sick?
+添い寝しようか？=Would you like to sleep together?
+
+
+// Unsorted Translations
+//--------------------------------------------------
 １人目=1st Person
 ２人目=2nd Person
 ３人目=3rd Person
@@ -6,12 +52,9 @@
 同時に=Climax Simultaneously
 外に出す=Cum Outside
 アドバイス=Advice
-アドバイスする=Advise
-データ端末=Data Terminal
 
-//Actions
-商人と話す=Talk to Trader
-明かりをつける=Turn On Light
-中を探る=Search Inside
-調べる=Inspect
-寝る=Sleep
+// Mouse H Controls
+エッチを開始する=Start H
+// 上で速くなる\n下で遅くなる$=Speed Up\nSlow Down
+// static version (above) doesn't work so use regex
+r:"^上で速くなる\n下で遅くなる$"=r:"Speed Up\nSlow Down"

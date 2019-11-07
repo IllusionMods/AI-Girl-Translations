@@ -1,7 +1,7 @@
-//……いない、けど=
-//たぶん……いないと思う=
-//誰も……該当しない=
-//セリフ=
-//……教えない=
-//はぁ……今、答えたりしない=
-//あなたに言う必要……ない=
+……いない、けど=...No, not really
+たぶん……いないと思う=Maybe... Probably not
+誰も……該当しない=Nobody... There's no one really
+//セリフ=DIALOG MISSING
+……教えない=...Won't tell you
+はぁ……今、答えたりしない=Haa... Right now, I don't want to answer
+あなたに言う必要……ない=There's... No need to tell you
