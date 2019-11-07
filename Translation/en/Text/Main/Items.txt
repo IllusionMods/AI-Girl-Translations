@@ -76,7 +76,7 @@
 ソリバナナイモ=Warped Banana Potato
 滅多に出会えない太く立派に反り返ったバナナイモ。かなり貴重な一本。=A thick and warped Banana Potato that is rarely encountered. Quite precious.
 バナナイモ=Banana Potato
-バナナの仲間だが、甘みが無く味もイモに近い。種が多く調理しないと食べられない。=Close to bananas, but they have no sweetness and the taste is close to potatoes. There are a lot of seeds, and you can't eat without cooking.
+バナナの仲間だが、甘みが無く味もイモに近い。種が多く調理しないと食べられない。=Close to bananas, but they have no sweetness and the taste is close to potatoes. There are a lot of seeds, and can't be eaten without cooking it.
 ヤシの実=Coconut
 一般的なヤシの実。かたい殻の中にたっぷりと水分が詰まっている。=Common coconut. There is plenty of water inside its hard husk.
 枝=Branch
@@ -90,7 +90,7 @@
 オッチャン=Manybar Goatfish
 口髭の生えたような顔の中型の魚。=Medium-sized fish with a face that looks like it grew a mustache.
 オニブダイ=Yellowband Parrotfish
-とても美味しいため重宝される大型の高級魚。=Large-sized high-class fish that is valuable because its very delicious.
+とても美味しいため重宝される大型の高級魚。=Large-sized high-class fish that is valued for its deliciousness.
 カニ=Crab
 赤い甲羅が特徴のカニ。レッドクラブとも呼ばれる。=Crab characterized by its red carapace. Also called the red crab.
 コツブウオ=Small Fish
@@ -130,7 +130,7 @@
 // Bait
 //--------------------------------------------------
 オオカワエビ=River Shrimp
-活きのいい大きなカワエビ。大型の魚が好んで食いつく。=Live river shrimp. Large-sized fishes prefer to eat.
+活きのいい大きなカワエビ。大型の魚が好んで食いつく。=Live river shrimp. Large-sized fish prefer to eat this.
 カエル=Frog
 活きのいいカエル。。=Live frog. Large-sized fish sometimes bite.
 ナナイロコウロギ=Rainbow Cricket
@@ -142,7 +142,7 @@
 ミミズ=Earthworm
 活きのいいミミズ。ニオイで小型の魚が寄ってくる。=Live earthworm. Attracts small-sized fish by smell.
 疑似餌=Fake Bait
-初期から選択できる釣り用の簡易的な餌。=Simple bait for fishing that can be selected for the start.
+初期から選択できる釣り用の簡易的な餌。=Simple bait for fishing that can be selected from the start.
 魚団子=Fish Dumpling
 魚のすり身で作った団子。希少な中型の魚をおびき寄せる。=Dumpling made from minced fish. Attracts rare medium-sized fish.
 
@@ -151,7 +151,7 @@
 お湯=Hot water
 水を一度沸騰させて滅菌した飲料水。体温を上げることができる。=Drinking water sterilized by boiling water once. Can be used to raise Body Temperature.
 ガーネットジュース=Garnet Juice
-赤い実の果汁で作ったジュース。体温を下げ、女の子の疲労を少し回復する効果がある。=Made from the juices of a Red Fruit. Has the effect of lowering Body Temperature and slightly recovering the girl from Fatigue.
+赤い実の果汁で作ったジュース。体温を下げ、女の子の疲労を少し回復する効果がある。=Made from the juices of a Red Fruit. Has the effect of lowering Body Temperature and slightly recovering the girl’s Fatigue.
 ココナッツ酒=Coconut Liquor
 ヤシの実とバナナイモで作ったお酒。体温を平常値に戻す代わりに、女の子が眠たくなってしまう。=Liquor made from Coconut and Banana Potato. Instead of regulating the Body Temperature to normal, makes the girl want to sleep.
 ホットコーヒー=Hot Coffee
@@ -159,12 +159,12 @@
 飲み水=Drinking Water
 汚れていない綺麗な水。のどの乾きを癒やす。体温を下げることができる。=Clean water. Quenches thirst. Can lower Body Temperature.
 川の水=River Water
-川を流れる水。体温を下げることはできるが、そのまま飲むと女の子がお腹を壊すことがある。=Water that flows in the river. Can lower Body Temperature, but if drank as is, may ruin the girl's stomach.
+川を流れる水。体温を下げることはできるが、そのまま飲むと女の子がお腹を壊すことがある。=Water that flows in the river. Can lower Body Temperature, but if drunk as is, may upset the girl's stomach.
 
 // Cooking
 //--------------------------------------------------
 オムレツ=Omelette
-タマゴを使った料理。外はフワフワで中はトロトロしている。=Cooking made with eggs. The outside is fluffy and the inside is melting.
+タマゴを使った料理。外はフワフワで中はトロトロしている。=Cooking made with eggs. The outside is fluffy and the inside is melty.
 カップ麺3分後=Ready Cup Noodles
 お湯を注いで作るインスタント食品。簡単に作れて味も悪くない。=Instant food made by pouring Hot Water. Easy to make and even tastes good.
 グラブシチュー=Crab Stew
@@ -174,7 +174,7 @@
 ダークマター=Dark Matter
 調理過程が不明な真っ黒い何か。とても食べれそうにない。=Something pitch black with an unknown cooking process. Looks like you can't eat it by any means.
 タマゴ=Egg
-ニワトリのタマゴ。生で食べると女の子がお腹を壊すことがある。=Chicken Egg. May ruin the girl's stomach when eaten raw.
+ニワトリのタマゴ。生で食べると女の子がお腹を壊すことがある。=Chicken Egg. May upset the girl's stomach when eaten raw.
 チャンプル=Chanpuru
 ニガウリとタマゴで作った炒め物。苦味で少し女の子の目が覚める。=Stir-fry made with Bitter Melon and Egg. Wakes up girl with its bitterness.
 バナナイモサラダ=Banana Potato Salad
@@ -184,7 +184,7 @@
 フライドポテト=French Fries
 バナナイモを油で揚げた料理。=Cooking made by frying Banana Potato in Oil.
 ゆでタマゴ=Boiled Egg
-ニワトリのゆでたタマゴ。安全に食べられる。=Chicken Boiled Egg. Can be safely eaten.
+ニワトリのゆでたタマゴ。安全に食べられる。=Boiled Chicken Egg. Can be safely eaten.
 豪華ブイヤベース=Luxurious Bouillabaisse
 魚介類をふんだんに使ってダシをとった高級スープ。=High-class soup that uses stock taken from plenty of seafood.
 焼き魚=Grilled Fish
@@ -195,7 +195,7 @@
 ガーゼ=Gauze
 綿で作られた医療用のガーゼ。女の子のケガを治すことができる。=A medical gauze made of cotton. Can cure the girl's wounds.
 ローション=Lotion
-エッチ中に使うと、女の子の肌の艶が強くなる。=When used during sex, the girl's skin gloss becomes stronger.
+エッチ中に使うと、女の子の肌の艶が強くなる。=When used during sex, the girl's skin becomes glossier.
 胃腸薬=Digestive
 腹痛に効く薬。女の子の腹痛を治すことができる。=Medicine effective for Stomach Ache. Can cure the girl's Stomach Ache.
 栄養剤=Energy Drink
@@ -274,27 +274,27 @@
 // Tool
 //--------------------------------------------------
 グローブ=Gloves
-ランク2のハンド採取ポイントでアイテムを入手することが、可能になります。=Allows to obtain items at grade 2 hand gathering points.
+ランク2のハンド採取ポイントでアイテムを入手することが、可能になります。=Allows obtaining items at grade 2 hand gathering points.
 シャベル=Shovel
-ランク1のシャベル採取ポイントでアイテムを入手することが、可能になります。=Allows to obtain items at grade 1 shovel gathering points.
+ランク1のシャベル採取ポイントでアイテムを入手することが、可能になります。=Allows obtaining items at grade 1 shovel gathering points.
 ツルハシ=Pickaxe
-ランク1のツルハシ採取ポイントでアイテムを入手することが、可能になります。=Allows to obtain items at grade 1 pickaxe gathering points.
+ランク1のツルハシ採取ポイントでアイテムを入手することが、可能になります。=Allows obtaining items at grade 1 pickaxe gathering points.
 頑丈なグローブ=Sturdy Gloves
-ランク3のハンド採取ポイントでアイテムを入手することが、可能になります。=Allows to obtain items at grade 3 hand gathering points.
+ランク3のハンド採取ポイントでアイテムを入手することが、可能になります。=Allows obtaining items at grade 3 hand gathering points.
 頑丈な虫網=Sturdy Bug Net
-ランク3の虫網採取ポイントでアイテムを入手することが、可能になります。=Allows to obtain items at grade 3 bug net gathering points.
+ランク3の虫網採取ポイントでアイテムを入手することが、可能になります。=Allows obtaining items at grade 3 bug net gathering points.
 上質なシャベル=High-quality Shovel
-ランク3のシャベル採取ポイントでアイテムを入手することが、可能になります。=Allows to obtain items at grade 3 shovel gathering points.
+ランク3のシャベル採取ポイントでアイテムを入手することが、可能になります。=Allows obtaining items at grade 3 shovel gathering points.
 上質なツルハシ=High-quality Pickaxe
-ランク3のツルハシ採取ポイントでアイテムを入手することが、可能になります。=Allows to obtain items at grade 3 pickaxe gathering points.
+ランク3のツルハシ採取ポイントでアイテムを入手することが、可能になります。=Allows obtaining items at grade 3 pickaxe gathering points.
 丈夫なシャベル=Robust Shovel
-ランク2のシャベル採取ポイントでアイテムを入手することが、可能になります。=Allows to obtain items at grade 2 shovel gathering points.
+ランク2のシャベル採取ポイントでアイテムを入手することが、可能になります。=Allows obtaining items at grade 2 shovel gathering points.
 丈夫なツルハシ=Robust Pickaxe
-ランク2のツルハシ採取ポイントでアイテムを入手することが、可能になります。=Allows to obtain items at grade 2 pickaxe gathering points.
+ランク2のツルハシ採取ポイントでアイテムを入手することが、可能になります。=Allows obtaining items at grade 2 pickaxe gathering points.
 丈夫な虫網=Durable Bug Net
-ランク2の虫網採取ポイントでアイテムを入手することが、可能になります。=Allows to obtain items at grade 2 bug net gathering points.
+ランク2の虫網採取ポイントでアイテムを入手することが、可能になります。=Allows obtaining items at grade 2 bug net gathering points.
 虫網=Bug Net
-ランク1の虫網採取ポイントでアイテムを入手することが、可能になります。=Allows to obtain items at grade 1 bug net gathering points.
+ランク1の虫網採取ポイントでアイテムを入手することが、可能になります。=Allows obtaining items at grade 1 bug net gathering points.
 釣り竿=Fishing Rod
 木で作ったシンプルな釣り竿。装備すると釣りをすることができるようになる。=Simple fishing rod made of wood. Equipping makes it possible to fish.
 捕獲ゲージ=Capture Cage
@@ -312,9 +312,9 @@
 アダルト誌=Adult Magazine
 プレゼントすると女の子の変態が50上昇する。=Increases the girl's Perversion by 50 when gifted.
 アニマリック・コロン=Animalic Cologne
-プレゼントすると女の子の本能が10上昇する。=When gifted, the girl's Instinct by 10 when gifted.
+プレゼントすると女の子の本能が10上昇する。=Increases the girl's Instinct by 10 when gifted.
 アメジスト=Amethyst
-プレゼントすると女の子の警戒が100上昇する。=When gifted, the girl's Vigilance by 100 when gifted.
+プレゼントすると女の子の警戒が100上昇する。=Increases the girl's Vigilance by 100 when gifted.
 アンチ：闇=Anti: Darkness
 プレゼントすると女の子の闇が50減少する。=Decreases the girl's Darkness by 50 when gifted.
 アンチ：警戒=Anti: Vigilance
@@ -348,7 +348,7 @@
 シトラス・コロン=Citrus Cologne
 プレゼントすると女の子の人間性が10上昇する。=Increases the girl's Humanity by 10 when gifted.
 シトリン=Citrine
-プレゼントすると女の子の変態が100上昇する。=WIncreases the girl's Perversion by 100 when gifted.
+プレゼントすると女の子の変態が100上昇する。=Increases the girl's Perversion by 100 when gifted.
 シプレ・コロン=Chypre Cologne
 プレゼントすると女の子の社交が10上昇する。=Increases the girl's Sociability by 10 when gifted.
 ダイヤ=Diamond
@@ -405,7 +405,7 @@
 パイプ=Pipe
 鉄を丸めてパイプ状にした素材。	=Material made by rounding iron into a pipe shape.
 バッテリー=Battery
-見たことのない蓄電器。1つだけでとてつもない電力を長期間使い続けることができる。=Never seen before battery. Can continue use an unbelievable amount of power for a long time with just one.
+見たことのない蓄電器。1つだけでとてつもない電力を長期間使い続けることができる。=Never seen before battery. Can continue using an unbelievable amount of power for a long time with just one.
 プレート=Plate
 鉄を薄くのばして板状にした素材。=Material made by thinly spreading iron into a plate.
 ボロボロの手袋=Tattered Gloves
@@ -429,7 +429,7 @@
 錆びた腕輪=Rusted Bracelet
 廃材から取り出した腕輪。錆びていて填められない。=Bracelet taken from scrap. Rusted and can't be worn.
 蛇皮=Snake Skin
-脱皮した蛇の皮。一枚だけでは脆い。=Skin shed from a snake. A single sheet if fragile.
+脱皮した蛇の皮。一枚だけでは脆い。=Skin shed from a snake. A single sheet is fragile.
 丈夫な革=Durable Leather
 丈夫で破れにくい革。様々な革が重ね合っている。=Durable and hard to tear leather. Various leathers are overlapping.
 丈夫な布=Durable Cloth
@@ -439,11 +439,11 @@
 折れた釣り竿=Broken Fishing Rod
 廃材から取り出した釣り竿。折れていて使えない。=Fishing Rod taken from scrap. Broken and can't be used.
 炭材=Charcoal
-木を蒸し焼きにして作った素材。=Material made by charring wood.
+木を蒸し焼きにして作った素材。=Material made by charred wood.
 鉄くず=Scrap Iron
-風化した大昔の鉄くず。まれに使えそうな鉄材が混ざっている。= Weathered and old Scrap Iron. Rarely usable Iron is mixed in.
+風化した大昔の鉄くず。まれに使えそうな鉄材が混ざっている。= Weathered and old Scrap Iron. Rarely, usable Iron is mixed in.
 鉄材=Iron
-鉄でできた素材。加工して使用する。=Material made of Iron. Process and use.
+鉄でできた素材。加工して使用する。=Material made of Iron. Processed and usable.
 電子回路う=Electrical Circuit
 大昔に使われていた機械の回路。通電させる必要がある。=Machine circuit used long ago. Required for electricity to pass.
 燃料=Fuel
@@ -484,7 +484,7 @@
 むっつり=Moody
 エッチな気分がすこし上昇しやくすなる。=Makes it easier to increase Naughty Mood.
 やればできる子=Achiever
-行動中、まれに成長が普段より早くなる。=During actions, growth rarely increases faster than normal.
+行動中、まれに成長が普段より早くなる。=During actions, growth occasionally increases faster than normal.
 ラッキー=Lucky
 グレード2のアイテムを拾ってきやすくなる。=Makes it easier to pick up grade 2 items.
 雨好き=Rain Lover
@@ -508,9 +508,9 @@
 作物の知識=Crop Knowledge
 畑に行きやすくなり、作物の成長をすこし早めてくる。=Makes it easier to go the fields and make crops grow a slightly faster.
 寂しがりや=Lonely
-主人公に話しかけてきやすくなる。=Makes it easier to come talk with the protagonist.
+主人公に話しかけてきやすくなる。=Makes it easier to come and talk with the protagonist.
 呪われた体=Cursed Body
-常に疲労がたまってしまう代わりにエッチな気分の上昇率が上がり、エッチに誘ってくることも多くなる。=In exchange for always ending up tired, Naughty Mood increase rate rises and will often invite for sex.
+常に疲労がたまってしまう代わりにエッチな気分の上昇率が上がり、エッチに誘ってくることも多くなる。=In exchange for always ending up tired, Naughty Mood rises more rapidly and will often invite for sex.
 収集家=Collector
 アイテムを拾いに行きやすくなる。=Makes it easier to go pick up items.
 獣使いの素質=Beastmaster
@@ -530,13 +530,13 @@
 大食い=Glutton
 ご飯を食べに行きやすくなる。=Makes it easier to go eat.
 地形把握=Terrain Grasp
-ツルハシでアイテムを採取することが多くなる。=Often gather items with the pickaxe.
+ツルハシでアイテムを採取することが多くなる。=More often gathers items with the pickaxe.
 虫コレクター=Bug collector
-虫網を使って採取に行きやすくなる。=Makes it easier to go gathering items with the bug net.
+虫網を使って採取に行きやすくなる。=More often gathers items with the bug net.
 超感覚=Super Sense
 コールすると距離が離れていても感覚で主人公の位置を感じ取れるようになる。=When you Call, can sense the protagonist's position even from far away.
 釣り好き=Fishing Lover
-女の子が釣りをしやすくなる。=Makes it easier for the girl to fish.
+女の子が釣りをしやすくなる。=Makes the girl go fishing more often.
 動物好き=Animal Lover
 動物と触れ合いやすくなる。=Makes it easier to get in contact with animals.
 忍耐=Endurance
@@ -607,7 +607,7 @@
 中好き=Creampie Lover
 挿入系エッチ中に中出しを一回でもすると、エッチ後に女の子の本能がすこしあがる。=When you cum inside even once during Insertion sex, the girl's Instinct slightly increases after sex.
 同性好き=Homosexual
-エッチ中にレズ系エッチで一回でも相手を絶頂させると、エッチ終了後に社交が少し上がる。=When you make you partner climax in Lesbian sex even once, Sociability slightly increases after sex.
+エッチ中にレズ系エッチで一回でも相手を絶頂させると、エッチ終了後に社交が少し上がる。=When you make your partner climax in Lesbian sex even once, Sociability slightly increases after sex.
 独りよがり=Self-satisfied
 女の子がマップ中でオナニーすると行動終了後に本能が少し上がる。=When the girl Masturbates around the map, Instinct slightly increases after the act.
 敏感=Sensitive
