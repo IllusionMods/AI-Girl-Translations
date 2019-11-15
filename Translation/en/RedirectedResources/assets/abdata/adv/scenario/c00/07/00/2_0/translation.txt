@@ -1,0 +1,7 @@
+﻿セリフ=Personality
+あなたに言う必要……ない=No need to tell you ...
+はぁ……今、答えたりしない=Well ... I don't answer now
+……教えない=……do not teach
+誰も……該当しない=No one ... not applicable
+たぶん……いないと思う=Maybe ... I don't think so
+……いない、けど=...... not, but
