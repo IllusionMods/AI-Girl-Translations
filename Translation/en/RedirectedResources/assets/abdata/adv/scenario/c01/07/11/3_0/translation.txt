@@ -1,4 +1,4 @@
-﻿わぁ、ありがとう。これは何かしら……？=Wow, thank you. What is this ...?
-私にくれるの？　ふふっ、ありがとう=Can you give me? Thank you
-えっと……ありがとう。大切に使わせてもらうわ=Um ... Thank you. I'll let you use it carefully
-あ、ありがとう……渡す相手は本当に私でいいの？=Oh, thank you ... Is it really me that I can give you?
+//わぁ、ありがとう。これは何かしら……？=
+//私にくれるの？　ふふっ、ありがとう=
+//えっと……ありがとう。大切に使わせてもらうわ=
+//あ、ありがとう……渡す相手は本当に私でいいの？=

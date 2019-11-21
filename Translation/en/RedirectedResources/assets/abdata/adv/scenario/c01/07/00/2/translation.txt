@@ -1,7 +1,7 @@
-﻿セリフ=Personality
-ん～、特にはいないわね=I don't have anything in particular
-う～ん……仲良しと言える人はいないと思うわ=Hmmm ... I don't think anyone can say that
-……考えてみたけど、思いつかないわ=...... I thought, but I can't think of it
-……あなたには秘密よ=...... It ’s a secret to you
-今のあなたには、教えたくないわ=I don't want to tell you now
-あなたには関係ないことだと思うけれど=I do n’t think it ’s relevant to you
+////セリフ=DO NOT UNCOMMENT/TRANSLATE THIS LINE
+//ん～、特にはいないわね=
+//う～ん……仲良しと言える人はいないと思うわ=
+//……考えてみたけど、思いつかないわ=
+//……あなたには秘密よ=
+//今のあなたには、教えたくないわ=
+//あなたには関係ないことだと思うけれど=

@@ -1,4 +1,4 @@
-﻿……ありがとう=……Thank you
-……くれるなら、もらう=...... If you give me, get
-ん……ありがとう=Nh ... Thank you
-くれるの？　ありがとう=Will you give me?\n Thank you
+//……ありがとう=
+//……くれるなら、もらう=
+//ん……ありがとう=
+//くれるの？　ありがとう=

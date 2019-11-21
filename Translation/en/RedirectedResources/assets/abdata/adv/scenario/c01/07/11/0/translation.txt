@@ -1,4 +1,4 @@
-﻿ありがとう、ちょうどお薬がほしかったの=Thank you, I just wanted medicine
-あんまり調子がよくなかったから、すっごく助かるわ=I was n’t feeling well, so it ’s really helpful.
-ぁ……ありがとう。調子がよくないこと、気づいてくれてたのね=Ah ... thank you. You noticed that you ’re not feeling well
-あ、ありがとう。……あなたのお陰で、よくなりそうだわ=Thank you. ...... Thanks to you, it looks good
+//ありがとう、ちょうどお薬がほしかったの=
+//あんまり調子がよくなかったから、すっごく助かるわ=
+//ぁ……ありがとう。調子がよくないこと、気づいてくれてたのね=
+//あ、ありがとう。……あなたのお陰で、よくなりそうだわ=

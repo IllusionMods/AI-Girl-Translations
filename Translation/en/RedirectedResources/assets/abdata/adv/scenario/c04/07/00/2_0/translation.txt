@@ -1,7 +1,7 @@
-﻿セリフ=Personality
-んぅ～……特にいないかなぁ=I don't have anything in particular
-……寂しいことに、いないね～=...... I don't have loneliness ~
-あ～…………考えてみれば、いないかも=Oh ...
-教えないよ。私が誰と仲良かろうと、キミには関係なくない？=I wo n’t tell you. I don't care who you are with me.
-……なんで教えてもらえると思ったの？　言うわけないじゃん=...... Why did you think you could teach me? I can't say
-黙秘しまーす=I'm silent
+////セリフ=DO NOT UNCOMMENT/TRANSLATE THIS LINE
+//んぅ～……特にいないかなぁ=
+//……寂しいことに、いないね～=
+//あ～…………考えてみれば、いないかも=
+//教えないよ。私が誰と仲良かろうと、キミには関係なくない？=
+//……なんで教えてもらえると思ったの？　言うわけないじゃん=
+//黙秘しまーす=

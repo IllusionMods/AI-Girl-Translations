@@ -1,6 +1,6 @@
-﻿……そんな気分じゃないわ=...... I don't feel like that
-……悪いけれど、付き合えないわ=...... I'm bad, but I can't get along
-今はちょっと……付き合えないわ=Right now ... I can't get along
-ごめんなさい。そういう気分じゃないの=I'm sorry. I don't feel like that
-いいけれど……えっ？　本当にその子も一緒なの？=OK ... Is that child really together?
-ビックリする提案ね……でも興味はあるし……その、問題ないわ=I'm surprised ... but I'm interested ... that's fine.
+//……そんな気分じゃないわ=
+//……悪いけれど、付き合えないわ=
+//今はちょっと……付き合えないわ=
+//ごめんなさい。そういう気分じゃないの=
+//いいけれど……えっ？　本当にその子も一緒なの？=
+//ビックリする提案ね……でも興味はあるし……その、問題ないわ=

@@ -1,4 +1,4 @@
-﻿えっ？　ご飯！？　わぁ、ありがと～！=eh?\n rice! ? Wow, thank you!
-貰っていいのぉ？　やったぁ！　大切に食べるねっ！=Is it okay to sing? Yeah! Eat it carefully!
-い、いいの？　貰ったからには返さないよ？=Is that okay? I won't return it when I got it?
-う、嬉しいけど……なんか餌付けされてるみたい=I'm glad but ... I'm feeding
+//えっ？　ご飯！？　わぁ、ありがと～！=
+//貰っていいのぉ？　やったぁ！　大切に食べるねっ！=
+//い、いいの？　貰ったからには返さないよ？=
+//う、嬉しいけど……なんか餌付けされてるみたい=
