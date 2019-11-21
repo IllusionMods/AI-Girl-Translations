@@ -1,7 +1,7 @@
-﻿セリフ=Personality
-うーん……これといって仲良しっていうのはいないわ=Well ... I don't have a good friend
-……考えてみれば、いないかもしれないわ=...... If you think about it, you might not have
-……そう呼べる人はいないわね=...... No one can call you
-ふんっ、少なくともあんたじゃないわよ、この鈍感=Hmm, at least not you, this insensitivity
-何であんたに言わないといけないわけ？=What do you have to say to me?
-答えるわけないでしょ、バカ=You can't answer, you idiot
+////セリフ=DO NOT UNCOMMENT/TRANSLATE THIS LINE
+//うーん……これといって仲良しっていうのはいないわ=
+//……考えてみれば、いないかもしれないわ=
+//……そう呼べる人はいないわね=
+//ふんっ、少なくともあんたじゃないわよ、この鈍感=
+//何であんたに言わないといけないわけ？=
+//答えるわけないでしょ、バカ=

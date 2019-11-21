@@ -1,8 +1,8 @@
-﻿やだもう、上手なんだから=No, it's good
-ふふっ、ありがとう。あなたもとっても素敵よ=Thank you. You are so nice
-まあ、そんなところ見ていたの？　ありがとう、嬉しいわ=Well, did you watch that place? Thank you, I'm happy
-う～ん、本当にそう思ってくれてるのかしら？=Hmmm, do you really think so?
-……褒めてくれて、ありがとう=...... Thank you for giving up
-うん……嬉しいわ、とっても=Yeah ... I'm so happy, very
-……あなたは、褒め上手ね=...... You are good at giving up
-心から思ってくれてる？　悪いけれど、なんだか信じられないわ=Do you really think? It ’s bad, but I ca n’t believe it.
+//やだもう、上手なんだから=
+//ふふっ、ありがとう。あなたもとっても素敵よ=
+//まあ、そんなところ見ていたの？　ありがとう、嬉しいわ=
+//う～ん、本当にそう思ってくれてるのかしら？=
+//……褒めてくれて、ありがとう=
+//うん……嬉しいわ、とっても=
+//……あなたは、褒め上手ね=
+//心から思ってくれてる？　悪いけれど、なんだか信じられないわ=

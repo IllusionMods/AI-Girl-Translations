@@ -1,8 +1,8 @@
-﻿嬉しい、かも……=I might be happy ...
-……変な気持ち=...... Strange feelings
-そう言われるの、嫌じゃないかも=That ’s why I do n’t like it
-……？　私に言ってるの？=......? Are you telling me?
-……私のこと、よく見てくれてるんだね=...... You look closely at me
-……恥ずかしいから、あんまり褒めないで=...... Because I'm embarrassed, don't give up so much
-……嬉しいけど……どういう反応すればいいか、分からない=...... I'm happy ... I don't know what to do
-不穏な気配がする……=I feel disturbed ...
+//嬉しい、かも……=
+//……変な気持ち=
+//そう言われるの、嫌じゃないかも=
+//……？　私に言ってるの？=
+//……私のこと、よく見てくれてるんだね=
+//……恥ずかしいから、あんまり褒めないで=
+//……嬉しいけど……どういう反応すればいいか、分からない=
+//不穏な気配がする……=

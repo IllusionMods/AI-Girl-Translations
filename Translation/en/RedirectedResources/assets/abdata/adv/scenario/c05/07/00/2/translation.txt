@@ -1,7 +1,7 @@
-﻿セリフ=Personality
-んー……特にいないかな=Well ...
-……いない、かな。一人でいることが多いかも=...... No. You may be alone
-うーん、仲の良い人かぁ……思いつかないなぁ=Well, a good friend ... I can't think of it
-ふーんだ、教えてあげないよ=I won't tell you
-……私のこと、君に教える必要ないと思うな=... I don't think I need to teach you
-君に言う必要ないよね？=Do n’t you need to tell you?
+////セリフ=DO NOT UNCOMMENT/TRANSLATE THIS LINE
+//んー……特にいないかな=
+//……いない、かな。一人でいることが多いかも=
+//うーん、仲の良い人かぁ……思いつかないなぁ=
+//ふーんだ、教えてあげないよ=
+//……私のこと、君に教える必要ないと思うな=
+//君に言う必要ないよね？=

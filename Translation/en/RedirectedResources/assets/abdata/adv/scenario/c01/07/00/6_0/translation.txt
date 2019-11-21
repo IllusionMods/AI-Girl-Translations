@@ -1,8 +1,8 @@
-﻿そう言ってくれるあなたも優しくて素敵よ=You are kind and nice
-私のこと、よく知っていてくれてるのね。ありがとうね=You know me very well. Thanks
-ふふ、ちょっと恥ずかしいけど悪い気はしないわね=Fufu, I'm a little embarrassed but I don't feel bad
-難しいわね……長所は短所って言うでしょう？=Is n’t it difficult?
-嬉しいけれど……いえ、素直に喜ぶことにするわ=I'm happy ... but no, I'll be honest
-……そんな風に思ってくれてるのね=...... I think that way
-ありがとう……なんだか、あなたの手のひらで転がされてる気がするわ=Thank you ... I feel like I'm rolling in your palm
-本当にそう思ってる？　今のあなたの言葉を素直に受け止めることが出来ないわ=Do you really think so? I can't take your words straight now
+//そう言ってくれるあなたも優しくて素敵よ=
+//私のこと、よく知っていてくれてるのね。ありがとうね=
+//ふふ、ちょっと恥ずかしいけど悪い気はしないわね=
+//難しいわね……長所は短所って言うでしょう？=
+//嬉しいけれど……いえ、素直に喜ぶことにするわ=
+//……そんな風に思ってくれてるのね=
+//ありがとう……なんだか、あなたの手のひらで転がされてる気がするわ=
+//本当にそう思ってる？　今のあなたの言葉を素直に受け止めることが出来ないわ=

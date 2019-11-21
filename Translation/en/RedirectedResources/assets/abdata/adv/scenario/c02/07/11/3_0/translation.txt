@@ -1,4 +1,4 @@
-﻿これを私に？　ありがとう、大事に使うわ=This to me? Thank you, I will use it carefully
-えっと……ありがたく頂くわ=Well ... thank you
-……ありがとう。機嫌を取ろうとしてるわけではないのよね？=……Thank you. You ’re not trying to be in a good mood, right?
-えっと……ありがとう。……中に変なものを入れたりしてないわよね？=Um ... Thank you. ...... Isn't there something strange inside?
+//これを私に？　ありがとう、大事に使うわ=
+//えっと……ありがたく頂くわ=
+//……ありがとう。機嫌を取ろうとしてるわけではないのよね？=
+//えっと……ありがとう。……中に変なものを入れたりしてないわよね？=

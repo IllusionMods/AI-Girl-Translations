@@ -1,6 +1,6 @@
-﻿ん～、今はちょっと……=Hmm ... for now ...
-あー……それはまた今度で=Ah ... that's again
-いいよー。でも、ちゃんと二人の相手できるー？=Ok. But can you really do two people?
-ごめーん、また今度ねー=Sorry, this time again
-ちょっと気分じゃなかな～=I feel a little bit ~
-三人でかー。ま、面白そうだし、やってみよっかなー=Three people. Well, it looks interesting and I'll try it
+//ん～、今はちょっと……=
+//あー……それはまた今度で=
+//いいよー。でも、ちゃんと二人の相手できるー？=
+//ごめーん、また今度ねー=
+//ちょっと気分じゃなかな～=
+//三人でかー。ま、面白そうだし、やってみよっかなー=

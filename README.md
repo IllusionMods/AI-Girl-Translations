@@ -26,7 +26,12 @@ Coordinate with other translators on the [Illusion Soft Discord server](https://
 ### ADV translations
 Every translation.txt file has the raw Japanese text that needs translations. Each one starts commented out (`//` at the begining) so it will not be loaded. For your text to display correctly in game, put the translation on the right side of the equal sign and remove the `//` at the start of the line. Do not edit the Japanese text or the translation will not work.
 
-Important: The `abdata` folder inside of `Bepinex\Translation\en\RedirectedResources\assets` has to be compressed into a .zip archive to be read by the game (simply right-click on the abdata folder and then compress to .zip). If you update translations inside the abdata folder and want to see them in game, remove `abdata.zip` and create it again. The game has to be restarted in order to do this.
+The `abdata` folder inside of `Bepinex\Translation\en\RedirectedResources\assets` can be compressed into a .zip archive to be read by the game (simply right-click on the abdata folder and then compress to .zip). Uncompressed files under abdata are also still loaded. The game has to be restarted in order to see updated translations.
+
+**Important:** There are a small number of entries in the ADV translations than *must* not be included in the translation text files or the break the game logic.  Do not uncomment any lines that consist of only the following:
+
+- `セリフ`
+- `want`
 
 [TextResourceRedirector](https://github.com/DeathWeasel1337/KK_Plugins#textresourceredirector) is required for these translations.
 

@@ -1,8 +1,8 @@
-﻿当然のことだけど、改めて言われると嬉しいわね=Naturally, I'm glad to say it again
-私がとーっても綺麗ってこと？　ふふん、あんた見る目あるじゃない=Do you mean I'm so beautiful? Huh, you do n’t have eyes to see
-んんぅ、褒めたって何もでないんだからねっ=No, it ’s nothing to give up.
-何かたくらんでる……？=Something is going on ...?
-まあ……悪い気はしないわね=Well ... I don't feel bad
-……他には？　もっと褒めなさいよ=……Other than that? Praise more
-い、いくら褒めたって、何も見返りはないわよ=No matter how much you give up, there is no reward
-ふん……本心から言ってないのがバレバレなのよ=Hmm ... that ’s not what I really say.
+//当然のことだけど、改めて言われると嬉しいわね=
+//私がとーっても綺麗ってこと？　ふふん、あんた見る目あるじゃない=
+//んんぅ、褒めたって何もでないんだからねっ=
+//何かたくらんでる……？=
+//まあ……悪い気はしないわね=
+//……他には？　もっと褒めなさいよ=
+//い、いくら褒めたって、何も見返りはないわよ=
+//ふん……本心から言ってないのがバレバレなのよ=

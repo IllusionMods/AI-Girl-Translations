@@ -1,4 +1,4 @@
-﻿手間をかけさせて……いえ、この場合はお礼を言うべきね。ありがとう=Take time and effort ... No, I should thank you in this case. Thank you
-その……すごく助かったわ。あなたのお陰で快復できそうな気がする=That was really helpful. I feel like I can recover thanks to you
-えっと……ありがとう。……その、本当に=Um ... Thank you. ...... That really
-……すごく、有難いわ。わざわざありがとう=...... Thank you very much. Thank you bother
+//手間をかけさせて……いえ、この場合はお礼を言うべきね。ありがとう=
+//その……すごく助かったわ。あなたのお陰で快復できそうな気がする=
+//えっと……ありがとう。……その、本当に=
+//……すごく、有難いわ。わざわざありがとう=

@@ -1,4 +1,4 @@
-﻿……ありがとう=……Thank you
-えっと……ありがとう。あんたのお陰で、調子が良くなりそうだわ=Um ... Thank you. Thanks to you, it looks like you're going well
-その、ありがとう。……さすがにお礼は言うわよ=Thank you. ...... Thank you so much
-……私の調子が良くないって、気づいてたのね=...... I realized I was n’t feeling well
+//……ありがとう=
+//えっと……ありがとう。あんたのお陰で、調子が良くなりそうだわ=
+//その、ありがとう。……さすがにお礼は言うわよ=
+//……私の調子が良くないって、気づいてたのね=
