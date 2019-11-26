@@ -5,3 +5,4 @@
 ……教えない=...Won't tell you
 はぁ……今、答えたりしない=Haa... Right now, I don't want to answer
 あなたに言う必要……ない=There's... No need to tell you
+……{0}、かな。仲は良いと思う=I guess with... {0}. I think we're friends.

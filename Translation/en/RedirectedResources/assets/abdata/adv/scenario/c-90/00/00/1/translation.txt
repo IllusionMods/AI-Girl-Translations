@@ -5,3 +5,7 @@
 いいもの仕入れて待ってるから=I'll be sure to stock up on some more goodies while you're gone.
 体調は崩さないように。それじゃあね=See you later then, make sure to take care of yourself okay?
 お宝が私を呼んでるから、またね=The treasures are calling me, see you later.
+//初期{0}=
+//森解禁後{0}=
+//廃墟解禁後{0}=
+//クリアフラグ立った後{0}=

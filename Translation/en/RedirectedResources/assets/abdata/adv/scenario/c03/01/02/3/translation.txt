@@ -16,3 +16,9 @@
 //な、なんでよ……ふん、後悔しても遅いんだからっ=
 //ほ、本当にいいのねっ！　あっ、いや……喜んでないわよ、バカっ=
 //うぅ……あんたにお願いした私がバカだったわ=
+CHOICE:ありがとう=Thank you
+CHOICE:別にいいよ=No problem
+CHOICE:別に……=Not particularly...
+CHOICE:いいよ=OK
+CHOICE:しない=No
+CHOICE:ごめん=Sorry

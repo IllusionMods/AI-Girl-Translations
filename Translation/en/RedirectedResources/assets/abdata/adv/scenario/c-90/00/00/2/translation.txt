@@ -10,3 +10,7 @@
 ……実はお宝を隠し持ってたりしない？　ま、そんなわけないか=...You're not hoarding any loot are you? On second thought, probably not that you could hide them from me anyways.
 はぁ～……お目当てのお宝、全然見つからない……=Haa~h...Oh my treasure, where art thou...
 私は諦めが悪いから、トレジャーハンターをやめるつもりはないわ=I'm kind of a stubborn lass, won't be giving up on treasure hunting any time soon.
+//初期{0}=
+//森解禁後{0}=
+//廃墟解禁後{0}=
+//クリアフラグ立った後{0}=

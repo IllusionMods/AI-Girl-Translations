@@ -3,3 +3,5 @@
 お互い、いいトレードにしましょ=Let's make this a good trade.
 ありがとうございました～！=Thank you very much~!
 材料が集まったら、また来てね=Come back when you've gathered more materials.
+//IN{0}=
+//OUT{0}=
