@@ -5,3 +5,7 @@
 ふふ、一流トレジャーハンターの力が必要みたいね=Fufu, seems like you need the help of a professional Treasure Hunter.
 もしかしてお宝でも見つけたっ？=Perhaps, did you find any treasure?
 調子はどう？　いいなら少しあやかりたいかも……=How're you holding up? If you're doing great then maybe share some of that goodness with me...?
+//初期{0}=
+//森解禁後{0}=
+//廃墟解禁後{0}=
+//クリアフラグ立った後{0}=
