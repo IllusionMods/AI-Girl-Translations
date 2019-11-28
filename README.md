@@ -28,12 +28,37 @@ Every translation.txt file has the raw Japanese text that needs translations. Ea
 
 The `abdata` folder inside of `Bepinex\Translation\en\RedirectedResources\assets` can be compressed into a .zip archive to be read by the game (simply right-click on the abdata folder and then compress to .zip). Uncompressed files under abdata are also still loaded. The game has to be restarted in order to see updated translations.
 
-**Important:** There are a small number of entries in the ADV translations than *must* not be included in the translation text files or the break the game logic.  Do not uncomment any lines that consist of only the following:
+
+[TextResourceRedirector](https://github.com/DeathWeasel1337/KK_Plugins#textresourceredirector) **v1.1 (or greater)** is required for these translations.
+
+
+**Important:** There are a small number of entries that *must* not be included in the translation text files or the break the game logic (TextResourceRedirector v1.1+ knows not to replace these).  Do not uncomment any lines that consist of only the following:
 
 - `セリフ`
+- `パターン`
 - `want`
 
-[TextResourceRedirector](https://github.com/DeathWeasel1337/KK_Plugins#textresourceredirector) is required for these translations.
+### Specialized ADV translation lines
+
+There are some specialized resources handled by the resource redirection that require some addititional handling.
+
+#### Format strings
+
+Format strings have replacements in them processed by [`String.Format`](https://docs.microsoft.com/en-us/dotnet/api/system.string.format?view=netframework-4.6#Starting).  The sections that are replaced by the game engine will look like `{0}`, `{1}`, `{2}`, etc.  Usually they are a character name or the name of some item.  The same replacements found in the original string should exist in the translated string.
+
+Example:
+```
+{0}と仲がいいと思ってるわ=I think I'm good friends with {0}.
+```
+
+#### Choices
+
+Because these strings are encoded into a larger entry in the resource files they require special handling by TextResourceRedirector to ensure the text that should no be replaced remains untouched, while allowing the displayed text to be translated. These lines will start with `CHOICE:` followed by the text that needs to be translated.  On the right side of the `=` you need only include the translated text without the `CHOICE:` prefix. 
+
+Example:
+```
+CHOICE:受け取る=Accept
+```
 
 ### Tools
 [Yomichan](https://foosoft.net/projects/yomichan/)  
