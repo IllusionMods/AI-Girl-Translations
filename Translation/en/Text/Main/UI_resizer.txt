@@ -33,3 +33,6 @@ MapScene/MapUI(Clone)/CommandCanvas/MenuUI(Clone)/CellularUI/Interface Panel/Sta
 MapScene/MapUI(Clone)/CommandCanvas/PhotoShotUI(Clone)/HowToGroup=ChangeFontSizeByPercentage(0.7)
 
 CraftScene/Canvas/Add/List/Text Category=UGUI_HorizontalOverflow(overflow)
+
+CharaCustom/CustomControl/CanvasSub/SettingWindow/WinOption/DefaultWin/O_Chara/ddBirthday/textKindTitle=UGUI_VerticalOverflow(truncate)
+CharaCustom/CustomControl/CanvasSub/SettingWindow/WinOption/DefaultWin/O_Chara/ddBirthday/textKindTitle=ChangeFontSizeByPercentage(1.29)
