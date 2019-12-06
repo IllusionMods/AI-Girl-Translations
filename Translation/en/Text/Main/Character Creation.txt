@@ -875,10 +875,13 @@ Tシャツ=T-shirt
 // Options -> Name / Birthday
 //------------------------------------------------------------
 //Name#
+ランダム=Random
 誕生日=Birthday
+
+// CharaCustom/CustomControl/CanvasSub/SettingWindow/WinOption/DefaultWin/O_Chara/ddBirthday/textKindTitle
+//--------------------------------------------------
 月=Month
 日=Day
-ランダム=Random
 
 //------------------------------------------------------------
 // Options -> Type
