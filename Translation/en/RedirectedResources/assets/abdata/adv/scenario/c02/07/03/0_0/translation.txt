@@ -1,4 +1,4 @@
-//えっ……ありがとう。嬉しいわ=
-//貰っていいの？　ありがとう……その、嬉しいわ=
-//……ありがとう。受け取っておくわ=
-//……気持ちは嬉しいわ、ありがとう=
+﻿えっ……ありがとう。嬉しいわ=Eh ... Thank you. I'm happy.
+貰っていいの？　ありがとう……その、嬉しいわ=Can I take it? Thank you... umm, I'm so happy.
+……ありがとう。受け取っておくわ=……Thank you. I'll receive it.
+……気持ちは嬉しいわ、ありがとう=...... I feel happy, thank you.

@@ -1,8 +1,8 @@
-////セリフ=DO NOT UNCOMMENT/TRANSLATE THIS LINE
-//んぅ……特にいないわ=
-//親しい人……親しい人…………思い浮かばないわ=
-//えっと……あまり人と接するのが得意じゃないの。だからいないわ=
-//ノーコメントよ。貴方に教えてあげる義理はないわ=
-//今の貴方には答えたくないわ=
-//……少なくとも、貴方じゃないことは確かだと思うわ=
+﻿////セリフ=DO NOT UNCOMMENT/TRANSLATE THIS LINE
+んぅ……特にいないわ=I don't have any.
+親しい人……親しい人…………思い浮かばないわ=A close person... a close person...... I can't think of anyone.
+えっと……あまり人と接するのが得意じゃないの。だからいないわ=Well ... I'm not good with people. so I don't have any.
+ノーコメントよ。貴方に教えてあげる義理はないわ=No comment. I have no obligation to tell you.
+今の貴方には答えたくないわ=I don't want to answer you right now.
+……少なくとも、貴方じゃないことは確かだと思うわ=...... At least I am sure it's not you.
 ……{0}ね。……私が一方的に思ってるだけかもしれないけど=...with {0}. ...but I think it may be one-sided.
