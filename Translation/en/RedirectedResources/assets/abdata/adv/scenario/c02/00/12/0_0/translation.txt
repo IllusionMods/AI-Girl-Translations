@@ -1,7 +1,7 @@
 //
 // Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
 //
-//貰っていいの？　ありがとう、これでお腹を満たせるわ=
-//えっと……すごく助かるわ。本当にありがとう=
-//……本当にいいの？　それじゃあ……有難く頂くわね=
-//……その……あとで大事に頂くわ=
+貰っていいの？　ありがとう、これでお腹を満たせるわ=I can have this? Thank you, I can satsify my appetite with this.
+えっと……すごく助かるわ。本当にありがとう=Er... This helps me out a lot. Thank you, I mean it.
+……本当にいいの？　それじゃあ……有難く頂くわね=...Is it really okay? Well then... I'll gladly take it.
+……その……あとで大事に頂くわ=...That's... I'll take good care of it later.

@@ -1,13 +1,13 @@
 //
 // Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
 //
-//わかったわ。私でよければ、何か作っておくわ=
-//任せて。……なんて胸を張って言えないけど、私なりに頑張るわ=
-//大したものは作れないかもしれないけど……それでいいなら作っておくわ=
-//それより優先したいことがあるの=
-//まだまだやるべきことがあるから……ごめんなさい=
-//……わかった。ちょっとしたものでよければ、作っておくわ=
-//……暇な時でいいなら=
-//……どうしてもと言うなら、作ってあげるわ=
-//……貴方の指示には従えないわ=
-//悪いけど、私は私のやりたいようにするわ=
+わかったわ。私でよければ、何か作っておくわ=Alright. If you're okay with me, I'll make something.
+任せて。……なんて胸を張って言えないけど、私なりに頑張るわ=Leave it to me... Is what I want to say even though I'm not confident, but I'll try my best.
+大したものは作れないかもしれないけど……それでいいなら作っておくわ=I don't know if I can anything good.... If that's okay with you, I'll make you something.
+それより優先したいことがあるの=There's something more important I have to do.
+まだまだやるべきことがあるから……ごめんなさい=I still have a lot of work to do... I'm sorry.
+……わかった。ちょっとしたものでよければ、作っておくわ=...Got it. If it's something simple, I guess I can do that.
+……暇な時でいいなら=...If I have any time.
+……どうしてもと言うなら、作ってあげるわ=...If you absolutely need it, I'll make it for you.
+……貴方の指示には従えないわ=...I won't be taking your advice.
+悪いけど、私は私のやりたいようにするわ=Sorry, but I'm going to do what I want to do.
