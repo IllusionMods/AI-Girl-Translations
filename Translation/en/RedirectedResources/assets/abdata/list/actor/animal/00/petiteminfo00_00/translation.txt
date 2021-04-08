@@ -1,11 +1,11 @@
 //
 // Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
 //
-//チョウ=
-//ネコ=
-//お魚くわえたネコ=
-//ネコタンク=
-//ヒヨコ=
-//闇の精霊=
+チョウ=Butterfly
+ネコ=Cat
+お魚くわえたネコ=Cat with a fish
+ネコタンク=Tank Cat
+ヒヨコ=Chick
+闇の精霊=Spirit of Darkness
 //キューピー=
-//妖精=
+妖精=Fairy

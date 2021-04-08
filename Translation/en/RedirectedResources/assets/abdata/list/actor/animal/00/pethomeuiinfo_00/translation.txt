@@ -1,5 +1,5 @@
 //
 // Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
 //
-//ペットマット=
-//水槽=
+ペットマット=Petmat
+水槽=Aquarium
