@@ -1,5 +1,5 @@
 //
 // Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
 //
-//騎士の腰当=
-//鬼神の腰当右用=
+騎士の腰当=Knight's Hip Armor
+鬼神の腰当右用=Demon God's Hip Guard (Right)

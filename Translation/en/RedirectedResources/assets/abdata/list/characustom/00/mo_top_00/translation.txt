@@ -1,8 +1,8 @@
 //
 // Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
 //
-//なし=
-//Tシャツ=
+なし=None
+Tシャツ=T-shirt
 //Yシャツ(A)=
 //Yシャツ(B)=
 //ポロシャツ=
