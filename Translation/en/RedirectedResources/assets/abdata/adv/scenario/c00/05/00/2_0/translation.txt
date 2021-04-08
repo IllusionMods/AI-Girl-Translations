@@ -1,8 +1,10 @@
+//
+// Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
+//
 //……いない、けど=
 //たぶん……いないと思う=
 //誰も……該当しない=
-////セリフ=DO NOT UNCOMMENT/TRANSLATE THIS LINE
+……{0}、かな。仲は良いと思う=I guess with... {0}. I think we're friends.
 //……教えない=
 //はぁ……今、答えたりしない=
 //あなたに言う必要……ない=
-……{0}、かな。仲は良いと思う=I guess with... {0}. I think we're friends.

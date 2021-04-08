@@ -1,10 +1,13 @@
-﻿それより優先したいことがあるの=There's something more important I have to do.
-まだまだやるべきことがあるから……ごめんなさい=I still have a lot of work to do... I'm sorry.
-……貴方の指示には従えないわ=...I won't be taking your advice.
-悪いけど、私は私のやりたいようにするわ=Sorry, but I'm going to do what I want to do.
+//
+// Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
+//
 そうね……疲れを取るためにも、じっくり休んだ方がいいかもしれないわね=Yeah... Before getting tired, it might be better to get some proper rest, you never know.
 わかった。そろそろ寝させてもらうわ=Got it. I'll go get some sleep soon.
 自覚がないだけで疲れてる可能性もあるし……うん、ひと眠りさせてもらうわ=There is a chance I might be tired without even knowing it... Okay, I'll go sleep then.
+それより優先したいことがあるの=There's something more important I have to do.
+まだまだやるべきことがあるから……ごめんなさい=I still have a lot of work to do... I'm sorry.
 ……そうね。ひと眠りした方がいいかもしれないわね=...You're right. It might be better to get some sleep, you never know.
 ……やりたいことが終わったら、勝手に寝るから心配しないで=...I still have things to do, I'll sleep after I'm done so don't worry.
 ……気にかけなくても、眠たくなったら寝るわ=...Even if you don't say anything, I'll sleep when I feel like it.
+……貴方の指示には従えないわ=...I won't be taking your advice.
+悪いけど、私は私のやりたいようにするわ=Sorry, but I'm going to do what I want to do.

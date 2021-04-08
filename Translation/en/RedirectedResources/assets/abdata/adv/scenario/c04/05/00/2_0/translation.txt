@@ -1,8 +1,10 @@
+//
+// Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
+//
 //んぅ～……特にいないかなぁ=
 //……寂しいことに、いないね～=
 //あ～…………考えてみれば、いないかも=
-////セリフ=DO NOT UNCOMMENT/TRANSLATE THIS LINE
+うーん、{0}かなぁ。仲良しだと思ってるよ=Humm, I guess with {0}. I think we're close friends.
 //教えないよ。私が誰と仲良かろうと、キミには関係なくない？=
 //……なんで教えてもらえると思ったの？　言うわけないじゃん=
 //黙秘しまーす=
-うーん、{0}かなぁ。仲良しだと思ってるよ=Humm, I guess with {0}. I think we're close friends.

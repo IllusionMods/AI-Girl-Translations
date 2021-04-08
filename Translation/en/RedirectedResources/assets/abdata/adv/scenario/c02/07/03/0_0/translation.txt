@@ -1,4 +1,7 @@
-﻿えっ……ありがとう。嬉しいわ=Eh... Thank you. This makes me happy.
+//
+// Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
+//
+えっ……ありがとう。嬉しいわ=Eh... Thank you. This makes me happy.
 貰っていいの？　ありがとう……その、嬉しいわ=I can take this? Thank you... That is, I'm happy.
 ……ありがとう。受け取っておくわ=...Thank you. I'll take it.
 ……気持ちは嬉しいわ、ありがとう=...I feel really happy, thank you.

@@ -1,4 +1,7 @@
-﻿……あまり気分のいい話じゃないわね=...I'm not really in the mood for that kind of talk.
+//
+// Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
+//
+……あまり気分のいい話じゃないわね=...I'm not really in the mood for that kind of talk.
 ……からかうのはやめて=...Stop teasing me.
 ……私、そういう話には付き合えないわ=...I can't keep up with that story.
 不潔ね。近寄らないでくれる？=Filthy. Can you stay away from me?

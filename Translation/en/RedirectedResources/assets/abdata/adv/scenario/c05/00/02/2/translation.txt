@@ -1,4 +1,6 @@
+//
+// Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
+//
 //あのね、君にお願いしたいことがあるんだ=
-////want=DO NOT UNCOMMENT/TRANSLATE THIS LINE
-//時間があったらでいいから、お願いっ=
 がほしいから、一緒に探してくれないかな？=I want it, wont' you look for it with me?
+//時間があったらでいいから、お願いっ=

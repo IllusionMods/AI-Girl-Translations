@@ -1,4 +1,7 @@
-﻿そうね、少し休むことにするわ=Yeah, then I'll rest a bit.
+//
+// Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
+//
+そうね、少し休むことにするわ=Yeah, then I'll rest a bit.
 休むことも大切だものね。わかったわ=Taking a break is also important. I got it.
 限界を超える前に、休んでおくわ=Before I go over my limit, I'll take a break.
 それより優先したいことがあるの=There's something more important I have to do.

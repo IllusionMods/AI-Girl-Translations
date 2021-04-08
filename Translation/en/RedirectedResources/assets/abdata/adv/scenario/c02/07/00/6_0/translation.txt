@@ -1,4 +1,7 @@
-﻿少しだけど、自信を持てた気がするわ=It's just a bit, but I feel more confident in myself.
+//
+// Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
+//
+少しだけど、自信を持てた気がするわ=It's just a bit, but I feel more confident in myself.
 特に意識はしていなかったけれど、貴方が言うならそうなのかも=I don't really think I am, but if you say so, then it might be true.
 少し褒めすぎよ……でも……嬉しいわ=You're exaggerating... but... I'm happy.
 ……大げさな褒め方ね=...You're exaggerating too much.

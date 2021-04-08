@@ -1,4 +1,7 @@
-﻿うーん、考え付かないわ=Hmm, I can't think of any right now.
+//
+// Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
+//
+うーん、考え付かないわ=Hmm, I can't think of any right now.
 たぶん、お気に入りと言えるほどの場所はないわ=There probably isn't any place here that I can say is my favourite.
 ……これと言ってないわね=...I don't think I can say it.
 砂の感触と、目の前に広がる海、いいと思わない？=Isn't the thought of feeling the sand under your feet and seeing how big the ocean in front of you really nice?

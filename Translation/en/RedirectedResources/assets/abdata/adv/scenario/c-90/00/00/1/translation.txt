@@ -1,3 +1,6 @@
+//
+// Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
+//
 それじゃ、私はお宝探しに戻るから=Well then, I'll go back to treasure hunting.
 何かあったら、また声かけて=If there's something else you need, just give me a holler.
 材料集まったら、必ず声かけてよ=Make sure to call me again once you've gathered more materials.
@@ -5,7 +8,3 @@
 いいもの仕入れて待ってるから=I'll be sure to stock up on some more goodies while you're gone.
 体調は崩さないように。それじゃあね=See you later then, make sure to take care of yourself okay?
 お宝が私を呼んでるから、またね=The treasures are calling me, see you later.
-//初期{0}=
-//森解禁後{0}=
-//廃墟解禁後{0}=
-//クリアフラグ立った後{0}=

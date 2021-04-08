@@ -1,4 +1,6 @@
+//
+// Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
+//
 //あのね、あなたにお願いしたいことがあるの=
-////want=DO NOT UNCOMMENT/TRANSLATE THIS LINE
-//お願い、頼めるのはあなたしかいないの=
 がほしいのだけど、見つからなくて……探すのを手伝ってくれない？=I want it, but I can't find it... won't you help me look for it?
+//お願い、頼めるのはあなたしかいないの=

@@ -1,8 +1,10 @@
+//
+// Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
+//
 //ん～、特にはいないわね=
 //う～ん……仲良しと言える人はいないと思うわ=
 //……考えてみたけど、思いつかないわ=
-////セリフ=DO NOT UNCOMMENT/TRANSLATE THIS LINE
+そうねぇ……{0}とは仲良しだと思うわ=Well... I think I'm friends with {0}.
 //……あなたには秘密よ=
 //今のあなたには、教えたくないわ=
 //あなたには関係ないことだと思うけれど=
-そうねぇ……{0}とは仲良しだと思うわ=Well... I think I'm friends with {0}.

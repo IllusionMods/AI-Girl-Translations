@@ -1,8 +1,10 @@
-////セリフ=DO NOT UNCOMMENT/TRANSLATE THIS LINE
+//
+// Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
+//
 //うーん……これといって仲良しっていうのはいないわ=
 //……考えてみれば、いないかもしれないわ=
 //……そう呼べる人はいないわね=
+{0}と仲がいいと思ってるわ=I think I'm good friends with {0}.
 //ふんっ、少なくともあんたじゃないわよ、この鈍感=
 //何であんたに言わないといけないわけ？=
 //答えるわけないでしょ、バカ=
-{0}と仲がいいと思ってるわ=I think I'm good friends with {0}.

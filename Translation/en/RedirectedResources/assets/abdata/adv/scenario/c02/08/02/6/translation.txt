@@ -1,10 +1,13 @@
+//
+// Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
+//
 す、少しいいかしら？=I-is now a good time?
-たまには、あなたと一緒に……寝たりしたいなと思ったのだけど……どう？=From time to time, with you... I thought we could sleep maybe together but... what do you think? 
+たまには、あなたと一緒に……寝たりしたいなと思ったのだけど……どう？=From time to time, with you... I thought we could sleep maybe together but... what do you think?
 CHOICE:いいよ=OK
 CHOICE:ごめん=Sorry
 本当？　ふふ、ありがとう=Really? Fufu, thank you.
 そ、そう……こういうことは嫌いだったのね=T-that so... I guess you would hate this sort of thing.
 ちょっといい？　少し試してみたいことがあるのだけれど……=Is now good? There's something I kind of want to try but...
 えっと、一緒に寝たら人の仲は深まるのかということよ。試してみてもいい？=Er, we might become closer if we slept together. Is it okay to try it out?
-ふふ、あなたならそう言ってくれると思ったわ=Fufu, I thought you'd say that. 
-ぁ……忙しいならいいの。それじゃあ=Ah... so you're busy. Then see you. 
+ふふ、あなたならそう言ってくれると思ったわ=Fufu, I thought you'd say that.
+ぁ……忙しいならいいの。それじゃあ=Ah... so you're busy. Then see you.

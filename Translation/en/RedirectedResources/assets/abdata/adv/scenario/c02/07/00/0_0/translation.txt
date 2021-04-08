@@ -1,6 +1,9 @@
-﻿すごくいいと思うわ。もっと自信を持っていいんじゃない？=I think you're great. Isn't it alright to have more confidence in yourself?
+//
+// Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
+//
 ふふ、気にしてるの？　大丈夫、素敵な人よ=Fufu, are you curious? It's okay, you're wonderful person.
 正直、かなり良い方だと思うわ=Honestly, I think you're a pretty good person.
+すごくいいと思うわ。もっと自信を持っていいんじゃない？=I think you're great. Isn't it alright to have more confidence in yourself?
 いいと思うわ。私基準の話だけれど……=I think you're good. That's just my opinion though...
 そうね……悪くはないと思うわ=Well... I don't think you're bad.
 んー……特に不満はないわね=Hmm... I don't have any particular complaints.
