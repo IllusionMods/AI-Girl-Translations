@@ -1,20 +1,20 @@
 //
 // Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
 //
-//いいけど……わ、私のを見たいだなんて……変わってるわね=
-//見るだけなら構わないけど……そこまで良いものかしら？=
-//ほ、本当は人にお願いすることではないと思うけれど……仕方ないわね=
-//……貴方の頼みだから、するのよ？=
-//そ、そういう気分になったら……考えておくわ=
-//っ……あ、あとで……しておくわ=
-//……そんなお願いは聞けないわ=
-//……はっきり言って、したくないわ=
-//っ……私はそんなことしないわ=
-//……言うことを聞くと思ったら大間違いよ=
-//っ……不潔なお願いをしないでほしいわ=
-//っ……こ、今回だけよ=
-//っ……遠くで見るだけなら……別に構わないわ=
-//……しつこく頼まれても困るし、聞いてあげるわ=
-//絶対にしないわ=
-//ふざけたことを言わないで=
-//そんな頼み事は聞けないわ=
+いいけど……わ、私のを見たいだなんて……変わってるわね=It's fine, but... T-to want to look at mine... You're very weird.
+見るだけなら構わないけど……そこまで良いものかしら？=I don't mind if you're just going to look, but... Is that really good enough?
+ほ、本当は人にお願いすることではないと思うけれど……仕方ないわね=I-I really don't think that's something you should ask of people but... I guess I have no choice.
+……貴方の頼みだから、するのよ？=...Did you think just because you asked, I would do it?
+そ、そういう気分になったら……考えておくわ=I-If I feel like it... I'll think about it.
+っ……あ、あとで……しておくわ=Suu... L-later... I'll do it later.
+……そんなお願いは聞けないわ=...I can't do that ridiculous request.
+……はっきり言って、したくないわ=...If I'm being honest, I don't want to do that.
+っ……私はそんなことしないわ=Suu... I won't do that sort of thing.
+……言うことを聞くと思ったら大間違いよ=...You're making a big mistake if you think I'm going to do what you're asking.
+っ……不潔なお願いをしないでほしいわ=Suu... I wish you wouldn't ask me to do such a filthy request.
+っ……こ、今回だけよ=Suu... J-just this time.
+っ……遠くで見るだけなら……別に構わないわ=Suu... I guess if you're looking from afar... Then I don't mind.
+……しつこく頼まれても困るし、聞いてあげるわ=...Since it'll be a bother if you kept persistently asking me, I'll do what you say.
+絶対にしないわ=Absolutely not.
+ふざけたことを言わないで=Don't say such absurd things.
+そんな頼み事は聞けないわ=I can't do such a ridiculous request.

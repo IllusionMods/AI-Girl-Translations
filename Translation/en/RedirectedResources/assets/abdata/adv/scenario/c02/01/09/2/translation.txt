@@ -1,9 +1,9 @@
 //
 // Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
 //
-//いいけれど……えっ？　本当にその子も一緒なの？=
-//ビックリする提案ね……でも興味はあるし……その、問題ないわ=
-//……そんな気分じゃないわ=
-//……悪いけれど、付き合えないわ=
-//今はちょっと……付き合えないわ=
-//ごめんなさい。そういう気分じゃないの=
+いいけれど……えっ？　本当にその子も一緒なの？=Well it's fine... eh? Does that girl really have it together?
+ビックリする提案ね……でも興味はあるし……その、問題ないわ=I'm surprised by that proposal... but I'm interested... Well, it's no problem.
+……そんな気分じゃないわ=...I'm not really in the mood for that.
+……悪いけれど、付き合えないわ=...I feel sorry, but I can't go along with that.
+今はちょっと……付き合えないわ=Right now is a little... I can't go along with that.
+ごめんなさい。そういう気分じゃないの=I'm sorry. I don't really feel like it.

@@ -1,12 +1,12 @@
 //
 // Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
 //
-//いいわよ。どこまで行くの？=
-//問題ないわ。どこへ行くの？=
-//いいわ。目的地は決まっているの？=
-//悪いけど、忙しいの=
-//今すぐはちょっと……ごめんなさい=
-//はぁ……仕方ないわね=
-//……用事はさっさと済ませてちょうだいね=
-//……行かないわ=
-//……素直に付いていくと思ったの？=
+いいわよ。どこまで行くの？=That's fine. How far are we going?
+問題ないわ。どこへ行くの？=I don't mind. Where are we going?
+いいわ。目的地は決まっているの？=Alright. Have you decided the destination?
+悪いけど、忙しいの=It's a shame, but I'm busy.
+今すぐはちょっと……ごめんなさい=Right now is a little... I'm sorry.
+はぁ……仕方ないわね=Hah... I guess I have no choice.
+……用事はさっさと済ませてちょうだいね=...Let's please quickly finish this then.
+……行かないわ=...I won't go.
+……素直に付いていくと思ったの？=...Did you really think I would just follow you?

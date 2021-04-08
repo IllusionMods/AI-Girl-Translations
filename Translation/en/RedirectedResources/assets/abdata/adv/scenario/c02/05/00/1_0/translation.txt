@@ -1,17 +1,17 @@
 //
 // Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
 //
-//特に異常は無いわ。心配してくれて、ありがとう=
-//いたって健康よ=
-//そうね……特に問題ないと思うわ=
-//……聞かれたから答えるけど、ストレスが溜まっているわ=
-//私の体調がどうであろうと、貴方には関係ないと思うけれど=
-//貴方に教える必要性を感じないわ=
-//なんだか体が重い気がするわ……=
-//お腹の調子がよくないみたい……あ、あまり近付かないでね？=
-//疲労が溜まっているようね……少し無茶をし過ぎたのかも……=
-//体が熱くて、頭もボーっとしている感じよ……=
-//ッ……怪我をしてしまったの。ほんと、情けないわ=
-//お腹が空いてるわ……早く何か食べなきゃね=
-//濡れてて身体が冷えてるわ……=
-//私、匂わない？　はぁ……さっぱりしたい……=
+特に異常は無いわ。心配してくれて、ありがとう=There's no problem so far. Thank you for your concern.
+いたって健康よ=I'm feeling really healthy.
+そうね……特に問題ないと思うわ=Let's see... I don't think there's any problems so far.
+……聞かれたから答えるけど、ストレスが溜まっているわ=...I'll answer because you asked, but I feel stressed out.
+私の体調がどうであろうと、貴方には関係ないと思うけれど=Whatever state I'm feeling, I don't think that's any of your business.
+貴方に教える必要性を感じないわ=I don't feel like I have to tell you.
+なんだか体が重い気がするわ……=Somehow my body feels kinda heavy...
+お腹の調子がよくないみたい……あ、あまり近付かないでね？=My stomach isn't feeling all that good... D-don't get too close, okay?
+疲労が溜まっているようね……少し無茶をし過ぎたのかも……=I'm starting to feel tired... I might have overdone it...
+体が熱くて、頭もボーっとしている感じよ……=I feel hot and my mind is totally blank...
+ッ……怪我をしてしまったの。ほんと、情けないわ=Guh...I got hurt. Seriously, this is shameful.
+お腹が空いてるわ……早く何か食べなきゃね=I'm hungry... I should eat something soon.
+濡れてて身体が冷えてるわ……=I'm drenched and I'm freezing...
+私、匂わない？　はぁ……さっぱりしたい……=Do I smell? Hah... I want to clean myself up...
