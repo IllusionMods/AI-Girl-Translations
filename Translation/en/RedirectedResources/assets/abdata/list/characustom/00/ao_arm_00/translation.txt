@@ -1,8 +1,8 @@
 //
 // Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
 //
-//腕章A=
+腕章A=Armband A
 //腕章B=
-//レザーアーム=
-//アームレット=
-//バンダナ巻き=
+レザーアーム=Leather Arm
+アームレット=Armlet
+バンダナ巻き=Bandana Winding

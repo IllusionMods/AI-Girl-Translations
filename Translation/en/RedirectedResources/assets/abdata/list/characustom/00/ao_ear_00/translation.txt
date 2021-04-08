@@ -1,10 +1,10 @@
 //
 // Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
 //
-//スター=
-//スターリング=
-//クリスタル=
-//クリスタルピラー=
-//三連イヤリング=
-//フラワー=
-//パール=
+スター=Star
+スターリング=Sterling
+クリスタル=Crystal
+クリスタルピラー=Crystal Pillar
+三連イヤリング=Triple Earrings
+フラワー=Flower
+パール=Pearl
