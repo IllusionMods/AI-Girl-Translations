@@ -1,4 +1,6 @@
+//
+// Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
+//
 //ちょっと、あんたに頼みごとがあるんだけど=
-////want=DO NOT UNCOMMENT/TRANSLATE THIS LINE
-//用意できたら声をかけて。それじゃ=
 がほしいから、すぐに用意してちょうだい=I want it, get it quickly.
+//用意できたら声をかけて。それじゃ=

@@ -1,7 +1,8 @@
+//
+// Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
+//
 お、いいもの持ってきてくれた？=Oh, got something good with you?
-自慢の品揃えだから、あなたも満足するはずよ=Only the best of items here; I'm sure you'll love them too. 
+自慢の品揃えだから、あなたも満足するはずよ=Only the best of items here; I'm sure you'll love them too.
 お互い、いいトレードにしましょ=Let's make this a good trade.
 ありがとうございました～！=Thank you very much~!
 材料が集まったら、また来てね=Come back when you've gathered more materials.
-//IN{0}=
-//OUT{0}=

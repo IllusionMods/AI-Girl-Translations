@@ -1,4 +1,4 @@
-﻿// Name Substitutions
+// Name Substitutions
 // TODO convert the text that uses these into splitter regexes and have the translations in a separate file, substitutions aren't ideal
 //--------------------------------------------------
 プレイヤー=Player

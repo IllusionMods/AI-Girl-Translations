@@ -1,3 +1,6 @@
+//
+// Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
+//
 っ、誰！？=Who's there!?
 無断で人んちに入ってくるなんて、いい度胸ね。まさかとは思うけど、あなたたち同業者？=That's some guts you got there partner, waltzing into to someone's house without their permission like that. But say, perhaps you people are colleagues of some sort?
 この島に上陸できた腕は素直に褒めてあげる=I'll have to admit, you've got some pretty sick skills to have been abled to land on this island.
@@ -12,7 +15,7 @@
 ただのバカンス目的でこの島に来るわけないでしょ=There's no way you would come to this island just for a vacation.
 ……ふ～ん、そこの浜辺で倒れてるところを彼女に起こされたはいいけど=...I see, so you're telling me what you were lying unconscious on that beach over yonder when your girl-friend over woke you up; which is fine and all.
 二人ともここに来るまでの記憶は一切なくて困っていた、と……=But you're also telling me that you're both suffering from a mild case of amnesia...
-浜辺に怪しい船はなかったし、不運にも事故に巻き込まれて流されてきた、ってのが妥当かな= Well there wasn't any suspicious looking ships around the beach, so you guys were probably caught in some unfortunate accidents and then washed up here.
+浜辺に怪しい船はなかったし、不運にも事故に巻き込まれて流されてきた、ってのが妥当かな=Well there wasn't any suspicious looking ships around the beach, so you guys were probably caught in some unfortunate accidents and then washed up here.
 それなら、あなたたちの記憶がないのも納得できるしね=If that's the case, I can understand why you don't have any memories.
 さて、どうしたものか。この二人が島に流れ着く前は同業者だった可能性を考えると……=Hmmm well, now what will I ever do with these two. Considering the fact that they may be lying and are in fact treasure hunters in disguise......
 今のうちに海へ流しとく？　でも、それにしてはどんくさすぎるかな……=Maybe make them swim with the fishies now while I can ? But then again, they do seem too klutzy to be actual treasure hunters...
@@ -25,7 +28,7 @@
 あ～、んんっ、んぅ……いやぁ、今の話を聞いて涙がちょちょぎれそうだったよ、大変だったねぇ=Ah~, *cough*, *cough*, ……ma~n, your storu literally brought me to the brink of tears, must have been rough eh.
 でも、もう安心していいからね！　記憶が戻るまで、ここでゆっくりしていってくれたまえ！=But, you can rest assured! You can chill out here until your memories return.
 今はこの島に外から上陸するのは難しいが、そのうち潮の流れが落ち着くときがくる=It's difficult to land on this island from the outside at the moment, but the currents should eventually settle down.
-その時にでも救助を呼ぶとしよう！　ハッハッハッ= Won't be too late to call for help then! Hahaha.
+その時にでも救助を呼ぶとしよう！　ハッハッハッ=Won't be too late to call for help then! Hahaha.
 ……こほん、では改めて。私は伝説の凄腕トレジャーハンター『シャン』よ。よろしく！=……cough, so again from the top. I am the legendary and resourceful treasure hunter "Shan". Nice to meet you!
 とりあえず、私が使ってない間ならこの拠点は好きにしていいわ。でも、そのぉ……=For the time being, you can do as you like with this base while I'm not using it. But, you seeee……
 助けると言った手前言いにくいんだけど、この無人島で三人で生きていくにはいろいろと大変なの=It's kinda hard to say this right after I said I'd help you, but three people living in an inhabited island is all kinds of tough.
@@ -43,7 +46,7 @@
 もちろん、タダでとは言わない！=Of course, I won't say it's for free!
 こんな無人島にお金なんてないから物々交換になっちゃうけど、ちゃんと見返りは用意するつもりよ=We'll end up trading things because there isn't something like money on this inhabited island, but I intend to prepare a proper compensation.
 中にはあなたの役に立つモノもあるだろうし、暇な時でいいから手伝ってほしいわ=I think some of them will even be useful to you, so I want you to help me when you're free.
-いいでしょ？　悪い話でもないし……それに、私は拠点を貸してあげる恩人だよ？　だから……ね？=Good, don't you think?　It's not that bad……besides, I'm the benefactor lending you my base? So…… pretty please?
+いいでしょ？　悪い話でもないし……それに、私は拠点を貸してあげる恩人だよ？　だから……ね？=Good, don't you think? It's not that bad……besides, I'm the benefactor lending you my base? So…… pretty please?
 ……コクッ=……Nod
 よしっ、頷いた！　頷いたからには、よろしく頼んだよっ！=Alright, you nodded! Because you nodded, I'm counting on you-!
 さてと、島の生活についての話はこれくらいかな=Well, this is it for the talk about the island life.

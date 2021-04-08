@@ -1,10 +1,13 @@
-﻿それより優先したいことがあるの=There's something more important I have to do.
-まだまだやるべきことがあるから……ごめんなさい=I still have a lot of work to do... I'm sorry.
-……貴方の指示には従えないわ=...I won't be taking your advice.
-悪いけど、私は私のやりたいようにするわ=Sorry, but I'm going to do what I want to do.
+//
+// Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
+//
 そうね、水分補給は大事だし何か飲んでおくわ=You're right, being hydrated is important so I'll get something to drink.
 休憩ついでに、喉を潤してくるわ=I'll drink something when I'm taking a break later.
 まだ大丈夫だと思うけど……油断は禁物ね。喉がかわく前に飲むことにするわ=I think I'm still okay but... It's better not to be careless. I'll drink something before I'm feeling thristy.
+それより優先したいことがあるの=There's something more important I have to do.
+まだまだやるべきことがあるから……ごめんなさい=I still have a lot of work to do... I'm sorry.
 ……わかった。休憩がてら水分補給するわ=...I understand. I'll get something to drink on my break.
-……休まないと倒れてしまうし 、後で摂取しておくわ=...It'll be troublesome if I collapse on my break, so I'll drink something soon.
+//……休まないと倒れてしまうし、後で摂取しておくわ=
 ……時間を作って、飲んでおくわ=...I'll take time to drink something.
+……貴方の指示には従えないわ=...I won't be taking your advice.
+悪いけど、私は私のやりたいようにするわ=Sorry, but I'm going to do what I want to do.

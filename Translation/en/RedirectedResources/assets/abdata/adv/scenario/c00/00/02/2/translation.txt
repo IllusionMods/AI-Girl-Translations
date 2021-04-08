@@ -1,4 +1,6 @@
+//
+// Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
+//
 //あなたに、お願いしたいことがある=
-////want=DO NOT UNCOMMENT/TRANSLATE THIS LINE
-//……よろしく=
 がほしいから……持ってたら、ちょうだい=I want it... if you have it, please give it to me.
+//……よろしく=

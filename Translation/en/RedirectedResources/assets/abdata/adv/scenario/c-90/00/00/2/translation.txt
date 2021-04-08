@@ -1,8 +1,11 @@
+//
+// Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
+//
 風邪を引いたら薬よ。必要なら私に声かけて。たま～に持ってるから=You'll need some medicines if you've got the cold. If you need them then give me a call, I mi~ght have some off the cuff.
 女の子のお世話はちゃんとしてる？=Are you taking care of the girls properly?
 何はともあれ材料集めね。励んでる？=Whatever the case maybe, it all comes down to material collection. You doing well on that front?
 うんうん、今日も元気そうで何よりだわ=Good good, seems you're just as peppy as ever.
-すんすん、あなたからお宝の気配がするような……= *sniff* *sniff*, there's a faint smell of treasure coming from you...
+すんすん、あなたからお宝の気配がするような……=*sniff* *sniff*, there's a faint smell of treasure coming from you...
 あなただから、格安レートで交換してるの。普通はあり得ないことよ？=I'm only giving you these incredible rates cause you're special. Normally they wouldn't be this good, 'kay?
 はぁぁ、私が求めるお宝はどこにあるのやら……=Haa, I wonder where are the treasures that I seek.
 ついに巨万の富を得る！　夢を見たの……=I've finally found the Mother of all Treasure! In a dream of course...
@@ -10,7 +13,3 @@
 ……実はお宝を隠し持ってたりしない？　ま、そんなわけないか=...You're not hoarding any loot are you? On second thought, probably not that you could hide them from me anyways.
 はぁ～……お目当てのお宝、全然見つからない……=Haa~h...Oh my treasure, where art thou...
 私は諦めが悪いから、トレジャーハンターをやめるつもりはないわ=I'm kind of a stubborn lass, won't be giving up on treasure hunting any time soon.
-//初期{0}=
-//森解禁後{0}=
-//廃墟解禁後{0}=
-//クリアフラグ立った後{0}=

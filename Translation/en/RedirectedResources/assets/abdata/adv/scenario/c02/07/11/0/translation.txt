@@ -1,4 +1,7 @@
-﻿手間をかけさせて……いえ、この場合はお礼を言うべきね。ありがとう=Taking up your time... No, I should be grateful in this case. Thank you.
+//
+// Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
+//
+手間をかけさせて……いえ、この場合はお礼を言うべきね。ありがとう=Taking up your time... No, I should be grateful in this case. Thank you.
 その……すごく助かったわ。あなたのお陰で快復できそうな気がする=Um... That helps me out a lot. I feel like I can recover thanks to you.
 えっと……ありがとう。……その、本当に=Er... Thank you... Um, I mean it.
 ……すごく、有難いわ。わざわざありがとう=...I'm really grateful. Thanks for going out of your way.

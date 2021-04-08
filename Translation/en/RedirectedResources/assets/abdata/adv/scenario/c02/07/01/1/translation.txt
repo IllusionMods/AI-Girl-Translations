@@ -1,10 +1,13 @@
-﻿それより優先したいことがあるの=There's something more important I have to do.
-まだまだやるべきことがあるから……ごめんなさい=I still have a lot of work to do... I'm sorry.
-……貴方の指示には従えないわ=...I won't be taking your advice.
-悪いけど、私は私のやりたいようにするわ=Sorry, but I'm going to do what I want to do.
+//
+// Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
+//
 手助けが必要なのね。あとで手伝うわ=I guess you need some help. I'll help you out later.
 任せて。いいものを見つけてくるわ……と言いたいけど、保証はできないわね=Leave it to me. I'll find something good... is what I want to say, but I can't guarantee that.
 私でよければ、力を貸すわ=If you're okay with me, then I'll help you.
+それより優先したいことがあるの=There's something more important I have to do.
+まだまだやるべきことがあるから……ごめんなさい=I still have a lot of work to do... I'm sorry.
 ……わかった。手伝ってあげるわ=...I got it. I'll help you out.
 ……手助けがいるなら、暇なときに採っておくわ=...If you need help, I'll help you if I have some spare time.
 ……手が空いた時でよければ=...If I have any free time.
+……貴方の指示には従えないわ=...I won't be taking your advice.
+悪いけど、私は私のやりたいようにするわ=Sorry, but I'm going to do what I want to do.

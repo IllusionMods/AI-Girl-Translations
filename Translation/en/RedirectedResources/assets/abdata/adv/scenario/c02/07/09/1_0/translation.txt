@@ -1,4 +1,7 @@
-﻿えぇ、いいわ……=Yeah, that's fine...
+//
+// Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
+//
+えぇ、いいわ……=Yeah, that's fine...
 ストレートに言うわね……まぁ、いいけれど=It's better to be straight about this... Well, it's fine.
 んぅ……無下に断れないわね=Hm... Not like I can refuse.
 ……そんな気分じゃないわ=...I'm not really in the mood for that.

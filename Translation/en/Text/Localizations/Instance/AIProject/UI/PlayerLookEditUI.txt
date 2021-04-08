@@ -1,0 +1,6 @@
+//
+// Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
+//
+男=Male
+女=Female
+（フタナリ）=(Futanari)

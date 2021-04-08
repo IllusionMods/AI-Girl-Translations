@@ -1,10 +1,13 @@
-﻿それより優先したいことがあるの=There's something more important I have to do.
-まだまだやるべきことがあるから……ごめんなさい=I still have a lot of work to do... I'm sorry.
-……貴方の指示には従えないわ=...I won't be taking your advice.
-悪いけど、私は私のやりたいようにするわ=Sorry, but I'm going to do what I want to do.
+//
+// Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
+//
 言わなくても、トイレに行くのを忘れたりはしないわ=Without saying, I won't forget going to the bathroom.
 ……善意として受け取っておくわね=...I'll take that you have good intentions.
 ……ご忠告どうも。忘れないうちにトイレに行くわ=...Thank you for your advice. I'll be sure not to forget to go to the bathroom.
+それより優先したいことがあるの=There's something more important I have to do.
+まだまだやるべきことがあるから……ごめんなさい=I still have a lot of work to do... I'm sorry.
 ……人に言われなくても、したくなったらトイレに行くわ=...Even if no one said anything, I'll go to the bathroom if I have to.
 勝手にしてるから、指示はしないで=Just saying whatever you want, don’t give me orders.
 元々するつもりだったけど、嫌な予感がひしひしとするわね……=I was originally going to go, but I had a really bad feeling about it so...
+……貴方の指示には従えないわ=...I won't be taking your advice.
+悪いけど、私は私のやりたいようにするわ=Sorry, but I'm going to do what I want to do.

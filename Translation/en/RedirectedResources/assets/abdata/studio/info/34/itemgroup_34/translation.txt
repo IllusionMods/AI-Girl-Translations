@@ -1,0 +1,6 @@
+//
+// Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
+//
+//ベース2=
+//家具2=
+//置物2=

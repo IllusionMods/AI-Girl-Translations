@@ -1,10 +1,13 @@
-﻿それより優先したいことがあるの=There's something more important I have to do.
-まだまだやるべきことがあるから……ごめんなさい=I still have a lot of work to do... I'm sorry.
-……貴方の指示には従えないわ=...I won't be taking your advice.
-悪いけど、私は私のやりたいようにするわ=Sorry, but I'm going to do what I want to do.
+//
+// Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
+//
 そうね……そろそろさっぱりしたい気分だったし、入ってくるわ=Yeah... I felt like I wanted to wash up soon, I'll do it soon.
 ええ、汗を流してくるわ=I should, I'm sweating a lot.
 少し疲れていたし、お風呂でゆっくりしてくるわ=I'm a little tired, I'll take a nice, long bath.
+それより優先したいことがあるの=There's something more important I have to do.
+まだまだやるべきことがあるから……ごめんなさい=I still have a lot of work to do... I'm sorry.
 入ってくるけど……まさか、覗くつもり？=I'll go but... don't tell me you were planning on peeking?
 ……わかったわ。でも邪魔はしないで=...I got it. But don't disturb me.
 ……汗くさくて悪かったわね=...I shouldn't have let myself stay sweaty, my bad.
+……貴方の指示には従えないわ=...I won't be taking your advice.
+悪いけど、私は私のやりたいようにするわ=Sorry, but I'm going to do what I want to do.

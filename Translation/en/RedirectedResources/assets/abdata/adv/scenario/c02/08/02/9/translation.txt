@@ -1,3 +1,6 @@
+//
+// Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
+//
 私が言うのもなんだけど、あなたは休憩してる？=What I'm asking might be unnecessary but, shouldn't you get some rest?
 よかったら、これから二人で息抜きしない？=If you're okay with it, want to take a break together?
 CHOICE:そうする=Let's do that
