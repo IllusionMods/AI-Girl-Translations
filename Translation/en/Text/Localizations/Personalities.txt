@@ -1,14 +1,14 @@
 //
 // Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
 //
-機械的で無感情=Emotionless
-おおらかでやさしい=Friendly
-意識が高く自信家=Confident
-自分勝手でわがまま=Selfish
-無気力でものぐさ=Lazy
-ポジティブで明るい=Positive
-//きちんとした優しい几帳面=
-//凛とした佇まいの大和撫子=
-//友達感覚のボーイッシュ=
-//清楚だが思い込みが激しい=
+機械的で無感情=Mechanical & Emotionless
+おおらかでやさしい=Friendly & Gentle
+意識が高く自信家=Conscientious & Confident
+自分勝手でわがまま=Selfish & Spoiled
+無気力でものぐさ=Lazy & Apathetic
+ポジティブで明るい=Cheerful & Positive
+きちんとした優しい几帳面=Decent, Careful & Methodical
+凛とした佇まいの大和撫子=Elegant Ideal Japanese
+友達感覚のボーイッシュ=Friendly Tomboy
+清楚だが思い込みが激しい=Tidy but Obsessed
 シャン=Shan
