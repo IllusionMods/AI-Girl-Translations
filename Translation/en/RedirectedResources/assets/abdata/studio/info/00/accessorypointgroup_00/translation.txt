@@ -1,13 +1,13 @@
 //
 // Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
 //
-//髪=
-//頭=
-//顔=
-//首=
-//胴=
-//腰=
+髪=Hair
+頭=Head
+顔=Face
+首=Neck
+胴=Torso
+腰=Hips
 //脚=
-//腕=
-//手=
+腕=Arms
+手=Hands
 //股間=

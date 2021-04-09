@@ -1,5 +1,5 @@
 //
 // Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
 //
-//悪魔の翼右用=
-//悪魔の翼左用=
+悪魔の翼右用=Right Demon Wing
+悪魔の翼左用=Left Demon Wing

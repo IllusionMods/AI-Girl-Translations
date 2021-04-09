@@ -1,6 +1,6 @@
 //
 // Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
 //
-//滝=
-//熱帯の海=
-//海原=
+滝=Waterfall
+熱帯の海=Tropical sea
+海原=Sea

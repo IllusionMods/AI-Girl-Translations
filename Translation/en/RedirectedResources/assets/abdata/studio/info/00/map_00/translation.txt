@@ -2,8 +2,8 @@
 // Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
 //
 //名称=
-//孤島=
-//ハウジング島=
+孤島=Solitary Island
+ハウジング島=Housing Island
 //ロビー=
 //マイルーム=
 //フュルの部屋=
@@ -15,7 +15,7 @@
 //裏庭（雨）=
 //拷問部屋=
 //オフィス=
-//公衆トイレ=
+公衆トイレ=Public Bathroom
 //病室=
 //教室=
 //体育館倉庫=

@@ -2,7 +2,7 @@
 // Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
 //
 //表示名=
-//待機=
+待機=Idle
 //本を読む=
 //ページをめくる=
 //机に料理を置く=
