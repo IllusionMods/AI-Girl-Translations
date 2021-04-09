@@ -1,5 +1,5 @@
 //
 // Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
 //
-//巫女袖左用=
-//巫女袖右用=
+巫女袖左用=Left Shrine Maiden Sleeve
+巫女袖右用=Right Shrine Maiden Sleeve

@@ -1,7 +1,7 @@
 //
 // Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
 //
-//ダンサーストッキング=
-//コンシェルジュガーターF=
-//エルフのガーター=
-//サポーター膝=
+ダンサーストッキング=Dancer Stockings
+コンシェルジュガーターF=Concierge Garter
+エルフのガーター=Elf Garter
+サポーター膝=Knee Pads

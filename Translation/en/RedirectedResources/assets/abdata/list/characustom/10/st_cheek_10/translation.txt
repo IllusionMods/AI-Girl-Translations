@@ -1,5 +1,5 @@
 //
 // Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
 //
-//狐化粧1=
-//狐化粧2=
+狐化粧1=Fox 1
+狐化粧2=Fox 2

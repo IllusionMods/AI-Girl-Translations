@@ -1,5 +1,5 @@
 //
 // Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
 //
-//ぱっつん横出し=
-//クロスセミロング=
+ぱっつん横出し=Framed Blunt
+クロスセミロング=Medium Cross

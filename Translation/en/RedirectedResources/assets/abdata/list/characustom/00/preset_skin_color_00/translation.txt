@@ -2,9 +2,9 @@
 // Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
 //
 ライト=Light
-//ベージュ=
-//ピンク=
-//タン=
-//ブラウン=
-//ダーク=
-//ブルー=
+ベージュ=Beige
+ピンク=Pink
+タン=Tan
+ブラウン=Brown
+ダーク=Dark
+ブルー=Blue

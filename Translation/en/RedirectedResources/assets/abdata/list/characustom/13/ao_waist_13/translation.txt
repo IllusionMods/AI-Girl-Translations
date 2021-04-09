@@ -1,6 +1,6 @@
 //
 // Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
 //
-//サキュバス尻尾=
-//サキュバスの翼右用=
-//サキュバスの翼左用=
+サキュバス尻尾=Succubus Tail
+サキュバスの翼右用=Right Succubus Wing
+サキュバスの翼左用=Left Succubus Wing

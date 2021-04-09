@@ -1,6 +1,6 @@
 //
 // Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
 //
-//コンシェルジュブラS=
-//セレブ水着=
-//ガーリーブラ=
+コンシェルジュブラS=Concierge Bra Sitri
+セレブ水着=Celebrity Swimsuit
+ガーリーブラ=Girly Bra

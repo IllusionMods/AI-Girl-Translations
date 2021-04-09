@@ -1,11 +1,11 @@
 //
 // Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
 //
-//指ぬきグローブ=
-//チャイナグローブ=
-//ダンサーアーム=
-//フェミニングローブ=
-//ライダーグローブ=
-//騎士の腕鎧=
-//エルフのグローブ=
-//サポーター肘=
+指ぬきグローブ=Fingerless Gloves
+チャイナグローブ=China Gloves
+ダンサーアーム=Dancer Sleeve and Gloves
+フェミニングローブ=Feminine Robe Gloves
+ライダーグローブ=Rider Gloves
+騎士の腕鎧=Knight Arms Armor
+エルフのグローブ=Elf Gloves
+サポーター肘=Elbow Pads

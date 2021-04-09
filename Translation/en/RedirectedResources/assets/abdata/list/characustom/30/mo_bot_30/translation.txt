@@ -1,6 +1,6 @@
 //
 // Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
 //
-//腰布=
-//スキニーパンツ=
-//海パン=
+腰布=Loincloth
+スキニーパンツ=Skinny Pants
+海パン=Swimming Trunks
