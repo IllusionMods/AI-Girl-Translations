@@ -1,8 +1,8 @@
 //
 // Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
 //
-//リードする=
-//してほしい=
-//いきなり挿入する=
+リードする=Lead
+してほしい=I want you to...
+いきなり挿入する=Insert Suddenly
 //奉仕させる=
 //挿入する=

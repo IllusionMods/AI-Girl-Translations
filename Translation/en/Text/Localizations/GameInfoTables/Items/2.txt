@@ -1,18 +1,18 @@
 //
 // Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
 //
-//樹木=
-//赤い実=
-//赤く熟した果実。食べたら美味しそうだ。=
-//樹脂=
-//木から採れる樹液。とろりとした粘りと独特の匂いがある。=
-//枝=
-//一般的な木の枝。しなりもよく、そこそこ丈夫。=
-//ヤシの実=
-//一般的なヤシの実。かたい殻の中にたっぷりと水分が詰まっている。=
-//バナナイモ=
-//バナナの仲間だが、甘みが無く味もイモに近い。種が多く調理しないと食べられない。=
-//ソリバナナイモ=
-//滅多に出会えない太く立派に反り返ったバナナイモ。かなり貴重な一本。=
-//コーヒー豆=
+樹木=Tree(s)
+赤い実=Red Fruit
+赤く熟した果実。食べたら美味しそうだ。=Red and ripe fruit. Looks delicious to eat.
+樹脂=Resin
+木から採れる樹液。とろりとした粘りと独特の匂いがある。=Sap gathered from a tree. Has a thick viscosity and a unique smell.
+枝=Branch
+一般的な木の枝。しなりもよく、そこそこ丈夫。=Common tree branch. Bends well and is reasonably durable.
+ヤシの実=Coconut
+一般的なヤシの実。かたい殻の中にたっぷりと水分が詰まっている。=Common coconut. There is plenty of water inside its hard husk.
+バナナイモ=Banana Potato
+バナナの仲間だが、甘みが無く味もイモに近い。種が多く調理しないと食べられない。=Close to bananas, but they have no sweetness and the taste is close to potatoes. There are a lot of seeds, and can't be eaten without cooking it.
+ソリバナナイモ=Warped Banana Potato
+滅多に出会えない太く立派に反り返ったバナナイモ。かなり貴重な一本。=A thick and warped Banana Potato that is rarely encountered. Quite precious.
+コーヒー豆=Coffee Beans
 //茶色くて小さい豆。軽くて芳ばしい香りがする。=

@@ -1,22 +1,22 @@
 //
 // Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
 //
-//草花=
-//綿花=
-//親指ほどの大きさの白い綿毛の花。繭の様にも見える。=
-//つる=
-//すこし丈夫な植物の蔓。加工すれば何かにつかえそう。=
-//霧雨草=
-//やわらかい多肉植物。集めると飲み水が確保できる。=
-//野花=
-//小さな花が咲く野草。茎にツヤがあり、油分を多く含んでいる。=
-//ウズラタマゴダケ=
-//小さな卵の形をした食用キノコ。胃腸薬の材料になる。=
-//ニガウリ=
-//表面にイボイボがある細長い緑の植物。食べるとかなり苦い。=
-//解熱草=
-//風邪状態の女の子にあげると熱を下げる効果があるが、このままでは効果は薄い。=
-//金管草=
+草花=Plant(s)
+綿花=Cotton Flower
+親指ほどの大きさの白い綿毛の花。繭の様にも見える。=White fluffy flower about the size of a thumb. Looks like a cocoon.
+つる=Vine
+すこし丈夫な植物の蔓。加工すれば何かにつかえそう。=Vine of a slightly robust plant. Looks like it can be manufactured into something.
+霧雨草=Drizzle Grass
+やわらかい多肉植物。集めると飲み水が確保できる。=Soft succulent plant. Can secure water from it when accumulating.
+野花=Wild Flowers
+小さな花が咲く野草。茎にツヤがあり、油分を多く含んでいる。=Wild grass that blooms small flowers. The stem is glossy and contains much oil.
+ウズラタマゴダケ=Quail Egg Mushroom
+小さな卵の形をした食用キノコ。胃腸薬の材料になる。=Edible mushroom in the shape of a small egg. Used as ingredient in Digestive drugs.
+ニガウリ=Bitter Melon
+表面にイボイボがある細長い緑の植物。食べるとかなり苦い。=A long and narrow green plant with warts on its surface. Quite bitter to eat.
+解熱草=Antipyretic Grass
+風邪状態の女の子にあげると熱を下げる効果があるが、このままでは効果は薄い。=When given to a girl afflicted with Cold, will lower the fever, but its effect is weak.
+金管草=Brass Grass
 //摂取すると寝つきが良くなるが、多用は厳禁。睡眠薬などの材料にも使われる。=
-//デカニガウリ=
-//太く大きく育ったニガウリ。ここまで育つ事は滅多にない。=
+デカニガウリ=Huge Bitter Melon
+太く大きく育ったニガウリ。ここまで育つ事は滅多にない。=A Bitter Melon that grew thick and big. Rare for it to grow like this.
