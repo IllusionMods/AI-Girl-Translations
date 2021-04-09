@@ -2,7 +2,7 @@
 // Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
 //
 ポールダンス=Pole Dance
-//セクシーダンス=
+セクシーダンス=Sexy Dance
 ダンス1=Dance 1
 ダンス2=Dance 2
 ダンス3=Dance 3

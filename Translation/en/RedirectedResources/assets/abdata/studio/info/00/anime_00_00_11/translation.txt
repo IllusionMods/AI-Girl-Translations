@@ -2,9 +2,9 @@
 // Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
 //
 寝1=Laying 1
-//寝返り1=
+寝返り1=Rolling Over 1
 寝2=Laying 2
-//寝返り2=
+寝返り2=Rolling Over 2
 寝3=Laying 3
 寝4=Laying 4
 寝5=Laying 5

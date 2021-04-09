@@ -1,5 +1,5 @@
 //
 // Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
 //
-//女 吊るし挿入=
-//男 吊るし挿入=
+女 吊るし挿入=Female: Hanging
+男 吊るし挿入=Male: Hanging

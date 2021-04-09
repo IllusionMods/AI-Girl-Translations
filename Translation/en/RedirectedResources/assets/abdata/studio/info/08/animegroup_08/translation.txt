@@ -2,4 +2,4 @@
 // Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
 //
 バトル=Battle
-//機械H=
+機械H=Machine H

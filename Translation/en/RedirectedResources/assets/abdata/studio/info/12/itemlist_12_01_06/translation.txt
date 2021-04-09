@@ -1,6 +1,6 @@
 //
 // Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
 //
-//針葉樹=
-//針葉樹(雪)=
-//針葉樹(装飾)=
+針葉樹=Conifer
+針葉樹(雪)=Conifer (Snow)
+針葉樹(装飾)=Conifer (Decoration)

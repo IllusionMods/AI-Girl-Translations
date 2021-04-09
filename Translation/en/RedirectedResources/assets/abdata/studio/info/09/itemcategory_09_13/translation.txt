@@ -2,4 +2,4 @@
 // Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
 //
 通常=General
-//H=
+H=H

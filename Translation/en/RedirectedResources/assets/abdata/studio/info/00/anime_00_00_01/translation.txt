@@ -1,27 +1,27 @@
 //
 // Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
 //
-立ち1=Basic 1
-立ち2=Basic 2
-立ち3=Basic 3
-立ち4=Basic 4
-立ち5=Basic 5
-立ち6=Basic 6
-立ち7=Basic 7
-立ち8=Basic 8
-立ち9=Basic 9
-立ち10=Basic 10
-立ち11=Basic 11
-立ち12=Basic 12
-立ち13=Basic 13
-立ち14=Basic 14
+立ち1=Standing 1
+立ち2=Standing 2
+立ち3=Standing 3
+立ち4=Standing 4
+立ち5=Standing 5
+立ち6=Standing 6
+立ち7=Standing 7
+立ち8=Standing 8
+立ち9=Standing 9
+立ち10=Standing 10
+立ち11=Standing 11
+立ち12=Standing 12
+立ち13=Standing 13
+立ち14=Standing 14
 座り1=Sitting 1
 座り2=Sitting 2
 座り3=Sitting 3
 寝=Laying
 //ジャンプ1=
 //ジャンプ2=
-//マネキン=
+マネキン=Mannequin
 //ポーズ1in=
 //ポーズ1loop=
 //ポーズ1out=
