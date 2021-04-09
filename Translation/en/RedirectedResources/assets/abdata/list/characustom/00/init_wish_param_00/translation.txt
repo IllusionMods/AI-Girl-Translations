@@ -10,7 +10,7 @@
 落ち着き=Calmness
 お金=Wealth
 知性=Intelligence
-信念=Conviction​
+信念=Conviction
 忠誠=Loyalty
 持久力=Endurance
 可憐さ=Sweetness
@@ -18,4 +18,4 @@
 不完全=Imperfection
 理解力=Understanding
 判断力=Sharpness
-//癒し=
+癒し=Healing

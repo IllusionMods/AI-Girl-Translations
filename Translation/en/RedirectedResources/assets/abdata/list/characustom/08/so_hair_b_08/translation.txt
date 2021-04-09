@@ -1,5 +1,5 @@
 //
 // Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
 //
-//サイドテール(左)=
-//サイドテール(右)=
+サイドテール(左)=Side Tail (Left)
+サイドテール(右)=Side Tail (Right)

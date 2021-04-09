@@ -1,5 +1,5 @@
 //
 // Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
 //
-//お団子ポニー=
-//お団子ツイン=
+お団子ポニー=Ponytail Bun
+お団子ツイン=Double Bun

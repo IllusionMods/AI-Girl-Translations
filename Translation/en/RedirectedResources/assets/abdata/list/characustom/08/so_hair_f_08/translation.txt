@@ -1,5 +1,5 @@
 //
 // Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
 //
-//サイドウェーブ(左)=
-//サイドウェーブ(右)=
+サイドウェーブ(左)=Side Wave (Left)
+サイドウェーブ(右)=Side Wave (Right)

@@ -3,15 +3,15 @@
 //
 なし=None
 ビーチサンダル=Beach Sandals
-//ボーンサンダル=
-//ローファー=
-//パンプス=
-//ベルトパンプス=
-//ランニングシューズ=
-//スニーカー=
-//メッシュシューズ=
-//カフシューズ=
-//トレッキング=
-//マリンシューズ=
-//上履き=
-//レザーブーツ＆チャップス=
+ボーンサンダル=Sandals
+ローファー=Loafers
+パンプス=Pumps
+ベルトパンプス=Belt Pumps
+ランニングシューズ=Running Shoes
+スニーカー=Sneakers
+メッシュシューズ=Mesh shoes
+カフシューズ=Cuff Shoes
+トレッキング=Trekking Shoes
+マリンシューズ=Rubber Sneakers
+上履き=Slippers
+レザーブーツ＆チャップス=Leather boots & chaps

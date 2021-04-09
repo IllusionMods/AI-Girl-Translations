@@ -1,5 +1,5 @@
 //
 // Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
 //
-//戦士の剣=
-//戦士の盾=
+戦士の剣=Warrior Sword
+戦士の盾=Warrior Shield

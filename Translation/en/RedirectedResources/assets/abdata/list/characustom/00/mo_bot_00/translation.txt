@@ -2,10 +2,10 @@
 // Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
 //
 なし=None
-//七分丈パンツ=
-//ハーフパンツ=
-//裾おりパンツ=
-//スーツパンツ=
-//作業着ズボン=
-//サーフパンツ=
-//デニムパンツ=
+七分丈パンツ=Cropped Pants
+ハーフパンツ=Shorts
+裾おりパンツ=Hemmed Pants
+スーツパンツ=Slacks
+作業着ズボン=Worker's Pants
+サーフパンツ=Surf Pants
+デニムパンツ=Jeans

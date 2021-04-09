@@ -1,5 +1,5 @@
 //
 // Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
 //
-//シスターカールロング=
-//シスターベールヘア=
+シスターカールロング=Sister Curly Long
+シスターベールヘア=Sister Veil Hair
