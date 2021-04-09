@@ -2,8 +2,8 @@
 // Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
 //
 //表示名=
-//ポールダンス=
+ポールダンス=Pole Dance
 //セクシーダンス=
-//ダンス1=
-//ダンス2=
-//ダンス3=
+ダンス1=Dance 1
+ダンス2=Dance 2
+ダンス3=Dance 3
