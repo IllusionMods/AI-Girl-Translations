@@ -1,7 +1,7 @@
 //
 // Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
 //
-//ガラクタを片付けますか？=
-//カギを開けますか？=
-//扉を開けますか？=
-//ロックを解除しますか？=
+ガラクタを片付けますか？=Clean up the mess?
+カギを開けますか？=Unlock the door?
+扉を開けますか？=Open the door?
+ロックを解除しますか？=Unlock it?
