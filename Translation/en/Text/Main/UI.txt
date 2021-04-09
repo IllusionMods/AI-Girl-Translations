@@ -46,7 +46,7 @@ sr:"^(：?拠点)(：)(.*)$"=$1$2 $3
 
 // MapScene/MapUI(Clone)/CommandCanvas/AllAreaMap(Clone)/ClickedText/Text
 //--------------------------------------------------
-sr:"^(：)(.*)$"=$1 $2
+sr:"^(：)(.+)$"=$1 $2
 グローブ=Gloves
 虫網=Bug Net
 シャベル=Shovel
