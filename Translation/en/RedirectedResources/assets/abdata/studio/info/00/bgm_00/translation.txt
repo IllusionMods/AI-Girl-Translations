@@ -12,5 +12,5 @@
 遠い昔の街=Distant City
 シャンの家=Shan's House
 独り言=Monologue
-//NEO=
+NEO=NEO
 ハロウィン=Halloween

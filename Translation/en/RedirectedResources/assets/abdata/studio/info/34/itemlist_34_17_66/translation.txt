@@ -1,5 +1,5 @@
 //
 // Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
 //
-//足縄(左)=
-//足縄(右)=
+足縄(左)=Foot Rope (Left)
+足縄(右)=Foot Rope (Right)

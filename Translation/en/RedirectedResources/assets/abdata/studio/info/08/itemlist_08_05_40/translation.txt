@@ -1,11 +1,11 @@
 //
 // Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
 //
-//メカバレル=
-//メカブロック=
-//メカタンク=
-//メカポンプ=
-//メカ３連ポール=
-//メカドラゴン=
-//メカウイングⅢ=
-//メカアンテナシングル=
+メカバレル=Mecha Barrel
+メカブロック=Mecha Block
+メカタンク=Mecha Tank
+メカポンプ=Mecha Pump
+メカ３連ポール=Triple Mecha Pole
+メカドラゴン=Mecha Dragon
+メカウイングⅢ=Mecha Wing 3
+メカアンテナシングル=Single Mecha Antenna
