@@ -2,7 +2,7 @@
 // Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
 //
 //風邪=
-//腹痛=
-//過労=
+腹痛=Stomach Ache
+過労=Exhausted
 //熱中=
 //ケガ=

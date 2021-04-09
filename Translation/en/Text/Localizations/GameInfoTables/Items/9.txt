@@ -1,22 +1,22 @@
 //
 // Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
 //
-//ペット=
-//チョウ=
-//島に生息しているチョウ。綺麗な模様をしている。=
-//ニワトリ=
-//この島に生息している野生のニワトリ。一般的なニワトリよりも卵を多く産む。=
-//ネコ=
-//この島に住み着く野生のネコ。警戒心が強くなつきにくい。=
-//お魚くわえたネコ=
-//魚をくわえたネコ。=
-//ネコタンク=
-//戦車を操縦しているネコ。=
-//ヒヨコ=
-//タマゴ保管庫で孵ったニワトリの雛。=
-//闇の精霊=
-//闇より出でし漆黒の精霊。=
-//キュービー=
+ペット=Pet(s)
+チョウ=Butterfly
+島に生息しているチョウ。綺麗な模様をしている。=A butterfly that inhabits the island. Has a beautiful pattern.
+ニワトリ=Chicken
+この島に生息している野生のニワトリ。一般的なニワトリよりも卵を多く産む。=A wild chicken that inhabits the island. Lays more eggs that the common chickens.
+ネコ=Cat
+この島に住み着く野生のネコ。警戒心が強くなつきにくい。=A wild cat that inhabits the island. Strongly wary, hard to get along with.
+お魚くわえたネコ=Cat with a fish
+魚をくわえたネコ。=A cat with a fish in mouth.
+ネコタンク=Tank Cat
+戦車を操縦しているネコ。=A cat driving a tank.
+ヒヨコ=Chick
+タマゴ保管庫で孵ったニワトリの雛。=A chick hatched from the egg storage.
+闇の精霊=Spirit of Darkness
+闇より出でし漆黒の精霊。=A jet-black spirit from the darkness.
+キュービー=Cubey
 //研究所に放置されていた謎の小型ロボット。何のために作られたかは不明。=
-//妖精=
-//気まぐれな妖精。=
+妖精=Fairy
+気まぐれな妖精。=A whimsical fairy.

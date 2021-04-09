@@ -1,27 +1,27 @@
 //
 // Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
 //
-//そのまま寝転ぶ=
-//寝る=
-//起きる=
-//料理をする=
-//貯蔵庫を見る=
-//立ち去る=
-//ハウジング=
+そのまま寝転ぶ=Lie Down
+寝る=Sleep
+起きる=Get Up
+料理をする=Cook
+貯蔵庫を見る=View Storehouse
+立ち去る=Leave
+ハウジング=Housing
 //女の子を登場=
-//女の子を変更=
-//女の子の容姿変更=
-//女の子の住む島を変更=
-//主人公を変更=
-//主人公の容姿変更=
+女の子を変更=Change Girl
+女の子の容姿変更=Change Girl's Appearance
+女の子の住む島を変更=r"Change 女の子の住む島
+主人公を変更=r"Change 主人公
+主人公の容姿変更=Change 主人公's Appearance
 //タマゴ箱を確認=
 //ニワトリを追加=
-//一緒にご飯を食べる=
-//分娩台=
+一緒にご飯を食べる=Eat Rice Together
+分娩台=Delivery Chair
 //木馬=
 //拘束台鞍馬=
 //ギロチン=
-//拘束デンマ台=
+拘束デンマ台=Restraint Vibrator Chair
 //拘束機械姦=
 //吊るし挿入=
 //移動する=

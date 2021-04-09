@@ -1,13 +1,13 @@
 //
 // Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
 //
-//お魚くわえたネコ=
-//魚をくわえたネコ。=
-//ネコタンク=
-//戦車を操縦しているネコ。=
-//闇の精霊=
-//闇より出でし漆黒の精霊。=
-//妖精=
-//気まぐれな妖精。=
-//魚雷=
-//ものすごく堅い魚？とても食べられそうにない。=
+お魚くわえたネコ=Cat with a fish
+魚をくわえたネコ。=A cat with a fish in mouth.
+ネコタンク=Tank Cat
+戦車を操縦しているネコ。=A cat driving a tank.
+闇の精霊=Spirit of Darkness
+闇より出でし漆黒の精霊。=A jet-black spirit from the darkness.
+妖精=Fairy
+気まぐれな妖精。=A whimsical fairy.
+魚雷=Torpedo
+ものすごく堅い魚？とても食べられそうにない。=A very hard fish? Looks like you can't eat it by any means.

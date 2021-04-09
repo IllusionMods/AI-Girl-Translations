@@ -1,12 +1,12 @@
 //
 // Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
 //
-//エッチ=
-//バイブ=
-//作成するとエッチ中に選択できる体位「立ち前バイブ」「バイブ挿入」が追加されます。チェストに入れても使用可能。=
-//アナルバイブ=
-//作成するとエッチ中に選択できる体位「アナルバイブ挿入」が追加されます。チェストに入れても使用可能。=
-//拘束具=
-//作成するとエッチ中に選択できる体位「拘束正常位」が追加されます。チェストに入れても使用可能。=
-//ビデオカメラ=
-//作成するとエッチ中に選択できる体位「カメラ撮影オナニー」が追加されます。チェストに入れても使用可能。=
+エッチ=Ecchi
+バイブ=Vibrator
+作成するとエッチ中に選択できる体位「立ち前バイブ」「バイブ挿入」が追加されます。チェストに入れても使用可能。=When created, adds the position "Vibrator Insertion" that can be selected during sex. Can be used even from the Chest.
+アナルバイブ=Anal Vibrator
+作成するとエッチ中に選択できる体位「アナルバイブ挿入」が追加されます。チェストに入れても使用可能。=When created, adds the position "Anal Vibrator Insertion" that can be selected during sex. Can be used even from the Chest.
+拘束具=Restraints
+作成するとエッチ中に選択できる体位「拘束正常位」が追加されます。チェストに入れても使用可能。=When created, adds the position "Restrained Missionary" that can be selected during sex. Can be used even from the Chest.
+ビデオカメラ=Video Camera
+作成するとエッチ中に選択できる体位「カメラ撮影オナニー」が追加されます。チェストに入れても使用可能。=When created, adds the position "Camera Shooting Masturbation" that can be selected during sex. Can be used even from the Chest.

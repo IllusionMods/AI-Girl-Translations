@@ -1,8 +1,8 @@
 //
 // Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
 //
-//カメラ設定=
-//描画レベル=
-//オーディオ設定=
-//エッチシーン設定=
-//ゲーム設定=
+カメラ設定=Camera
+描画レベル=Quality level
+オーディオ設定=Audio
+エッチシーン設定=H Scene
+ゲーム設定=Game
