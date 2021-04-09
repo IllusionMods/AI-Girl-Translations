@@ -1,13 +1,13 @@
 //
 // Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
 //
-//森エリアが開放されました。=
-//廃墟エリアが開放されました。=
+森エリアが開放されました。=The forest is now accessible.
+廃墟エリアが開放されました。=The ruins are now accessible.
 地面を探る=Search
 明かりをつける=Turn On Light
 明かりを消す=Turn Off Light
-//BGM変更=
+BGM変更=Change BGM
 捕まえる=Catch
-//{0}をあげる=
-//{0}を持っていません。=
-//{0}を捕まえる=
+{0}をあげる=Give {0}
+{0}を持っていません。=I don't have {0}.
+{0}を捕まえる=Catch {0}

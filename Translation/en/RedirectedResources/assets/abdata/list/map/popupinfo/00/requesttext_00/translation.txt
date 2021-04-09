@@ -1,7 +1,7 @@
 //
 // Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
 //
-//発電装置を修理しますか？=
-//船を修理しますか？=
-//バッテリーを差し込みますか？=
-//女の子のパラメーターが成長することで\n次のストーリーが開放されます。=
+発電装置を修理しますか？=Repair the generator?
+船を修理しますか？=Repair the ship?
+バッテリーを差し込みますか？=Insert battery?
+女の子のパラメーターが成長することで\n次のストーリーが開放されます。=As the girl's skills grow, the rest of the story will open up.
