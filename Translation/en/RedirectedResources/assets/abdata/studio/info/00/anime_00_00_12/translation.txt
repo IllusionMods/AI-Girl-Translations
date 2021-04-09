@@ -1,7 +1,6 @@
 //
 // Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
 //
-//表示名=
 //男 待機=
 //男 周りを見る=
 //男 首を振る=

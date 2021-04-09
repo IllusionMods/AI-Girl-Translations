@@ -1,7 +1,6 @@
 //
 // Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
 //
-//表示名=
 立ち1=Basic 1
 立ち2=Basic 2
 立ち3=Basic 3

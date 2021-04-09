@@ -1,7 +1,6 @@
 //
 // Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
 //
-//表示名=
 格闘A１=Fighting A1
 格闘A２=Fighting A2
 格闘A３=Fighting A3
