@@ -1,6 +1,3 @@
-//
-// Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
-//
 その扉を開けようとしてるの？=Are you trying to open that door?
 ん～、はっきり言って時間の無駄だと思うわ。私も何回か挑戦してるけど、てんでダメだったから=Hm~, I'll just spill it out for you then, it's a waste of time. I've tried several times already, and all failed.
 たぶん大本の電源が壊れちゃってるんだろうね。それを直さないことには、どうにもならないわ=Probably because the main power supply is broken. Unless you fix it, there's nothing you can do about it.

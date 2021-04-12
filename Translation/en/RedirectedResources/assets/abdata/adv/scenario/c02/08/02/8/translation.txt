@@ -1,6 +1,3 @@
-//
-// Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
-//
 これからご飯でもどう？=How about getting something to eat?
 たまには、誰かと一緒に食べたいのだけれど=Sometimes, I just want to eat with someone.
 CHOICE:いいよ=OK
