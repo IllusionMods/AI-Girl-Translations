@@ -54,7 +54,7 @@
 頭乗りヒヨコ=Head Riding Chick
 //蝶々=
 //頭乗り猫=
-キュービーヘッド=Cubey Head
+キュービーヘッド=Cubie Head
 //羊の角=
 //牛の角=
 //一角=

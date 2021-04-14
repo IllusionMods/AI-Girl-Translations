@@ -28,7 +28,7 @@
 チョウ=Butterfly
 ニワトリ=Chicken
 ネコ=Cat
-キュービー=Cuby
+キュービー=Cubie
 ランプ=Lamp
 携帯用ランプ=Portable Lamp
 捕獲ゲージ=Capture Cage

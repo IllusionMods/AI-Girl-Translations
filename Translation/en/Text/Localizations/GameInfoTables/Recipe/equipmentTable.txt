@@ -58,8 +58,8 @@
 頭に乗っているヒヨコ。=A chick riding your head.
 頭で跳ねる魚=Head Bouncing Fish
 頭の上で跳ね続ける不幸な魚。=An unlucky fish that bounces on top of your head.
-キュービーヘッド=Cubey Head
-キュービーの頭を模した被り物。=Headwear that imitates Cubey's head.
+キュービーヘッド=Cubie Head
+キュービーの頭を模した被り物。=Headwear that imitates Cubie's head.
 破れたカバン=Torn Bag
 廃材から取り出したカバン。破れていて使えない。=Bag taken from scrap. Torn and can't be used.
 ミニリュック=Mini Backpack
@@ -80,8 +80,8 @@
 本当に右手に黒炎をまとうことができる。=You can actually wear a black flame on your right hand.
 ホログラム=Hologram
 腕にホログラムが映し出される。ほんのり明るい。=Hologram projected on the arm. Faintly bright.
-抱きつきキュービー=Hugging Cubey
-腕に抱きついているキュービーのようなアクセサリ。=An accessory like Cubey hugging your arm.
+抱きつきキュービー=Hugging Cubie
+腕に抱きついているキュービーのようなアクセサリ。=An accessory like Cubie hugging your arm.
 バイブ=Vibrator
 作成するとエッチ中に選択できる体位「立ち前バイブ」「バイブ挿入」が追加されます。チェストに入れても使用可能。=When created, adds the position "Vibrator Insertion" that can be selected during sex. Can be used even from the Chest.
 アナルバイブ=Anal Vibrator

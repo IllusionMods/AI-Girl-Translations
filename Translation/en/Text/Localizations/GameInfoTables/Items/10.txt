@@ -32,7 +32,7 @@
 【女の子専用】携帯性が上がったランプ。装備すると夜間でも周囲を明るくしてくれる。=[Girl Exclusive]Lamp with improved portability. When equipped, brightens the surroundings even at night.
 ハンドライト=Handlight
 //【主人公専用】バッテリーを使用した懐中電灯。装備すると夜間でも周囲を明るくしてくれる。=
-キュービーヘッド=Cubey Head
-キュービーの頭を模した被り物。=Headwear that imitates Cubey's head.
-抱きつきキュービー=Hugging Cubey
-腕に抱きついているキュービーのようなアクセサリ。=An accessory like Cubey hugging your arm.
+キュービーヘッド=Cubie Head
+キュービーの頭を模した被り物。=Headwear that imitates Cubie's head.
+抱きつきキュービー=Hugging Cubie
+腕に抱きついているキュービーのようなアクセサリ。=An accessory like Cubie hugging your arm.

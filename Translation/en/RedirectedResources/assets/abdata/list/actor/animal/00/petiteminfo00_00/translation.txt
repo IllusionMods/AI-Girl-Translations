@@ -7,5 +7,5 @@
 ネコタンク=Tank Cat
 ヒヨコ=Chick
 闇の精霊=Spirit of Darkness
-//キューピー=
+キューピー=Cubie
 妖精=Fairy

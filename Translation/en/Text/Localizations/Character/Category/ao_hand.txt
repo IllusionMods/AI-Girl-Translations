@@ -26,7 +26,7 @@
 //ホロウォッチ=
 花のリング=Flower Bracelet
 暴走の右手=Rampaging Right Hand
-抱きつきキュービー=Hugging Cubey
+抱きつきキュービー=Hugging Cubie
 //ピストル=
 //ナイフ=
 //杖=

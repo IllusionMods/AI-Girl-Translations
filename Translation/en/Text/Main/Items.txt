@@ -217,7 +217,7 @@
 //--------------------------------------------------
 お魚くわえたネコ=Cat with a fish
 魚をくわえたネコ。=A cat with a fish in mouth.
-キュービー=Cubey
+キュービー=Cubie
 研究室に放置されていた謎の小型ロボット。何のために作られたかは不明。=A mysterious small robot left in the laboratory. It is unknown for what purpose it was made.
 チョウ=Butterfly
 島に生息しているチョウ。綺麗な模様をしている。	=A butterfly that inhabits the island. Has a beautiful pattern.
@@ -236,8 +236,8 @@
 
 // Equipment
 //--------------------------------------------------
-キュービーヘッド=Cubey Head
-キュービーの頭を模した被り物。=Headwear that imitates Cubey's head.
+キュービーヘッド=Cubie Head
+キュービーの頭を模した被り物。=Headwear that imitates Cubie's head.
 ツールリュック=Tool Backpack
 様々なツールがかたどられたシャン愛用のリュック。=Shan's favorite backpack with various tools.
 ネコリュック=Cat Backpack
@@ -264,8 +264,8 @@
 ネコが頭を寝床として陣取っている。=A cat using your head as a bed.
 頭乗りヒヨコ=Head Riding Chick
 頭に乗っているヒヨコ。=A chick riding your head.
-抱きつきキュービー=Hugging Cubey
-腕に抱きついているキュービーのようなアクセサリ。=An accessory like Cubey hugging your arm.
+抱きつきキュービー=Hugging Cubie
+腕に抱きついているキュービーのようなアクセサリ。=An accessory like Cubie hugging your arm.
 暴走の右手=Rampaging Right Hand
 本当に右手に黒炎をまとうことができる。=You can actually wear a black flame on your right hand.
 妖精の羽=Fairy Wings

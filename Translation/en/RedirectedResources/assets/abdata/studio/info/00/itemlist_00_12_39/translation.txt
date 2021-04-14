@@ -7,7 +7,7 @@
 蝶=Butterfly
 猫=Cat
 猫戦車=Cat Tank
-キュービー=Cuby
+キュービー=Cubie
 妖精=Fairy
 黒い精霊=Black Spirit
 カエル=Frog

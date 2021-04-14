@@ -23,7 +23,7 @@
 キノコ=Mushroom
 リボン=Ribbon
 サンバイザー=Sun Visor
-キュービーヘッド=Cuby Head
+キュービーヘッド=Cubie Head
 ポニークリップ=Pony Clip
 うさ耳リボン=Bunny Ear Ribbon
 うさ耳カチューシャ=Rabbit Ears
