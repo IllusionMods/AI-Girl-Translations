@@ -1,6 +1,6 @@
 //
 // Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
 //
-//男 顔面騎乗・背面騎乗位=
-//女 顔面騎乗・背面騎乗位A=
-//女 顔面騎乗・背面騎乗位B=
+男 顔面騎乗・背面騎乗位=Male: Face Sit. / Rev. Cowgirl
+女 顔面騎乗・背面騎乗位A=Female: Face Sit. / Rev. Cowgirl A
+女 顔面騎乗・背面騎乗位B=Female: Face Sit. / Rev. Cowgirl B

@@ -15,7 +15,7 @@
 触手A=Tentacles A
 触手B=Tentacles B
 クンニ手コキ=Cunnilingus Handjob
-//W手コキ舐めA=
-//W手コキ舐めB=
-//座位＋クンニA=
-//座位＋クンニB=
+W手コキ舐めA=W Handjob Licking A
+W手コキ舐めB=W Handjob Licking B
+座位＋クンニA=Sitting+Cunnilingus A
+座位＋クンニB=Sitting+Cunnilingus B

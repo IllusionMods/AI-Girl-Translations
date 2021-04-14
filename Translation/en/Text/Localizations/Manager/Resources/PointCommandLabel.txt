@@ -22,6 +22,6 @@
 //拘束台鞍馬=
 //ギロチン=
 拘束デンマ台=Restraint Vibrator Chair
-//拘束機械姦=
-//吊るし挿入=
+拘束機械姦=Restrain Sex Machine
+吊るし挿入=Hanging
 //移動する=
