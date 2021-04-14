@@ -76,9 +76,20 @@ Where "xxx" represents the number of the desired scope level. Below is a table c
 
 #### Known Scope Levels
 
-| Level | Description           |
-|------:|-----------------------|
-| -1    | (global)              |
+| Level | Description             |
+|------:|-------------------------|
+| -1    | (global)                |
+| 1     | Card Converter (startup)|
+| 2     | Studio UI               |
+| 4     | Maker                   |
+| 5     | Main Game               |
+| 7     | Network Checks          |
+| 8     | Uploader                |
+| 9     | Downloader              |
+
+
+
+
 
 ##  Resource Translations
 
