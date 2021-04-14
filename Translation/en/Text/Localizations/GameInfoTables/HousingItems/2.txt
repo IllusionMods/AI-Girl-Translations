@@ -172,11 +172,11 @@
 //雪の床。=
 //雪だるま=
 //雪で作ったオブジェ。=
-//ワープ装置(赤)=
-//ワープ装置間を瞬時に移動できる機械。同じ色のアイテムを2つ置く必要がある。=
-//ワープ装置(青)=
-//ワープ装置(緑)=
-//ワープ装置(黄)=
+ワープ装置(赤)=Warp Unit (Red)
+ワープ装置間を瞬時に移動できる機械。同じ色のアイテムを2つ置く必要がある。=A machine that can instantly transport you between warp units. Requires two items of the same color to be placed.
+ワープ装置(青)=Warp Unit (Blue)
+ワープ装置(緑)=Warp Unit (Green)
+ワープ装置(黄)=Warp Unit (Yellow)
 //リサイクル装置=
 //いらないアイテムを別のアイテムに変換する装置。=
 //燭台=

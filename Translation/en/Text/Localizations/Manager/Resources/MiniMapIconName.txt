@@ -24,9 +24,9 @@
 //脱衣所=
 //衣装だんす=
 ジュークボックス=Jukebox
-//特殊エッチ=
+特殊エッチ=Specialty Sex
 鶏小屋=Chicken Coop
-//ワープ装置（赤）=
-//ワープ装置（青）=
-//ワープ装置（緑）=
-//ワープ装置（黃）=
+ワープ装置（赤）=Warp Unit (Red)
+ワープ装置（青）=Warp Unit (Blue)
+ワープ装置（緑）=Warp Unit (Green)
+ワープ装置（黃）=Warp Unit (黃)
