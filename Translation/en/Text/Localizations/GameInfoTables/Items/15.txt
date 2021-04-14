@@ -72,7 +72,7 @@
 //大量の鉄材を加工して作った素材。軽くて丈夫で光沢もよい。=
 コネクター=Connector
 何か機械に使われていた接続端子。=Connection terminal used in some machine.
-//電子回路=
+電子回路=Electronic Circuit
 大昔に使われていた機械の回路。通電させる必要がある。=Machine circuit used long ago. Required for electricity to pass.
 バッテリー=Battery
 見たことのない蓄電器。1つだけでとてつもない電力を長期間使い続けることができる。=Never seen before battery. Can continue using an unbelievable amount of power for a long time with just one.

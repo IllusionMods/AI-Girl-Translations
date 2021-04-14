@@ -16,7 +16,7 @@
 ナナイロコウロギ=Rainbow Cricket
 ガーネットジュース=Garnet Juice
 ココナッツ酒=Coconut Liquor
-//クラブシチュー=
+クラブシチュー=Crab Stew
 豪華ブイヤベース=Luxury Bouillabaisse
 ダークマター=Dark Matter
 風邪薬=Cold Medicine
@@ -64,7 +64,7 @@
 カーボン=Carbon
 合金材=Alloy
 コネクター=Connector
-//電子回路=
+電子回路=Electronic Circuit
 バッテリー=Battery
 料理好き=Cooking Lover
 綺麗好き=Clean Lover
@@ -100,13 +100,13 @@
 股間が弱い=Weak Crotch
 股間が好き=Crotch Lover
 外好き=Cumshot Lover
-//M=
-//S=
+M=Masochist
+S=Sadist
 火照り=Heat
 同性好き=Homosexual
 痴女=Nympho
 放尿癖=Peeing Habit
-//お尻が弱い=
+お尻が弱い=Anal Lover
 お尻好き=Anal Lover
 テクニシャン=Technician
 レズ好き=Lesbian Lover

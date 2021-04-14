@@ -75,7 +75,7 @@
 見たことのない蓄電器。1つだけでとてつもない電力を長期間使い続けることができる。=Never seen before battery. Can continue using an unbelievable amount of power for a long time with just one.
 コネクター=Connector
 何か機械に使われていた接続端子。=Connection terminal used in some machine.
-//電子回路=
+電子回路=Electronic Circuit
 大昔に使われていた機械の回路。通電させる必要がある。=Machine circuit used long ago. Required for electricity to pass.
 ローション=Lotion
 エッチ中に使うと、女の子の肌の艶が強くなる。=When used during sex, the girl's skin becomes glossier.
