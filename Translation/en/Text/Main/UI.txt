@@ -35,7 +35,7 @@
 // MapScene/MapUI(Clone)/CommandCanvas/AllAreaMap(Clone)/Move/warpArea/Scroll View/Viewport/Content/WarpListNode(Clone)/Text
 //--------------------------------------------------
 // for "拠点：XXX" lines
-sr:"^(：?拠点)(：)(.*)$"=$1$2 $3
+sr:^(：?拠点)：(.*)$=$1： $2
 拠点=Base
 ：拠点=: Base
 シャンの家=Shan's House
@@ -46,7 +46,7 @@ sr:"^(：?拠点)(：)(.*)$"=$1$2 $3
 
 // MapScene/MapUI(Clone)/CommandCanvas/AllAreaMap(Clone)/ClickedText/Text
 //--------------------------------------------------
-sr:"^(：)(.+)$"=$1 $2
+sr:^(：)(.+)$=$1 $2
 グローブ=Gloves
 虫網=Bug Net
 シャベル=Shovel
@@ -363,9 +363,9 @@ Hスキル=H-Skill(s)
 
 // Girl - Actions
 //--------------------------------------------------
-r:"^(.*)にアクション$"=r:"Interact with $1"
-r:"^(.*)と話す$"=r:"Talk with $1"
-r:"^(.*)を担ぐ$"=r:"Carry $1"
+sr:^(.+)にアクション$=Interact with $1
+sr:^(.+)と話す$=Talk with $1
+sr:^(.+)を担ぐ$=Carry $1
 下ろす=Drop Off
 ベッドに寝かせる=Put To Bed
 一緒にご飯を食べる=Eat Rice Together
@@ -461,9 +461,9 @@ r:"^(.*)を担ぐ$"=r:"Carry $1"
 // MapScene/MapUI(Clone)/CommandCanvas/CharaLookEditUI(Clone)/Panel/SelectPanel/Infomation/IconText/Text
 女の子の容姿変更=Change Girl's Appearance
 // MapScene/MapUI(Clone)/CommandCanvas/PlayerChangeUI(Clone)/Panel/SelectPanel/Infomation/IconText/Text
-r:"^(.*)を変更$"=r"Change $1"
+sr:^(.+)を変更$=Change $1
 // MapScene/MapUI(Clone)/CommandCanvas/PlayerLookEditUI(Clone)/Panel/SelectPanel/Infomation/IconText/Text
-r:"^(.*)の容姿変更"=r:"Change $1's Appearance"
+sr:^(.+)の容姿変更=Change $1's Appearance
 // MapScene/MapUI(Clone)/CommandCanvas/CharaLookEditUI(Clone)/Panel/SelectPanel/Infomation/ElementLayout/btnCharaCreation/Text
 // MapScene/MapUI(Clone)/CommandCanvas/PlayerLookEditUI(Clone)/Panel/SelectPanel/Infomation/ElementLayout/btnCharaCreation/Text
 キャラ編集=Edit Char.
