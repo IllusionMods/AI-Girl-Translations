@@ -1,7 +1,7 @@
 //
 // Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
 //
-//なし=
+なし=None
 タイプ1=Type 1
 タイプ2=Type 2
 タイプ3=Type 3

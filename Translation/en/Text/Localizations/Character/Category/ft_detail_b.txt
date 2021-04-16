@@ -1,8 +1,8 @@
 //
 // Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
 //
-//普通=
-//ムキムキ=
-//ポッチャリ=
-//スレンダー=
-//普通2=
+普通=Normal
+ムキムキ=Muscular
+ポッチャリ=Chubby
+スレンダー=Slender
+普通2=Normal 2

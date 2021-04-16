@@ -1,23 +1,23 @@
 //
 // Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
 //
-//リュック=
-//革鞄=
-//シャチフロート=
-//ダンボール=
-//商人カバン=
-//肩掛けジャケット=
-//鳥籠=
+リュック=Ruck Sack
+革鞄=Leather Bag
+シャチフロート=Killer Whale Float
+ダンボール=Cardboard
+商人カバン=Merchant Bag
+肩掛けジャケット=Shoulder Jacket
+鳥籠=Bird Cage
 妖精の羽=Fairy Wings
-ネコリュック=Cat Backpack
-ミニリュック=Mini Backpack
-//小悪魔の翼右用=
-//小悪魔の翼左用=
-//小天使の翼右用=
-//小天使の翼左用=
-//悪魔の翼右用=
-//悪魔の翼左用=
-//天使の翼右用=
-//天使の翼左用=
-//メカウイングⅢ=
-//羽衣=
+ネコリュック=Cat Rucksack
+ミニリュック=Mini Rucksack
+小悪魔の翼右用=Right Devil Wing
+小悪魔の翼左用=Left Devil Wing
+小天使の翼右用=Little Angel Wing Right
+小天使の翼左用=Little Angel Wing Left
+悪魔の翼右用=Right Demon Wing
+悪魔の翼左用=Left Demon Wing
+天使の翼右用=Right Angel Wing
+天使の翼左用=Left Angel Wing
+メカウイングⅢ=Mecha Wing 3
+羽衣=Ui

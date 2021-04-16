@@ -195,7 +195,7 @@ sr:^(：)(.+)$=$1 $2
 すべて=All
 草花=Plant(s)
 樹木=Tree(s)
-魚=Fish(es)
+魚=Fish
 種=Seed(s)
 エサ=Bait
 飲み物=Drink(s)
@@ -363,9 +363,9 @@ Hスキル=H-Skill(s)
 
 // Girl - Actions
 //--------------------------------------------------
-sr:^(.+)にアクション$=Interact with $1
-sr:^(.+)と話す$=Talk with $1
-sr:^(.+)を担ぐ$=Carry $1
+sr:^([\S\s]+)にアクション$=Interact with $1
+sr:^([\S\s]+)と話す$=Talk with $1
+sr:^([\S\s]+)を担ぐ$=Carry $1
 下ろす=Drop Off
 ベッドに寝かせる=Put To Bed
 一緒にご飯を食べる=Eat Rice Together

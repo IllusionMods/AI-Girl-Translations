@@ -1,7 +1,7 @@
 //
 // Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
 //
-魚=Fish(es)
+魚=Fish
 コツブウオ=Small Fish
 小さな種類の魚。小粒だが貴重な食糧。=Small kind of fish. May be small, but it is a valuable food supply.
 コムツ=Gnomefish fry

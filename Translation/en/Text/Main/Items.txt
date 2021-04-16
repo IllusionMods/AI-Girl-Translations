@@ -32,7 +32,7 @@
 すべて=All
 草花=Plants
 樹木=Trees
-魚=Fishes
+魚=Fish
 種=Seeds
 エサ=Baits
 飲み物=Drinks
