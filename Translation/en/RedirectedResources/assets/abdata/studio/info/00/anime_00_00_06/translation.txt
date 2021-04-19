@@ -1,14 +1,14 @@
 //
 // Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
 //
-//机の上=
-//壺=
+机の上=Search Table
+壺=Search Container
 ピッケル=Ice Ax
 シャベル=Shovel
 //虫網を振る=
-//地面in=
-//地面loop=
-//地面out=
+地面in=Search Ground in
+地面loop=Search Ground loop
+地面out=Search Ground out
 釣り1=Fishing 1
 釣り2=Fishing 2
 釣り3=Fishing 3

@@ -12,6 +12,6 @@
 滑り台=Slide
 //飛び込む=
 //石を拾って投げる=
-//猫と遊ぶ1=
-//猫と遊ぶ2=
-//猫と遊ぶ3=
+猫と遊ぶ1=Play with Cat 1
+猫と遊ぶ2=Play with Cat 2
+猫と遊ぶ3=Play with Cat 3

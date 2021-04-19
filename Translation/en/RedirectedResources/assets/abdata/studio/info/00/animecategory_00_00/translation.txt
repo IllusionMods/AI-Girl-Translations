@@ -13,4 +13,4 @@
 床=Sitting On Floor
 飲食=Food & Drink
 寝=Laying
-主人公=Hero
+主人公=Player
