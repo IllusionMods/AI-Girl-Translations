@@ -1,0 +1,12 @@
+/MapScene/MapUI(Clone)/CommandCanvas/CommandList(Clone)/BasePanel/Motion/Option(Clone)/Panel=ChangeFontSizeByPercentage(0.8)
+/MapScene/MapUI(Clone)/CommandCanvas/CommandList(Clone)/BasePanel/Motion/Option(Clone)/Panel=UGUI_HorizontalOverflow(wrap)
+/MapScene/MapUI(Clone)/CommandCanvas/CommandList(Clone)/BasePanel/Motion/Option(Clone)/Panel=UGUI_ChangeLineSpacing(0.75)
+
+/CommonSpace/HSceneUISet/Canvas/CanvasGroup/Panel/MotionList/BasePanel/Motion/Toggle(Clone)/Label=ChangeFontSizeByPercentage(0.8)
+/CommonSpace/HSceneUISet/Canvas/CanvasGroup/Panel/MotionList/BasePanel/Motion/Toggle(Clone)/Label=UGUI_HorizontalOverflow(wrap)
+/CommonSpace/HSceneUISet/Canvas/CanvasGroup/Panel/MotionList/BasePanel/Motion/Toggle(Clone)/Label=UGUI_ChangeLineSpacing(0.75)
+
+/MapScene/MapUI(Clone)/CommandCanvas/MenuUI(Clone)/CellularUI/Interface Panel=UGUI_ChangeLineSpacing(0.75)
+/MapScene/MapUI(Clone)/CommandCanvas/MenuUI(Clone)/CellularUI/Interface Panel/StatusUI(Clone)/Content/AgentContent/Flavor=ChangeFontSizeByPercentage(0.6)
+/MapScene/MapUI(Clone)/CommandCanvas/MenuUI(Clone)/CellularUI/Interface Panel/StatusUI(Clone)/Skill=ChangeFontSizeByPercentage(0.8)
+/MapScene/MapUI(Clone)/CommandCanvas/MenuUI(Clone)/CellularUI/Interface Panel/StatusUI(Clone)/Skill=UGUI_ChangeLineSpacing(0.75)

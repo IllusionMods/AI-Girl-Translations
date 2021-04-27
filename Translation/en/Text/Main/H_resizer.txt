@@ -1,0 +1,44 @@
+
+// h scenes not scoped
+ 
+CommonSpace/HSceneUISet=IgnoreFontSize()
+CommonSpace/HSceneUISet/Canvas=ChangeFontSizeByPercentage(0.9)
+
+// Positions
+
+
+CommonSpace/HSceneUISet/Canvas/CanvasGroup/Panel/MotionList=IgnoreFontSize()
+CommonSpace/HSceneUISet/Canvas/CanvasGroup/Panel/MotionList/BasePanel=ChangeFontSizeByPercentage(0.6)
+CommonSpace/HSceneUISet/Canvas/CanvasGroup/Panel/MotionList/BasePanel/Motion/Toggle(Clone)/Label=UGUI_HorizontalOverflow(wrap)
+CommonSpace/HSceneUISet/Canvas/CanvasGroup/Panel/MotionList/BasePanel/Motion/Toggle(Clone)/Label=UGUI_ChangeLineSpacing(0.75)
+CommonSpace/HSceneUISet/Canvas/CanvasGroup/Panel/MotionList/BasePanel/Motion/Toggle(Clone)/Label=ChangeFontSizeByPercentage(0.7)
+
+// HItems
+
+CommonSpace/HSceneUISet/Canvas/CanvasGroup/Panel/HItem=IgnoreFontSize()
+CommonSpace/HSceneUISet/Canvas/CanvasGroup/Panel/HItem/BasePanel=ChangeFontSizeByPercentage(0.8)
+CommonSpace/HSceneUISet/Canvas/CanvasGroup/Panel/HItem/BasePanel/HItem/Toggle(Clone)/GameObject=ChangeFontSizeByPercentage(0.75)
+CommonSpace/HSceneUISet/Canvas/CanvasGroup/Panel/HItem/BasePanel/HItem/Toggle(Clone)/GameObject/Label=UGUI_HorizontalOverflow(wrap)
+CommonSpace/HSceneUISet/Canvas/CanvasGroup/Panel/HItem/BasePanel/HItem/Toggle(Clone)/GameObject/Label=UGUI_ChangeLineSpacing(0.75)
+
+// Light Adjust
+CommonSpace/HSceneUISet/Canvas/CanvasGroup/LightCategory=IgnoreFontSize()
+CommonSpace/HSceneUISet/Canvas/CanvasGroup/LightCategory/BG=ChangeFontSizeByPercentage(0.66)
+CommonSpace/HSceneUISet/Canvas/CanvasGroup/LightCategory/BG/LightAdjustment/ScrollView/ViewPort/Content=UGUI_ChangeLineSpacing(0.75)
+CommonSpace/HSceneUISet/Canvas/CanvasGroup/LightCategory/BG/LightAdjustment/ScrollView/ViewPort/Content/Backlight=ChangeFontSizeByPercentage(0.9)
+CommonSpace/HSceneUISet/Canvas/CanvasGroup/LightCategory/BG/LightAdjustment/ScrollView/ViewPort/Content/Auxiliary=ChangeFontSizeByPercentage(0.9)
+CommonSpace/HSceneUISet/Canvas/CanvasGroup/LightCategory/BG/LightAdjustment/ScrollView/ViewPort/Content/Lock Camlight=ChangeFontSizeByPercentage(0.9)
+CommonSpace/HSceneUISet/Canvas/CanvasGroup/LightCategory/BG/LightAdjustment/ScrollView/ViewPort/Content/Lower Shadow Resolution=ChangeFontSizeByPercentage(0.9)
+
+// Coords
+CommonSpace/HSceneUISet/Canvas/CanvasGroup/Panel/CoordinatesCard/CoodenatePanel=ChangeFontSizeByPercentage(0.9)
+CommonSpace/HSceneUISet/Canvas/CanvasGroup/Panel/CoordinatesCard/CoodenatePanel/Scroll View/Viewport/Content/CoordinatesNode(Clone)/Text=ChangeFontSizeByPercentage(0.7)
+
+// Accesories
+CommonSpace/HSceneUISet/Canvas/CanvasGroup/Panel/AccessoryCategory=ChangeFontSizeByPercentage(0.9)
+CommonSpace/HSceneUISet/Canvas/CanvasGroup/Panel/AccessoryCategory/AccessoryMenu=ChangeFontSizeByPercentage(0.6)
+
+
+CommonSpace/HSceneUISet/Canvas/CanvasGroup/FinishCategory=ChangeFontSizeByPercentage(0.7)
+CommonSpace/HSceneUISet/Canvas/CanvasGroup/FinishCategory=UGUI_ChangeLineSpacing(0.6)
+

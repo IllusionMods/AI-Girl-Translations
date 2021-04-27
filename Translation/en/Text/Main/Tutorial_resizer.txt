@@ -1,0 +1,51 @@
+#set level 5
+
+MapScene/MapUI(Clone)/CommandCanvas/TutorialUI(Clone)/Canvas Group/Element Root=ChangeFontSizeByPercentage(0.75)
+MapScene/MapUI(Clone)/CommandCanvas/TutorialUI(Clone)/Canvas Group/Element Root=UGUI_ChangeLineSpacing(0.8)
+MapScene/MapUI(Clone)/CommandCanvas/TutorialUI(Clone)/Canvas Group/Element Root=UGUI_HorizontalOverflow(overflow)
+MapScene/MapUI(Clone)/CommandCanvas/TutorialUI(Clone)/Canvas Group/Element Root=UGUI_HorizontalOverflow(overflow)
+
+MapScene/MapUI(Clone)/CommandCanvas/TutorialUI(Clone)/Canvas Group/Element Root/Group [00]/p_ai_tutorial_00_00_01(Clone)=UGUI_HorizontalOverflow(wrap)
+MapScene/MapUI(Clone)/CommandCanvas/TutorialUI(Clone)/Canvas Group/Element Root/Group [01]=UGUI_HorizontalOverflow(wrap)
+MapScene/MapUI(Clone)/CommandCanvas/TutorialUI(Clone)/Canvas Group/Element Root/Group [02]=UGUI_HorizontalOverflow(wrap)
+
+MapScene/MapUI(Clone)/CommandCanvas/TutorialUI(Clone)/Canvas Group/Element Root/Group [03]/p_ai_tutorial_00_05_01(Clone)/Flavor Text (2)=UGUI_HorizontalOverflow(wrap)
+MapScene/MapUI(Clone)/CommandCanvas/TutorialUI(Clone)/Canvas Group/Element Root/Group [03]/p_ai_tutorial_00_05_02(Clone)/Flavor Text (2)=UGUI_HorizontalOverflow(wrap)
+MapScene/MapUI(Clone)/CommandCanvas/TutorialUI(Clone)/Canvas Group/Element Root/Group [04]/p_ai_tutorial_00_06_01(Clone)/Flavor Text=UGUI_HorizontalOverflow(wrap)
+MapScene/MapUI(Clone)/CommandCanvas/TutorialUI(Clone)/Canvas Group/Element Root/Group [05]/p_ai_tutorial_05_07_00(Clone)/Group 0=UGUI_HorizontalOverflow(wrap)
+
+
+MapScene/MapUI(Clone)/CommandCanvas/TutorialUI(Clone)/Canvas Group/Element Root/Group [05]/p_ai_tutorial_00_07_02(Clone)/Image/Flavor Text (3)=UGUI_HorizontalOverflow(wrap)
+
+
+
+MapScene/MapUI(Clone)/CommandCanvas/TutorialUI(Clone)/Canvas Group/Element Root/Group [09]=UGUI_HorizontalOverflow(wrap)
+MapScene/MapUI(Clone)/CommandCanvas/TutorialUI(Clone)/Canvas Group/Element Root/Group [10]=UGUI_HorizontalOverflow(wrap)
+MapScene/MapUI(Clone)/CommandCanvas/TutorialUI(Clone)/Canvas Group/Element Root/Group [13]=UGUI_HorizontalOverflow(wrap)
+MapScene/MapUI(Clone)/CommandCanvas/TutorialUI(Clone)/Canvas Group/Element Root/Group [14]=UGUI_HorizontalOverflow(wrap)
+
+
+MapScene/MapUI(Clone)/CommandCanvas/TutorialUI(Clone)/Group List UI/Scroll View/Viewport/Content=ChangeFontSizeByPercentage(0.9)
+MapScene/MapUI(Clone)/CommandCanvas/TutorialUI(Clone)/Group List UI/Scroll View/Viewport/Content=UGUI_HorizontalOverflow(overflow)
+
+
+
+MapScene/MapUI(Clone)/CommandCanvas/TutorialUI(Clone)/Canvas Group/Element Root/Group [02]/p_ai_tutorial_00_02_02(Clone)/Flavor Text (1)=UGUI_HorizontalOverflow(overflow)
+MapScene/MapUI(Clone)/CommandCanvas/TutorialUI(Clone)/Canvas Group/Element Root/Group [02]/p_ai_tutorial_00_02_02(Clone)/Flavor Text (2)=UGUI_HorizontalOverflow(overflow)
+MapScene/MapUI(Clone)/CommandCanvas/TutorialUI(Clone)/Canvas Group/Element Root/Group [02]/p_ai_tutorial_00_02_02(Clone)/Flavor Text (3)=UGUI_HorizontalOverflow(overflow)
+MapScene/MapUI(Clone)/CommandCanvas/TutorialUI(Clone)/Canvas Group/Element Root/Group [02]/p_ai_tutorial_00_02_02(Clone)/Flavor Text (4)=UGUI_HorizontalOverflow(overflow)
+MapScene/MapUI(Clone)/CommandCanvas/TutorialUI(Clone)/Canvas Group/Element Root/Group [02]/p_ai_tutorial_00_02_02(Clone)/Flavor Text (5)=UGUI_HorizontalOverflow(overflow)
+MapScene/MapUI(Clone)/CommandCanvas/TutorialUI(Clone)/Canvas Group/Element Root/Group [02]/p_ai_tutorial_00_02_02(Clone)/Flavor Text (1)=ChangeFontSizeByPercentage(0.6)
+MapScene/MapUI(Clone)/CommandCanvas/TutorialUI(Clone)/Canvas Group/Element Root/Group [02]/p_ai_tutorial_00_02_02(Clone)/Flavor Text (2)=ChangeFontSizeByPercentage(0.6)
+MapScene/MapUI(Clone)/CommandCanvas/TutorialUI(Clone)/Canvas Group/Element Root/Group [02]/p_ai_tutorial_00_02_02(Clone)/Flavor Text (3)=ChangeFontSizeByPercentage(0.6)
+MapScene/MapUI(Clone)/CommandCanvas/TutorialUI(Clone)/Canvas Group/Element Root/Group [02]/p_ai_tutorial_00_02_02(Clone)/Flavor Text (4)=ChangeFontSizeByPercentage(0.6)
+MapScene/MapUI(Clone)/CommandCanvas/TutorialUI(Clone)/Canvas Group/Element Root/Group [02]/p_ai_tutorial_00_02_02(Clone)/Flavor Text (5)=ChangeFontSizeByPercentage(0.6)
+
+MapScene/MapUI(Clone)/CommandCanvas/TutorialUI(Clone)/Canvas Group/Element Root/Group [11]/p_ai_tutorial_00_17_01(Clone)/Element Root/Image (1)/Flavor Text=UGUI_HorizontalOverflow(overflow)
+MapScene/MapUI(Clone)/CommandCanvas/TutorialUI(Clone)/Canvas Group/Element Root/Group [11]/p_ai_tutorial_00_17_01(Clone)/Element Root/Image (1)/Flavor Text=ChangeFontSizeByPercentage(0.6)
+MapScene/MapUI(Clone)/CommandCanvas/TutorialUI(Clone)/Canvas Group/Element Root/Group [11]/p_ai_tutorial_00_17_01(Clone)/Element Root/Image (1)/Flavor Text (1)=UGUI_HorizontalOverflow(overflow)
+MapScene/MapUI(Clone)/CommandCanvas/TutorialUI(Clone)/Canvas Group/Element Root/Group [11]/p_ai_tutorial_00_17_01(Clone)/Element Root/Image (1)/Flavor Text (1)=ChangeFontSizeByPercentage(0.6)
+MapScene/MapUI(Clone)/CommandCanvas/TutorialUI(Clone)/Canvas Group/Element Root/Group [11]/p_ai_tutorial_00_17_01(Clone)/Element Root/Image (2)/Flavor Text=UGUI_HorizontalOverflow(overflow)
+MapScene/MapUI(Clone)/CommandCanvas/TutorialUI(Clone)/Canvas Group/Element Root/Group [11]/p_ai_tutorial_00_17_01(Clone)/Element Root/Image (2)/Flavor Text=ChangeFontSizeByPercentage(0.6)
+MapScene/MapUI(Clone)/CommandCanvas/TutorialUI(Clone)/Canvas Group/Element Root/Group [11]/p_ai_tutorial_00_17_01(Clone)/Element Root/Image (2)/Flavor Text (1)=UGUI_HorizontalOverflow(overflow)
+MapScene/MapUI(Clone)/CommandCanvas/TutorialUI(Clone)/Canvas Group/Element Root/Group [11]/p_ai_tutorial_00_17_01(Clone)/Element Root/Image (2)/Flavor Text (1)=ChangeFontSizeByPercentage(0.6)

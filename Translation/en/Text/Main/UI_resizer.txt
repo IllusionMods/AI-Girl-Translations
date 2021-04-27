@@ -1,38 +1,360 @@
-MapScene/MapUI(Clone)/CommandCanvas/CommandList(Clone)/Guides/GuideOption(Clone)/Label=ChangeFontSizeByPercentage(0.75)
-MapScene/MapUI(Clone)/CommandCanvas/ChoiceUI(Clone)/Guides/GuideOption(Clone)/Label=ChangeFontSizeByPercentage(0.75)
+#set level 5
 
-MapScene/MapUI(Clone)/CommandCanvas/CommandList(Clone)/BasePanel=ChangeFontSizeByPercentage(0.75)
-MapScene/MapUI(Clone)/CommandCanvas/CharaLookEditUI(Clone)/Panel/SelectPanel/Infomation/IconText/Text=ChangeFontSizeByPercentage(0.9)
-MapScene/MapUI(Clone)/CommandCanvas/PlayerLookEditUI(Clone)/Panel/SelectPanel/Infomation/IconText/Text=ChangeFontSizeByPercentage(0.9)
+// globally shrink a bit
+MapScene/MapUI(Clone)/CommandCanvas=ChangeFontSizeByPercentage(0.95)
 
-MapScene/MapUI(Clone)/CommandCanvas/CookingUI(Clone)/Panel/CraftMainPanel/Layout/CraftViewer(Clone)/Base/ListPanel/Viewport/Content/CraftItemOption(Clone)/AnimationRoot/Name/Label=ChangeFontSizeByPercentage(0.85)
-MapScene/MapUI(Clone)/CommandCanvas/CraftUI(Clone)/Panel/CraftMainPanel/Layout/CraftViewer(Clone)/Base/ListPanel/Viewport/Content/CraftItemOption(Clone)/AnimationRoot/Name/Label=ChangeFontSizeByPercentage(0.85)
+// scrolling menus
 
-MapScene/MapUI(Clone)/CommandCanvas/FarmlandUI(Clone)/Panel/PlantPanel/Infomation/IconText/Text=UGUI_HorizontalOverflow(overflow)
-MapScene/MapUI(Clone)/CommandCanvas/FarmlandUI(Clone)/Panel/PlantInfoPanel/Infomation/TimeTextLayout/Layout/TimeText=ChangeFontSizeByPercentage(0.95)
-MapScene/MapUI(Clone)/CommandCanvas/FarmlandUI(Clone)/Panel/PlantInfoPanel/Infomation/TimeTextLayout/Layout/ResultText=ChangeFontSizeByPercentage(0.95)
+MapScene/MapUI(Clone)/CommandCanvas/CommandList(Clone)=ChangeFontSizeByPercentage(0.85)
+MapScene/MapUI(Clone)/CommandCanvas/CommandList(Clone)/BasePanel/Motion=ChangeFontSizeByPercentage(0.75)
+MapScene/MapUI(Clone)/CommandCanvas/CommandList(Clone)/BasePanel/Motion/Option(Clone)/Panel/Label=UGUI_ChangeLineSpacing(0.66)
 
-MapScene/MapUI(Clone)/CommandCanvas/SpendMoneyUI(Clone)/Window=ChangeFontSizeByPercentage(0.75)
 
+
+// Cell Phone
+
+MapScene/MapUI(Clone)/CommandCanvas/MenuUI(Clone)/CellularUI=IgnoreFontSize()
+MapScene/MapUI(Clone)/CommandCanvas/MenuUI(Clone)/CellularUI/Interface Panel=ChangeFontSizeByPercentage(0.75)
+
+// Cell Phone -> HomeMenu
+
+MapScene/MapUI(Clone)/CommandCanvas/MenuUI(Clone)/CellularUI/Interface Panel/HomeMenu(Clone)=IgnoreFontSize()
+
+// Cell Phone -> Status -> Player
+MapScene/MapUI(Clone)/CommandCanvas/MenuUI(Clone)/CellularUI/Interface Panel/StatusUI(Clone)/Content/PlayerContent=IgnoreFontSize()
+MapScene/MapUI(Clone)/CommandCanvas/MenuUI(Clone)/CellularUI/Interface Panel/StatusUI(Clone)/Content/PlayerContent/Text=ChangeFontSize(25)
+MapScene/MapUI(Clone)/CommandCanvas/MenuUI(Clone)/CellularUI/Interface Panel/StatusUI(Clone)/Content/PlayerContent/Text=UGUI_HorizontalOverflow(wrap)
+MapScene/MapUI(Clone)/CommandCanvas/MenuUI(Clone)/CellularUI/Interface Panel/StatusUI(Clone)/Content/PlayerContent/Text=UGUI_VerticalOverflow(overflow)
+MapScene/MapUI(Clone)/CommandCanvas/MenuUI(Clone)/CellularUI/Interface Panel/StatusUI(Clone)/Content/PlayerContent/InventorySlotLabel=UGUI_HorizontalOverflow(overflow)
+MapScene/MapUI(Clone)/CommandCanvas/MenuUI(Clone)/CellularUI/Interface Panel/StatusUI(Clone)/Content/PlayerContent/InventorySlotLabel=UGUI_VerticalOverflow(truncate)
+MapScene/MapUI(Clone)/CommandCanvas/MenuUI(Clone)/CellularUI/Interface Panel/StatusUI(Clone)/Content/PlayerContent/InventorySlotLabel=ChangeFontSize(25)
+MapScene/MapUI(Clone)/CommandCanvas/MenuUI(Clone)/CellularUI/Interface Panel/StatusUI(Clone)/Content/PlayerContent/SexLabel=ChangeFontSize(25)
+
+
+// Cell Phone -> Status -> Chara 
+
+MapScene/MapUI(Clone)/CommandCanvas/MenuUI(Clone)/CellularUI/Interface Panel/StatusUI(Clone)/Content/AgentContent/H/Text=UGUI_HorizontalOverflow(overflow)
+MapScene/MapUI(Clone)/CommandCanvas/MenuUI(Clone)/CellularUI/Interface Panel/StatusUI(Clone)/Content/AgentContent/H/Text=UGUI_VerticalOverflow(overflow)
+MapScene/MapUI(Clone)/CommandCanvas/MenuUI(Clone)/CellularUI/Interface Panel/StatusUI(Clone)/Content/AgentContent/Hunger/Text=UGUI_HorizontalOverflow(overflow)
+MapScene/MapUI(Clone)/CommandCanvas/MenuUI(Clone)/CellularUI/Interface Panel/StatusUI(Clone)/Content/AgentContent/Hunger/Text=UGUI_VerticalOverflow(overflow)
+MapScene/MapUI(Clone)/CommandCanvas/MenuUI(Clone)/CellularUI/Interface Panel/StatusUI(Clone)/Content/AgentContent/Physical/Text=UGUI_HorizontalOverflow(overflow)
+MapScene/MapUI(Clone)/CommandCanvas/MenuUI(Clone)/CellularUI/Interface Panel/StatusUI(Clone)/Content/AgentContent/Physical/Text=UGUI_VerticalOverflow(overflow)
 MapScene/MapUI(Clone)/CommandCanvas/MenuUI(Clone)/CellularUI/Interface Panel/StatusUI(Clone)/Content/AgentContent/Temperature/Text=UGUI_HorizontalOverflow(overflow)
+MapScene/MapUI(Clone)/CommandCanvas/MenuUI(Clone)/CellularUI/Interface Panel/StatusUI(Clone)/Content/AgentContent/Temperature/Text=UGUI_VerticalOverflow(overflow)
 MapScene/MapUI(Clone)/CommandCanvas/MenuUI(Clone)/CellularUI/Interface Panel/StatusUI(Clone)/Content/AgentContent/Motivation/Text=UGUI_HorizontalOverflow(overflow)
 MapScene/MapUI(Clone)/CommandCanvas/MenuUI(Clone)/CellularUI/Interface Panel/StatusUI(Clone)/Content/AgentContent/H/Text=UGUI_HorizontalOverflow(overflow)
 
-MapScene/MapUI(Clone)/CommandCanvas/MenuUI(Clone)/CellularUI/Interface Panel/StatusUI(Clone)/Content/AgentContent/Flavor/darkness/Text=ChangeFontSizeByPercentage(0.65)
-MapScene/MapUI(Clone)/CommandCanvas/MenuUI(Clone)/CellularUI/Interface Panel/StatusUI(Clone)/Content/AgentContent/Flavor/sociability/Text=ChangeFontSizeByPercentage(0.65)
-MapScene/MapUI(Clone)/CommandCanvas/MenuUI(Clone)/CellularUI/Interface Panel/StatusUI(Clone)/Content/AgentContent/Flavor/risk/Text=ChangeFontSizeByPercentage(0.65)
-MapScene/MapUI(Clone)/CommandCanvas/MenuUI(Clone)/CellularUI/Interface Panel/StatusUI(Clone)/Content/AgentContent/Flavor/hentai/Text=ChangeFontSizeByPercentage(0.65)
-MapScene/MapUI(Clone)/CommandCanvas/MenuUI(Clone)/CellularUI/Interface Panel/StatusUI(Clone)/Content/AgentContent/Flavor/Instinct/Text=ChangeFontSizeByPercentage(0.65)
-MapScene/MapUI(Clone)/CommandCanvas/MenuUI(Clone)/CellularUI/Interface Panel/StatusUI(Clone)/Content/AgentContent/Flavor/Humanity/Text=ChangeFontSizeByPercentage(0.65)
-MapScene/MapUI(Clone)/CommandCanvas/MenuUI(Clone)/CellularUI/Interface Panel/StatusUI(Clone)/Content/AgentContent/Flavor/Reliability/Text=ChangeFontSizeByPercentage(0.65)
-MapScene/MapUI(Clone)/CommandCanvas/MenuUI(Clone)/CellularUI/Interface Panel/StatusUI(Clone)/Content/AgentContent/Flavor/joshi-pow/Text=ChangeFontSizeByPercentage(0.65)
+MapScene/MapUI(Clone)/CommandCanvas/MenuUI(Clone)/CellularUI/Interface Panel/StatusUI(Clone)/Content/AgentContent/Temperature/Text=UGUI_HorizontalOverflow(overflow)
+// MapScene/MapUI(Clone)/CommandCanvas/MenuUI(Clone)/CellularUI/Interface Panel/StatusUI(Clone)/Content/AgentContent/Motivation/Text=UGUI_HorizontalOverflow(overflow)
+// MapScene/MapUI(Clone)/CommandCanvas/MenuUI(Clone)/CellularUI/Interface Panel/StatusUI(Clone)/Content/AgentContent/H/Text=UGUI_HorizontalOverflow(overflow)
 
-MapScene/MapUI(Clone)/CommandCanvas/MenuUI(Clone)/CellularUI/Interface Panel/StatusUI(Clone)/Skill/Text=ChangeFontSizeByPercentage(0.6)
-MapScene/MapUI(Clone)/CommandCanvas/MenuUI(Clone)/CellularUI/Interface Panel/StatusUI(Clone)/Skill/NormalSkill=ChangeFontSizeByPercentage(0.9)
 
-MapScene/MapUI(Clone)/CommandCanvas/PhotoShotUI(Clone)/HowToGroup=ChangeFontSizeByPercentage(0.7)
+// Cell Phone -> Status -> Chara -> Flavor
 
-CraftScene/Canvas/Add/List/Text Category=UGUI_HorizontalOverflow(overflow)
+MapScene/MapUI(Clone)/CommandCanvas/MenuUI(Clone)/CellularUI/Interface Panel/StatusUI(Clone)/Content/AgentContent/Flavor=ChangeFontSizeByPercentage(0.6)
 
-CharaCustom/CustomControl/CanvasSub/SettingWindow/WinOption/DefaultWin/O_Chara/ddBirthday/textKindTitle=UGUI_VerticalOverflow(truncate)
-CharaCustom/CustomControl/CanvasSub/SettingWindow/WinOption/DefaultWin/O_Chara/ddBirthday/textKindTitle=ChangeFontSizeByPercentage(1.29)
+// Cell Phone -> Status -> Chara -> Skills
+MapScene/MapUI(Clone)/CommandCanvas/MenuUI(Clone)/CellularUI/Interface Panel/StatusUI(Clone)=IgnoreFontSize()
+MapScene/MapUI(Clone)/CommandCanvas/MenuUI(Clone)/CellularUI/Interface Panel/StatusUI(Clone)/Skill=ChangeFontSizeByPercentage(0.75)
+MapScene/MapUI(Clone)/CommandCanvas/MenuUI(Clone)/CellularUI/Interface Panel/StatusUI(Clone)/Skill/Text=UGUI_HorizontalOverflow(overflow)
+MapScene/MapUI(Clone)/CommandCanvas/MenuUI(Clone)/CellularUI/Interface Panel/StatusUI(Clone)/Skill/FlavorText=IgnoreFontSize()
+MapScene/MapUI(Clone)/CommandCanvas/MenuUI(Clone)/CellularUI/Interface Panel/StatusUI(Clone)/Skill/FlavorText/SkillFlavorText=ChangeFontSizeByPercentage(0.8)
+MapScene/MapUI(Clone)/CommandCanvas/MenuUI(Clone)/CellularUI/Interface Panel/StatusUI(Clone)/Skill/NormalSkill=ChangeFontSizeByPercentage(0.66)
+MapScene/MapUI(Clone)/CommandCanvas/MenuUI(Clone)/CellularUI/Interface Panel/StatusUI(Clone)/Skill/ForHSkill=ChangeFontSizeByPercentage(0.66)
+
+// Cell Phone -> Status -> Equipment
+MapScene/MapUI(Clone)/CommandCanvas/MenuUI(Clone)/CellularUI/Interface Panel/StatusUI(Clone)/Equipment=ChangeFontSizeByPercentage(0.8)
+MapScene/MapUI(Clone)/CommandCanvas/MenuUI(Clone)/CellularUI/Interface Panel/StatusUI(Clone)/Equipment/FlavorText=IgnoreFontSize()
+MapScene/MapUI(Clone)/CommandCanvas/MenuUI(Clone)/CellularUI/Interface Panel/StatusUI(Clone)/Equipment/FlavorText/Flavor_ItemNameLabel=UGUI_HorizontalOverflow(overflow)
+MapScene/MapUI(Clone)/CommandCanvas/MenuUI(Clone)/CellularUI/Interface Panel/StatusUI(Clone)/Equipment/FlavorText/ItemFlavorText=ChangeFontSizeByPercentage(0.9)
+
+
+
+// Cell Phone -> Map
+
+MapScene/MapUI(Clone)/CommandCanvas/AllAreaMap(Clone)=IgnoreFontSize()
+
+MapScene/MapUI(Clone)/CommandCanvas/AllAreaMap(Clone)/PlayGuide=ChangeFontSizeByPercentage(0.8)
+
+MapScene/MapUI(Clone)/CommandCanvas/AllAreaMap(Clone)/ClickedText=ChangeFontSizeByPercentage(0.9)
+//MapScene/MapUI(Clone)/CommandCanvas/AllAreaMap(Clone)/ClickedText=ChangeFontSize(30)
+
+MapScene/MapUI(Clone)/CommandCanvas/AllAreaMap(Clone)/Scroll View/Viewport/Content/GirlListNode(Clone)/Text=ChangeFontSizeByPercentage(0.8)
+
+MapScene/MapUI(Clone)/CommandCanvas/AllAreaMap(Clone)/IslandLabel/Text=ChangeFontSizeByPercentage(0.7)
+MapScene/MapUI(Clone)/CommandCanvas/AllAreaMap(Clone)/IslandLabel/Text=UGUI_ChangeLineSpacing(0.66)
+MapScene/MapUI(Clone)/CommandCanvas/AllAreaMap(Clone)/IslandLabel/Text=UGUI_HorizontalOverflow(wrap)
+MapScene/MapUI(Clone)/CommandCanvas/AllAreaMap(Clone)/IslandLabel/Text=UGUI_VerticalOverflow(overflow)
+
+MapScene/MapUI(Clone)/CommandCanvas/AllAreaMap(Clone)/Move/warpArea/Scroll View/Viewport/Content=IgnoreFontSize()
+MapScene/MapUI(Clone)/CommandCanvas/AllAreaMap(Clone)/Move/warpArea/Scroll View/Viewport/Content/WarpListNode(Clone)=ChangeFontSizeByPercentage(0.8)
+
+// MapScene/MapUI(Clone)/CommandCanvas/AllAreaMap(Clone)/IslandLabel/Text
+// MapScene/MapUI(Clone)/CommandCanvas/AllAreaMap(Clone)/Move/warpArea/Scroll View/Viewport/Content/WarpListNode(Clone)/Text
+// MapScene/MapUI(Clone)/CommandCanvas/AllAreaMap(Clone)/PlayGuide/GuidNode(Clone)/Text
+// MapScene/MapUI(Clone)/CommandCanvas/AllAreaMap(Clone)/Scroll View/Viewport/Content/GirlListNode(Clone)/Text
+
+// Cell Phone -> Inventory
+
+MapScene/MapUI(Clone)/CommandCanvas/MenuUI(Clone)/CellularUI/Interface Panel/InventoryEnterUI(Clone)/InventoryViewer(Clone)/ListLabel=ChangeFontSize(20)
+MapScene/MapUI(Clone)/CommandCanvas/MenuUI(Clone)/CellularUI/Interface Panel/InventoryEnterUI(Clone)/InventoryViewer(Clone)/ListLabel=UGUI_HorizontalOverflow(overflow)
+MapScene/MapUI(Clone)/CommandCanvas/MenuUI(Clone)/CellularUI/Interface Panel/InventoryEnterUI(Clone)/InventoryViewer(Clone)/ListPanel=ChangeFontSize(20)
+MapScene/MapUI(Clone)/CommandCanvas/MenuUI(Clone)/CellularUI/Interface Panel/InventoryEnterUI(Clone)/InventoryViewer(Clone)/ListPanel=UGUI_HorizontalOverflow(overflow)
+
+MapScene/MapUI(Clone)/CommandCanvas/MenuUI(Clone)/CellularUI/Interface Panel/InventoryUI(Clone)/InventoryViewer(Clone)/ListLabel=ChangeFontSize(20)
+MapScene/MapUI(Clone)/CommandCanvas/MenuUI(Clone)/CellularUI/Interface Panel/InventoryUI(Clone)/InventoryViewer(Clone)/ListLabel=UGUI_HorizontalOverflow(overflow)
+MapScene/MapUI(Clone)/CommandCanvas/MenuUI(Clone)/CellularUI/Interface Panel/InventoryUI(Clone)/InventoryViewer(Clone)/ListPanel=ChangeFontSize(20)
+MapScene/MapUI(Clone)/CommandCanvas/MenuUI(Clone)/CellularUI/Interface Panel/InventoryUI(Clone)/InventoryViewer(Clone)/ListPanel=UGUI_HorizontalOverflow(overflow)
+
+MapScene/MapUI(Clone)/CommandCanvas/MenuUI(Clone)/CellularUI/Interface Panel/InventoryEnterUI(Clone)/InfoPanel/Infomation/FlavorTextLayout=IgnoreFontSize()
+MapScene/MapUI(Clone)/CommandCanvas/MenuUI(Clone)/CellularUI/Interface Panel/InventoryEnterUI(Clone)/InfoPanel/Infomation/FlavorTextLayout/FlavorText=ChangeFontSizeByPercentage(0.9)
+
+MapScene/MapUI(Clone)/CommandCanvas/MenuUI(Clone)/CellularUI/Interface Panel/InventoryUI(Clone)/InfoPanel/Infomation/FlavorTextLayout=IgnoreFontSize()
+MapScene/MapUI(Clone)/CommandCanvas/MenuUI(Clone)/CellularUI/Interface Panel/InventoryUI(Clone)/InfoPanel/Infomation/FlavorTextLayout/FlavorText=ChangeFontSizeByPercentage(0.9)
+
+
+// Cell Phone -> Crafting
+
+MapScene/MapUI(Clone)/CommandCanvas/CraftUI(Clone)=IgnoreFontSize()
+MapScene/MapUI(Clone)/CommandCanvas/CraftUI(Clone)/Panel=ChangeFontSizeByPercentage(0.75)
+
+MapScene/MapUI(Clone)/CommandCanvas/CraftUI(Clone)/Panel/CraftMainPanel/Layout/CraftViewer(Clone)/Base/ListLabel=ChangeFontSize(20)
+MapScene/MapUI(Clone)/CommandCanvas/CraftUI(Clone)/Panel/CraftMainPanel/Layout/CraftViewer(Clone)/Base/ListLabel=UGUI_HorizontalOverflow(overflow)
+MapScene/MapUI(Clone)/CommandCanvas/CraftUI(Clone)/Panel/CraftMainPanel/Layout/CraftViewer(Clone)/Base/ListPanel=ChangeFontSize(20)
+MapScene/MapUI(Clone)/CommandCanvas/CraftUI(Clone)/Panel/CraftMainPanel/Layout/CraftViewer(Clone)/Base/ListPanel=UGUI_HorizontalOverflow(overflow)
+
+
+// Cell Phone -> Camera
+
+MapScene/MapUI(Clone)/CommandCanvas/PhotoShotUI(Clone)/HowToGroup=ChangeFontSizeByPercentage(0.71)
+
+// CharaChangeUI
+MapScene/MapUI(Clone)/CommandCanvas/CharaChangeUI(Clone)=IgnoreFontSize()
+MapScene/MapUI(Clone)/CommandCanvas/CharaChangeUI(Clone)/Panel=ChangeFontSizeByPercentage(0.75)
+
+// CharaLookEditUI
+MapScene/MapUI(Clone)/CommandCanvas/CharaLookEditUI(Clone)=IgnoreFontSize()
+MapScene/MapUI(Clone)/CommandCanvas/CharaLookEditUI(Clone)/Panel=ChangeFontSizeByPercentage(0.75)
+
+// CharaMigrateUI
+MapScene/MapUI(Clone)/CommandCanvas/CharaMigrateUI(Clone)=IgnoreFontSize()
+MapScene/MapUI(Clone)/CommandCanvas/CharaMigrateUI(Clone)/Panel=ChangeFontSizeByPercentage(0.75)
+
+// ChickenCoopUI
+
+MapScene/MapUI(Clone)/CommandCanvas/ChickenCoopUI(Clone)=IgnoreFontSize()
+MapScene/MapUI(Clone)/CommandCanvas/ChickenCoopUI(Clone)/Panel=ChangeFontSizeByPercentage(0.75)
+
+MapScene/MapUI(Clone)/CommandCanvas/ChickenCoopUI(Clone)/Panel/HarvestListPanel/Layout/HarvestListViewer/Base/ListLabel=ChangeFontSize(20)
+MapScene/MapUI(Clone)/CommandCanvas/ChickenCoopUI(Clone)/Panel/HarvestListPanel/Layout/HarvestListViewer/Base/ListLabel=UGUI_HorizontalOverflow(overflow)
+MapScene/MapUI(Clone)/CommandCanvas/ChickenCoopUI(Clone)/Panel/HarvestListPanel/Layout/HarvestListViewer/Base/ListPanel=ChangeFontSize(20)
+MapScene/MapUI(Clone)/CommandCanvas/ChickenCoopUI(Clone)/Panel/HarvestListPanel/Layout/HarvestListViewer/Base/ListPanel=UGUI_HorizontalOverflow(overflow)
+
+MapScene/MapUI(Clone)/CommandCanvas/ChickenCoopUI(Clone)/Panel/InventoryPanel/InventoryLayout/InventoryViewer(Clone)/ListLabel=ChangeFontSize(20)
+MapScene/MapUI(Clone)/CommandCanvas/ChickenCoopUI(Clone)/Panel/InventoryPanel/InventoryLayout/InventoryViewer(Clone)/ListLabel=UGUI_HorizontalOverflow(overflow)
+MapScene/MapUI(Clone)/CommandCanvas/ChickenCoopUI(Clone)/Panel/InventoryPanel/InventoryLayout/InventoryViewer(Clone)/ListPanel=ChangeFontSize(20)
+MapScene/MapUI(Clone)/CommandCanvas/ChickenCoopUI(Clone)/Panel/InventoryPanel/InventoryLayout/InventoryViewer(Clone)/ListPanel=UGUI_HorizontalOverflow(overflow)
+
+// CookingUI
+MapScene/MapUI(Clone)/CommandCanvas/CookingUI(Clone)=IgnoreFontSize()
+MapScene/MapUI(Clone)/CommandCanvas/CookingUI(Clone)/Panel=ChangeFontSizeByPercentage(0.75)
+
+MapScene/MapUI(Clone)/CommandCanvas/CookingUI(Clone)/Panel/CraftMainPanel/Layout/CraftViewer(Clone)/Base/ListLabel=ChangeFontSize(20)
+MapScene/MapUI(Clone)/CommandCanvas/CookingUI(Clone)/Panel/CraftMainPanel/Layout/CraftViewer(Clone)/Base/ListLabel=UGUI_HorizontalOverflow(overflow)
+MapScene/MapUI(Clone)/CommandCanvas/CookingUI(Clone)/Panel/CraftMainPanel/Layout/CraftViewer(Clone)/Base/ListPanel=ChangeFontSize(20)
+MapScene/MapUI(Clone)/CommandCanvas/CookingUI(Clone)/Panel/CraftMainPanel/Layout/CraftViewer(Clone)/Base/ListPanel=UGUI_HorizontalOverflow(overflow)
+
+MapScene/MapUI(Clone)/CommandCanvas/CookingUI(Clone)/Panel/CraftItemInfoLayout/CraftItemInfoUI(Clone)/Infomation/FlavorTextLayout=IgnoreFontSize()
+MapScene/MapUI(Clone)/CommandCanvas/CookingUI(Clone)/Panel/CraftItemInfoLayout/CraftItemInfoUI(Clone)/Infomation/FlavorTextLayout/FlavorText=ChangeFontSizeByPercentage(0.85)
+
+// ClosetUI
+MapScene/MapUI(Clone)/CommandCanvas/ClosetUI(Clone)=IgnoreFontSize()
+MapScene/MapUI(Clone)/CommandCanvas/ClosetUI(Clone)/Panel=ChangeFontSizeByPercentage(0.75)
+
+// CraftUI
+MapScene/MapUI(Clone)/CommandCanvas/CraftUI(Clone)=IgnoreFontSize()
+MapScene/MapUI(Clone)/CommandCanvas/CraftUI(Clone)/Panel=ChangeFontSizeByPercentage(0.75)
+
+MapScene/MapUI(Clone)/CommandCanvas/CraftUI(Clone)/Panel/CraftItemInfoLayout/CraftItemInfoUI(Clone)/Infomation/FlavorTextLayout=IgnoreFontSize()
+MapScene/MapUI(Clone)/CommandCanvas/CraftUI(Clone)/Panel/CraftItemInfoLayout/CraftItemInfoUI(Clone)/Infomation/FlavorTextLayout/FlavorText=ChangeFontSizeByPercentage(0.85)
+
+
+// DressRoomUI
+MapScene/MapUI(Clone)/CommandCanvas/DressRoomUI(Clone)=IgnoreFontSize()
+MapScene/MapUI(Clone)/CommandCanvas/DressRoomUI(Clone)/Panel=ChangeFontSizeByPercentage(0.75)
+
+// FarmlandUI
+MapScene/MapUI(Clone)/CommandCanvas/FarmlandUI(Clone)=IgnoreFontSize()
+MapScene/MapUI(Clone)/CommandCanvas/FarmlandUI(Clone)/Panel=ChangeFontSizeByPercentage(0.75)
+
+MapScene/MapUI(Clone)/CommandCanvas/FarmlandUI(Clone)/Panel/PlantPanel/Infomation/IconText/Text=UGUI_HorizontalOverflow(overflow)
+
+MapScene/MapUI(Clone)/CommandCanvas/FarmlandUI(Clone)/Panel/HarvestListPanel/Layout/HarvestListViewer/Base/ListLabel=ChangeFontSize(20)
+MapScene/MapUI(Clone)/CommandCanvas/FarmlandUI(Clone)/Panel/HarvestListPanel/Layout/HarvestListViewer/Base/ListLabel=UGUI_HorizontalOverflow(overflow)
+MapScene/MapUI(Clone)/CommandCanvas/FarmlandUI(Clone)/Panel/HarvestListPanel/Layout/HarvestListViewer/Base/ListPanel=ChangeFontSize(20)
+MapScene/MapUI(Clone)/CommandCanvas/FarmlandUI(Clone)/Panel/HarvestListPanel/Layout/HarvestListViewer/Base/ListPanel=UGUI_HorizontalOverflow(overflow)
+
+MapScene/MapUI(Clone)/CommandCanvas/FarmlandUI(Clone)/Panel/HarvestListPanel/Layout/HarvestListViewer/Base/ListLabel=ChangeFontSize(20)
+MapScene/MapUI(Clone)/CommandCanvas/FarmlandUI(Clone)/Panel/HarvestListPanel/Layout/HarvestListViewer/Base/ListLabel=UGUI_HorizontalOverflow(overflow)
+MapScene/MapUI(Clone)/CommandCanvas/FarmlandUI(Clone)/Panel/HarvestListPanel/Layout/HarvestListViewer/Base/ListPanel=ChangeFontSize(20)
+MapScene/MapUI(Clone)/CommandCanvas/FarmlandUI(Clone)/Panel/HarvestListPanel/Layout/HarvestListViewer/Base/ListPanel=UGUI_HorizontalOverflow(overflow)
+
+MapScene/MapUI(Clone)/CommandCanvas/FarmlandUI(Clone)/Panel/InventoryPanel/InventoryLayout/InventoryViewer(Clone)/ListLabel=ChangeFontSize(20)
+MapScene/MapUI(Clone)/CommandCanvas/FarmlandUI(Clone)/Panel/InventoryPanel/InventoryLayout/InventoryViewer(Clone)/ListLabel=UGUI_HorizontalOverflow(overflow)
+MapScene/MapUI(Clone)/CommandCanvas/FarmlandUI(Clone)/Panel/InventoryPanel/InventoryLayout/InventoryViewer(Clone)/ListPanel=ChangeFontSize(20)
+MapScene/MapUI(Clone)/CommandCanvas/FarmlandUI(Clone)/Panel/InventoryPanel/InventoryLayout/InventoryViewer(Clone)/ListPanel=UGUI_HorizontalOverflow(overflow)
+
+
+// ItemBoxUI
+MapScene/MapUI(Clone)/CommandCanvas/ItemBoxUI(Clone)=IgnoreFontSize()
+MapScene/MapUI(Clone)/CommandCanvas/ItemBoxUI(Clone)/Top=ChangeFontSizeByPercentage(0.75)
+
+MapScene/MapUI(Clone)/CommandCanvas/ItemBoxUI(Clone)/Top/Panel/InventoryPanel/Layout/InventoryViewer(Clone)/ListLabel=ChangeFontSize(20)
+MapScene/MapUI(Clone)/CommandCanvas/ItemBoxUI(Clone)/Top/Panel/InventoryPanel/Layout/InventoryViewer(Clone)/ListLabel=UGUI_HorizontalOverflow(overflow)
+MapScene/MapUI(Clone)/CommandCanvas/ItemBoxUI(Clone)/Top/Panel/InventoryPanel/Layout/InventoryViewer(Clone)/ListPanel=ChangeFontSize(20)
+MapScene/MapUI(Clone)/CommandCanvas/ItemBoxUI(Clone)/Top/Panel/InventoryPanel/Layout/InventoryViewer(Clone)/ListPanel=UGUI_HorizontalOverflow(overflow)
+
+MapScene/MapUI(Clone)/CommandCanvas/ItemBoxUI(Clone)/Top/Panel/ItemBoxPanel/Layout/InventoryViewer(Clone)/ListLabel=ChangeFontSize(20)
+MapScene/MapUI(Clone)/CommandCanvas/ItemBoxUI(Clone)/Top/Panel/ItemBoxPanel/Layout/InventoryViewer(Clone)/ListLabel=UGUI_HorizontalOverflow(overflow)
+MapScene/MapUI(Clone)/CommandCanvas/ItemBoxUI(Clone)/Top/Panel/ItemBoxPanel/Layout/InventoryViewer(Clone)/ListPanel=ChangeFontSize(20)
+MapScene/MapUI(Clone)/CommandCanvas/ItemBoxUI(Clone)/Top/Panel/ItemBoxPanel/Layout/InventoryViewer(Clone)/ListPanel=UGUI_HorizontalOverflow(overflow)
+
+MapScene/MapUI(Clone)/CommandCanvas/ItemBoxUI(Clone)/Top/Panel/SendPanel/Infomation/FlavorTextLayout=IgnoreFontSize()
+MapScene/MapUI(Clone)/CommandCanvas/ItemBoxUI(Clone)/Top/Panel/SendPanel/Infomation/FlavorTextLayout/FlavorText=ChangeFontSizeByPercentage(0.85)
+
+
+// MedicineCraftUI
+MapScene/MapUI(Clone)/CommandCanvas/MedicineCraftUI(Clone)=IgnoreFontSize()
+MapScene/MapUI(Clone)/CommandCanvas/MedicineCraftUI(Clone)/Panel=ChangeFontSizeByPercentage(0.75)
+
+MapScene/MapUI(Clone)/CommandCanvas/MedicineCraftUI(Clone)/Panel/CraftMainPanel/Layout/CraftViewer(Clone)/Base/ListLabel=ChangeFontSize(20)
+MapScene/MapUI(Clone)/CommandCanvas/MedicineCraftUI(Clone)/Panel/CraftMainPanel/Layout/CraftViewer(Clone)/Base/ListLabel=UGUI_HorizontalOverflow(overflow)
+MapScene/MapUI(Clone)/CommandCanvas/MedicineCraftUI(Clone)/Panel/CraftMainPanel/Layout/CraftViewer(Clone)/Base/ListPanel=ChangeFontSize(20)
+MapScene/MapUI(Clone)/CommandCanvas/MedicineCraftUI(Clone)/Panel/CraftMainPanel/Layout/CraftViewer(Clone)/Base/ListPanel=UGUI_HorizontalOverflow(overflow)
+
+MapScene/MapUI(Clone)/CommandCanvas/MedicineCraftUI(Clone)/Panel/CraftItemInfoLayout/CraftItemInfoUI(Clone)/Infomation/FlavorTextLayout=IgnoreFontSize()
+MapScene/MapUI(Clone)/CommandCanvas/MedicineCraftUI(Clone)/Panel/CraftItemInfoLayout/CraftItemInfoUI(Clone)/Infomation/FlavorTextLayout/FlavorText=ChangeFontSizeByPercentage(0.85)
+
+
+// PetCraftUI
+MapScene/MapUI(Clone)/CommandCanvas/PetCraftUI(Clone)=IgnoreFontSize()
+MapScene/MapUI(Clone)/CommandCanvas/PetCraftUI(Clone)/Panel=ChangeFontSizeByPercentage(0.75)
+
+MapScene/MapUI(Clone)/CommandCanvas/PetCraftUI(Clone)/Panel/CraftMainPanel/Layout/CraftViewer(Clone)/Base/ListLabel=ChangeFontSize(20)
+MapScene/MapUI(Clone)/CommandCanvas/PetCraftUI(Clone)/Panel/CraftMainPanel/Layout/CraftViewer(Clone)/Base/ListLabel=UGUI_HorizontalOverflow(overflow)
+MapScene/MapUI(Clone)/CommandCanvas/PetCraftUI(Clone)/Panel/CraftMainPanel/Layout/CraftViewer(Clone)/Base/ListPanel=ChangeFontSize(20)
+MapScene/MapUI(Clone)/CommandCanvas/PetCraftUI(Clone)/Panel/CraftMainPanel/Layout/CraftViewer(Clone)/Base/ListPanel=UGUI_HorizontalOverflow(overflow)
+
+MapScene/MapUI(Clone)/CommandCanvas/PetCraftUI(Clone)/Panel/CraftItemInfoLayout/CraftItemInfoUI(Clone)/Infomation/FlavorTextLayout=IgnoreFontSize()
+MapScene/MapUI(Clone)/CommandCanvas/PetCraftUI(Clone)/Panel/CraftItemInfoLayout/CraftItemInfoUI(Clone)/Infomation/FlavorTextLayout/FlavorText=ChangeFontSizeByPercentage(0.85)
+
+
+// PetHomeUI
+MapScene/MapUI(Clone)/CommandCanvas/PetHomeUI(Clone)=IgnoreFontSize()
+MapScene/MapUI(Clone)/CommandCanvas/PetHomeUI(Clone)/Panel=ChangeFontSizeByPercentage(0.75)
+
+MapScene/MapUI(Clone)/CommandCanvas/PetHomeUI(Clone)/Panel/InventoryPanel/InventoryLayout/InventoryViewer(Clone)/ListLabel=ChangeFontSize(20)
+MapScene/MapUI(Clone)/CommandCanvas/PetHomeUI(Clone)/Panel/InventoryPanel/InventoryLayout/InventoryViewer(Clone)/ListLabel=UGUI_HorizontalOverflow(overflow)
+MapScene/MapUI(Clone)/CommandCanvas/PetHomeUI(Clone)/Panel/InventoryPanel/InventoryLayout/InventoryViewer(Clone)/ListPanel=ChangeFontSize(20)
+MapScene/MapUI(Clone)/CommandCanvas/PetHomeUI(Clone)/Panel/InventoryPanel/InventoryLayout/InventoryViewer(Clone)/ListPanel=UGUI_HorizontalOverflow(overflow)
+
+
+
+// PlayerChangeUI
+MapScene/MapUI(Clone)/CommandCanvas/PlayerChangeUI(Clone)=IgnoreFontSize()
+MapScene/MapUI(Clone)/CommandCanvas/PlayerChangeUI(Clone)/Panel=ChangeFontSizeByPercentage(0.75)
+
+// PlayerLookEditUI
+MapScene/MapUI(Clone)/CommandCanvas/PlayerLookEditUI(Clone)=IgnoreFontSize()
+MapScene/MapUI(Clone)/CommandCanvas/PlayerLookEditUI(Clone)/Panel=ChangeFontSizeByPercentage(0.75)
+
+// RefrigeratorUI
+MapScene/MapUI(Clone)/CommandCanvas/RefrigeratorUI(Clone)=IgnoreFontSize()
+MapScene/MapUI(Clone)/CommandCanvas/RefrigeratorUI(Clone)/Top=ChangeFontSizeByPercentage(0.75)
+
+MapScene/MapUI(Clone)/CommandCanvas/RefrigeratorUI(Clone)/Top/Panel/InventoryPanel/Layout/InventoryViewer(Clone)/ListLabel=ChangeFontSize(20)
+MapScene/MapUI(Clone)/CommandCanvas/RefrigeratorUI(Clone)/Top/Panel/InventoryPanel/Layout/InventoryViewer(Clone)/ListLabel=UGUI_HorizontalOverflow(overflow)
+MapScene/MapUI(Clone)/CommandCanvas/RefrigeratorUI(Clone)/Top/Panel/InventoryPanel/Layout/InventoryViewer(Clone)/ListPanel=ChangeFontSize(20)
+MapScene/MapUI(Clone)/CommandCanvas/RefrigeratorUI(Clone)/Top/Panel/InventoryPanel/Layout/InventoryViewer(Clone)/ListPanel=UGUI_HorizontalOverflow(overflow)
+
+MapScene/MapUI(Clone)/CommandCanvas/RefrigeratorUI(Clone)/Top/Panel/ItemBoxPanel/Layout/InventoryViewer(Clone)/ListLabel=ChangeFontSize(20)
+MapScene/MapUI(Clone)/CommandCanvas/RefrigeratorUI(Clone)/Top/Panel/ItemBoxPanel/Layout/InventoryViewer(Clone)/ListLabel=UGUI_HorizontalOverflow(overflow)
+MapScene/MapUI(Clone)/CommandCanvas/RefrigeratorUI(Clone)/Top/Panel/ItemBoxPanel/Layout/InventoryViewer(Clone)/ListPanel=ChangeFontSize(20)
+MapScene/MapUI(Clone)/CommandCanvas/RefrigeratorUI(Clone)/Top/Panel/ItemBoxPanel/Layout/InventoryViewer(Clone)/ListPanel=UGUI_HorizontalOverflow(overflow)
+
+/MapScene/MapUI(Clone)/CommandCanvas/RefrigeratorUI(Clone)/Top/Panel/SendPanel/Infomation/FlavorTextLayout=IgnoreFontSize()
+/MapScene/MapUI(Clone)/CommandCanvas/RefrigeratorUI(Clone)/Top/Panel/SendPanel/Infomation/FlavorTextLayout/FlavorText=ChangeFontSizeByPercentage(0.85)
+
+// RecyclingUI
+MapScene/MapUI(Clone)/CommandCanvas/RecyclingUI(Clone)=IgnoreFontSize()
+MapScene/MapUI(Clone)/CommandCanvas/RecyclingUI(Clone)/LeftGroup=ChangeFontSizeByPercentage(0.75)
+
+MapScene/MapUI(Clone)/CommandCanvas/RecyclingUI(Clone)/LeftGroup/IventoryPanelGroup/ChestIventoryPanel/InventoryViewer(Clone)/ListLabel=ChangeFontSize(20)
+MapScene/MapUI(Clone)/CommandCanvas/RecyclingUI(Clone)/LeftGroup/IventoryPanelGroup/ChestIventoryPanel/InventoryViewer(Clone)/ListLabel=UGUI_HorizontalOverflow(overflow)
+MapScene/MapUI(Clone)/CommandCanvas/RecyclingUI(Clone)/LeftGroup/IventoryPanelGroup/ChestIventoryPanel/InventoryViewer(Clone)/ListPanel=ChangeFontSize(20)
+MapScene/MapUI(Clone)/CommandCanvas/RecyclingUI(Clone)/LeftGroup/IventoryPanelGroup/ChestIventoryPanel/InventoryViewer(Clone)/ListPanel=UGUI_HorizontalOverflow(overflow)
+
+MapScene/MapUI(Clone)/CommandCanvas/RecyclingUI(Clone)/LeftGroup/IventoryPanelGroup/PouchIventoryPanel/InventoryViewer(Clone)/ListLabel=ChangeFontSize(20)
+MapScene/MapUI(Clone)/CommandCanvas/RecyclingUI(Clone)/LeftGroup/IventoryPanelGroup/PouchIventoryPanel/InventoryViewer(Clone)/ListLabel=UGUI_HorizontalOverflow(overflow)
+MapScene/MapUI(Clone)/CommandCanvas/RecyclingUI(Clone)/LeftGroup/IventoryPanelGroup/PouchIventoryPanel/InventoryViewer(Clone)/ListPanel=ChangeFontSize(20)
+MapScene/MapUI(Clone)/CommandCanvas/RecyclingUI(Clone)/LeftGroup/IventoryPanelGroup/PouchIventoryPanel/InventoryViewer(Clone)/ListPanel=UGUI_HorizontalOverflow(overflow)
+
+MapScene/MapUI(Clone)/CommandCanvas/RecyclingUI(Clone)/MiddileGroup/RecyclingInfoPanelUI/Vertial Layout Group=IgnoreFontSize()
+MapScene/MapUI(Clone)/CommandCanvas/RecyclingUI(Clone)/MiddileGroup/RecyclingInfoPanelUI/Vertial Layout Group/FlavorTextLayout=ChangeFontSizeByPercentage(0.9)
+MapScene/MapUI(Clone)/CommandCanvas/RecyclingUI(Clone)/MiddileGroup/RecyclingInfoPanelUI/Vertial Layout Group/FlavorTextLayout/FlavorText=ChangeFontSizeByPercentage(0.85)
+
+
+// ScroungeUI
+MapScene/MapUI(Clone)/CommandCanvas/ScroungeUI(Clone)=IgnoreFontSize()
+MapScene/MapUI(Clone)/CommandCanvas/ScroungeUI(Clone)/Panel=ChangeFontSizeByPercentage(0.75)
+
+MapScene/MapUI(Clone)/CommandCanvas/ScroungeUI(Clone)/Panel/Left/InventoryMainPanel/Layout/InventoryViewer(Clone)/ListLabel=ChangeFontSize(20)
+MapScene/MapUI(Clone)/CommandCanvas/ScroungeUI(Clone)/Panel/Left/InventoryMainPanel/Layout/InventoryViewer(Clone)/ListLabel=UGUI_HorizontalOverflow(overflow)
+MapScene/MapUI(Clone)/CommandCanvas/ScroungeUI(Clone)/Panel/Left/InventoryMainPanel/Layout/InventoryViewer(Clone)/ListPanel=ChangeFontSize(20)
+MapScene/MapUI(Clone)/CommandCanvas/ScroungeUI(Clone)/Panel/Left/InventoryMainPanel/Layout/InventoryViewer(Clone)/ListPanel=UGUI_HorizontalOverflow(overflow)
+
+MapScene/MapUI(Clone)/CommandCanvas/ScroungeUI(Clone)/Panel/Center/InfoPanel/Infomation/FlavorTextLayout=IgnoreFontSize()
+MapScene/MapUI(Clone)/CommandCanvas/ScroungeUI(Clone)/Panel/Center/InfoPanel/Infomation/FlavorTextLayout/FlavorText=ChangeFontSizeByPercentage(0.85)
+
+// ShopUI
+MapScene/MapUI(Clone)/CommandCanvas/ShopUI(Clone)=IgnoreFontSize()
+MapScene/MapUI(Clone)/CommandCanvas/ShopUI(Clone)/Panel=ChangeFontSizeByPercentage(0.75)
+
+MapScene/MapUI(Clone)/CommandCanvas/ShopUI(Clone)/Panel/Left/InventoryMainPanel/Layout/InventoryViewer(Clone)/ListLabel=ChangeFontSize(20)
+MapScene/MapUI(Clone)/CommandCanvas/ShopUI(Clone)/Panel/Left/InventoryMainPanel/Layout/InventoryViewer(Clone)/ListLabel=UGUI_HorizontalOverflow(overflow)
+MapScene/MapUI(Clone)/CommandCanvas/ShopUI(Clone)/Panel/Left/InventoryMainPanel/Layout/InventoryViewer(Clone)/ListPanel=ChangeFontSize(20)
+MapScene/MapUI(Clone)/CommandCanvas/ShopUI(Clone)/Panel/Left/InventoryMainPanel/Layout/InventoryViewer(Clone)/ListPanel=UGUI_HorizontalOverflow(overflow)
+
+MapScene/MapUI(Clone)/CommandCanvas/ShopUI(Clone)/Panel/Left/ShopMainPanel/Layout/ShopViewer/Base/ListLabel=ChangeFontSize(20)
+MapScene/MapUI(Clone)/CommandCanvas/ShopUI(Clone)/Panel/Left/ShopMainPanel/Layout/ShopViewer/Base/ListLabel=UGUI_HorizontalOverflow(overflow)
+MapScene/MapUI(Clone)/CommandCanvas/ShopUI(Clone)/Panel/Left/ShopMainPanel/Layout/ShopViewer/Base/ListPanel=ChangeFontSize(20)
+MapScene/MapUI(Clone)/CommandCanvas/ShopUI(Clone)/Panel/Left/ShopMainPanel/Layout/ShopViewer/Base/ListPanel=UGUI_HorizontalOverflow(overflow)
+
+MapScene/MapUI(Clone)/CommandCanvas/ShopUI(Clone)/Panel/Center/InfoPanel/Infomation/FlavorTextLayout=IgnoreFontSize()
+MapScene/MapUI(Clone)/CommandCanvas/ShopUI(Clone)/Panel/Center/InfoPanel/Infomation/FlavorTextLayout/FlavorText=ChangeFontSizeByPercentage(0.85)
+
+// JukeboxUI
+
+MapScene/MapUI(Clone)/CommandCanvas/JukeBoxUI(Clone)=IgnoreFontSize()
+MapScene/MapUI(Clone)/CommandCanvas/JukeBoxUI(Clone)/Main Window=ChangeFontSizeByPercentage(0.75)
+MapScene/MapUI(Clone)/CommandCanvas/JukeBoxUI(Clone)/Audio List Window=ChangeFontSizeByPercentage(0.75)
+MapScene/MapUI(Clone)/CommandCanvas/JukeBoxUI(Clone)/Main Window/Change Button=ChangeFontSizeByPercentage(0.66)
+MapScene/MapUI(Clone)/CommandCanvas/JukeBoxUI(Clone)/Audio List Window/Vertical Layout/Bottom Group/Set Button=ChangeFontSizeByPercentage(0.66)
+
+
+// FishingUI
+
+MapScene/MapUI(Clone)/CommandCanvas/FishingUI(Clone)=IgnoreFontSize()
+MapScene/MapUI(Clone)/CommandCanvas/FishingUI(Clone)/ResultGroup=ChangeFontSizeByPercentage(0.9)
+MapScene/MapUI(Clone)/CommandCanvas/FishingUI(Clone)/ResultGroup/Window/Right Window/Reality Group/Text=ChangeFontSizeByPercentage(0.9)
+MapScene/MapUI(Clone)/CommandCanvas/FishingUI(Clone)/ResultGroup/Window/Right Window/Flavor Text=ChangeFontSizeByPercentage=(0.85)
+
+// SpendMoneyUI
+
+
+MapScene/MapUI(Clone)/CommandCanvas/SpendMoneyUI(Clone)=IgnoreFontSize()
+MapScene/MapUI(Clone)/CommandCanvas/SpendMoneyUI(Clone)/Window=ChangeFontSizeByPercentage(0.75)
+
+
+
+
