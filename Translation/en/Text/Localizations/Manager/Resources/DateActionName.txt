@@ -2,7 +2,7 @@
 // Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
 //
 //一緒に寝る=
-一緒にご飯を食べる=Eat Rice Together
+一緒にご飯を食べる=Eat Meal Together
 //壁伝いに通る=
 //しゃがんで通る=
 渡る=Cross

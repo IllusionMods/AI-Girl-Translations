@@ -6,8 +6,9 @@
 //     You got <color=#EBE2D7>Charcoal</color> x 1.
 //     <color=#EBE2D7>Charcoal</color> x 1 を入手しました。
 
-sr:^(?<tag_open_i>[<]color.#[0-9A-F]+[>])(?<item_name>[^<]+)(?<tag_close_i>[<]\/color[>])\s*(?<num_i>x [1-9][0-9]*)\s+を入手しました。$=You got ${tag_open_i}${item_name}${tag_close_i} ${num_i}.
-sr:^You\s+got\s+(?<tag_open_i>[<]color.#[0-9A-F]+[>])(?<item_name>[^<]+)(?<tag_close_i>[<]\/color[>])\s*(?<num_i>x [1-9][0-9]*)\.?$=You got ${tag_open_i}${item_name}${tag_close_i} ${num_i}.
+// space before ${tag_close_i} is intentional, do not remove
+sr:^(?<tag_open_i>[<]color.#[0-9A-F]+[>])(?<item_name>[^<]+)(?<tag_close_i>[<]\/color[>])\s*(?<num_i>x [1-9][0-9]*)\s+を入手しました。$=You got ${tag_open_i}${item_name} ${tag_close_i} ${num_i}.
+sr:^You\s+got\s+(?<tag_open_i>[<]color.#[0-9A-F]+[>])(?<item_name>[^<]+)(?<tag_close_i>[<]\/color[>])\s*(?<num_i>x [1-9][0-9]*)\.?$=You got ${tag_open_i}${item_name} ${tag_close_i} ${num_i}.
 
 #unset level 5
 

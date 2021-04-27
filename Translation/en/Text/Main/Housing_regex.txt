@@ -1,0 +1,39 @@
+// future proofing (also used to update dumped assets)
+
+sr:^(?<type>.*(ドア|バーカウンター|シンプルカウンター|低い草|倒木|大きな花|小さな花|木|枯草|柱|茂み|シダ草|蔦|街灯|隔壁|壁|天井|床))(?<num_i>[０-９0-9]+)$=${type} ${num_i}
+
+sr:^(?<type>(木|石|シンプルな)(の?隔)?)壁$=${type} Wall
+sr:^(?<type>(木|石|シンプルな)(の?隔)?)階段$=${type} Stairs
+sr:^(?<type>(木|石|シンプルな)(の?隔)?)ドア$=${type} Door
+sr:^(?<type>(木|石|シンプルな)(の?隔)?)天井$=${type} Ceiling
+sr:^(?<type>(木|石|シンプルな)(の?隔)?)床$=${type} Floor
+
+sr:^(シンプルな|.の)隔=$1 Partition
+
+赤い花=Red Flower
+紫色の花=Purple Flower
+白い花=White Flower
+小さな花=Little Flower
+大きな花=Big Flower
+
+// object types
+カウンター=Counter
+木=Tree
+木壁=Wooden Wall
+茂み=Bush
+シダ草=Fern
+蔦=Ivy
+街灯=Streetlight
+隔壁=Partition Wall
+壁=Wall
+石=Stone
+木の隔=Wooden Partition
+
+// Adjectives
+バーカ=Bar
+シンプルカ=Simple
+シンプルな=Simple
+石の=Stone
+枯草=Withered Grass
+低い草=Lower Grass
+ヤシの=Coconut

@@ -123,15 +123,141 @@ r:"^着替え([０-９0-9]+)$"=Changing $1
 
 // Unsorted
 
-r:"^寝返り([０-９0-9]+)$"=Rolling Over $1
-r:"^料理([０-９0-9]+)$"=Cooking $1
-r:"^依存([０-９0-9]+)$"=Dependence $1
-r:"^恥([０-９0-9]+)$"=Shame $1
-r:"^釣り([０-９0-9]+)$"=Fishing $1
-r:"^御辞儀([０-９0-9]+)$"=Bow $1
-r:"^登場([０-９0-9]+)$"=Appear $1
-r:"^中腰([０-９0-9]+)$"=Half-Sitting $1
-r:"^チッチッチ([０-９0-9]+)$"=Correcting $1
+r:^寝返り([０-９0-9]+)$=Rolling Over $1
+r:^料理([０-９0-9]+)$=Cooking $1
+r:^依存([０-９0-9]+)$=Dependence $1
+r:^恥([０-９0-9]+)$=Shame $1
+r:^釣り([０-９0-9]+)$=Fishing $1
+r:^御辞儀([０-９0-9]+)$=Bow $1
+r:^登場([０-９0-9]+)$=Appear $1
+r:^中腰([０-９0-9]+)$=Half-Sitting $1
+r:^チッチッチ([０-９0-9]+)$=Correcting $1
+r:^ジャンプ([０-９0-9]+)$=Jump $1
+r:^猫と遊ぶ([０-９0-9]+)$=Play with Cat $1
+r:^周りを見る([０-９0-9]+)$=Look Around $1
+r:^話しを聞く([０-９0-9]+)$=Listening $1
+r:^アクション([０-９0-9]+)$=Action $1
+r:^机の上のものを見る([０-９0-9]+)$=Look at Desk $1
+r:^ドアを開ける\s*([LR])$=Open Door $1
+
+
+r:^([０-９0-9]+)\s*回転\s*([LR])$=Turn $1° $2
+
+
+sr:^男\s+(.+)$=Male $1
+sr:^女\s+(.+)$=Female $1
+
+ジャンプ=Jump
+三回ジャンプ=Triple Jump
+クスクス=Giggle
+拍手=Clap
+いてっ！=Ouch!
+もじもじ=Squirm
+//飛び込む=
+//石を拾って投げる=
+猫を捕まえてくる=Catch Cat
+空をみる=Look at Sky
+床掃除=Clean Floor
+寝起き=Wake Up
+手を洗う=Wash Hands
+顔を洗う=Wash Face
+周りを見る=Look Around
+首を振る=Shake Head
+うなずく=Nod
+スマホを見る=Look at Phone
+雨だ=Check Rain
+伸び=Stretch
+上を見上げる=Look Up
+机の上=Search Table
+地面=Search Ground
+壺=Search Container
+男 ピッケル=Male Pick
+男 シャベル=Male Shovel
+椅子寝落ち=Asleep in Chair
+虫取り=Catch Bug
+ペットを捕獲する=Catch Pet
+ピッケル=Pick
+シャベル=Shovel
+歩く=Walk
+走る=Run
+担ぐ=Carry
+担ぐ待機=Carry Idle
+担ぎ待機=Carry Idle
+担ぎながら歩く=Carry Walk
+座る=Sit
+座り=Sitting
+椅子待機=Chair Idle
+寝机椅子=Sleep in Chair at Desk
+寝椅子=Sofa
+バルブドアを開ける=Open Valve Door
+ペットを捕獲する成功=Catch Pet Failure
+ペットを捕獲する失敗=Catch Pet Success
+四つん這い=Crawl
+一本橋を渡る=Cross Bridge
+机椅子待機=Desk Chair Idle
+机椅子寝落ち=Desk Chair Sleep
+ベンチ座り 男女=Rest Together Sit
+ベンチ膝枕 男女=Rest Together Lap-Pillow
+ペットと遊ぶ=Play with Pet
+細い隙間を通る=Sidle
+ドア開ける R=Open Door R
+ドア開ける L=Open Door L
+寝=Sleep
+
+
+sr:^釣り (.+)=Fishing $1
+
+ヒット=Hit
+右に引っ張る=Pull Right
+失敗=Fail
+失敗待機=File Idle
+左に引っ張る=Pull Left
+ヒット引っ張り中=Hit Pull Middle
+ヒット引っ張り右=Hit Pull Right
+ヒット引っ張り左=Hit Pull Left
+待機=Idle
+成功=Success
+成功待機=Success Idle
+開始=Start
+やめる=Stop
+
+追加女H=Female H Extra
+追加男H=Male H Extra
+
+ループ=Loop
+
+r:^ポーズ([０-９0-9]+)(in|out|loop)$=Pose $1 $2
+
+sr:^(?<body>.+)(?<suffix_1_i>yes|no)(?<suffix_2_i>in|out|loop)$=${body} ${suffix_1_i} ${suffix_2_i}
+sr:^(?<body>.+[^sn])(?<suffix_i>in|out|loop)$=${body} ${suffix_i}
+
+sr:^(?<personality>大和撫子|ボーイッシュ|ヤンデレ|几帳面|ヤンデレ|シャン|おおらか|ポジティブ|無感情|自信家|ものぐさ|わがまま)：(?<pose>(バイバイ|否定|待機|恥ずかしい|放置|無反応|登場|考える|肯定|起こす|驚く)[０-９0-9]*)$=${personality}: ${pose}
+
+シャン=Shan
+おおらか=Friendly
+ポジティブ=Positive
+無感情=Emotionless
+自信家=Confident
+ヤンデレ=Yandre
+
+大和撫子=Ideal
+ボーイッシュ=Tomboy
+几帳面=Methodical
+
+起こす=Wake Up
+待機=Idle
+登場=Appear
+バイバイ=Bye
+否定=Denial
+恥ずかしい=Embarrassed
+放置=Ignored
+無反応=Unresponsive
+考える=Thinking
+肯定=Affirmative
+驚く=Surprise
+ものぐさ=Lazy
+わがまま=Selfish
+sr:^(バイバイ|否定|待機|恥ずかしい|放置|無反応|登場|考える|肯定|起こす|驚く)([０-９0-9]+)$=$1 $2
 
 // TODO: move to assets once dump updated
 セクシーダンス=Sexy Dance

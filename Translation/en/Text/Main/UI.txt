@@ -127,7 +127,8 @@ sr:^(：)(.+)$=$1 $2
 
 // MapScene/MapUI(Clone)/CommandCanvas/MenuUI(Clone)/CellularUI/Interface Panel/StatusUI(Clone)/Content/AgentContent/Flavor/LifeStyle/Text
 //--------------------------------------------------
-ライフスタイル：=Lifestyle:
+// regex handles colon
+ライフスタイル=Lifestyle
 
 // MapScene/MapUI(Clone)/CommandCanvas/MenuUI(Clone)/CellularUI/Interface Panel/StatusUI(Clone)/Content/AgentContent/Flavor/joshi-pow/Text
 //--------------------------------------------------
@@ -152,6 +153,8 @@ sr:^(：)(.+)$=$1 $2
 // MapScene/MapUI(Clone)/CommandCanvas/MenuUI(Clone)/CellularUI/Interface Panel/StatusUI(Clone)/Content/AgentContent/Flavor/risk/Text
 //--------------------------------------------------
 警戒=Vigilance
+// alternate used based on version, keep both
+危機管理=Vigilance
 
 // MapScene/MapUI(Clone)/CommandCanvas/MenuUI(Clone)/CellularUI/Interface Panel/StatusUI(Clone)/Content/AgentContent/Flavor/sociability/Text
 //--------------------------------------------------
@@ -207,6 +210,7 @@ sr:^(：)(.+)$=$1 $2
 素材=Material(s)
 //スキル=Skill(s)
 Hスキル=H-Skill(s)
+
 
 // MapScene/MapUI(Clone)/CommandCanvas/ChickenCoopUI(Clone)/Panel/InventoryPanel/InventoryLayout/InventoryViewer(Clone)/ListLabel/Icon/Text
 // MapScene/MapUI(Clone)/CommandCanvas/FarmlandUI(Clone)/Panel/InventoryPanel/InventoryLayout/InventoryViewer(Clone)/ListLabel/Icon/Text
@@ -276,7 +280,7 @@ Hスキル=H-Skill(s)
 // MapScene/MapUI(Clone)/CommandCanvas/PetCraftUI(Clone)/Panel/CraftMainPanel/Layout/CraftViewer(Clone)/Base/ListLabel/StackCount/Text
 // MapScene/MapUI(Clone)/CommandCanvas/MedicineCraftUI(Clone)/Panel/CraftMainPanel/Layout/CraftViewer(Clone)/Base/ListLabel/StackCount/Text
 //--------------------------------------------------
-所持数=#
+所持数=Quantity
 
 // MapScene/MapUI(Clone)/CommandCanvas/ItemBoxUI(Clone)/Top/Panel/ItemBoxPanel/Layout/InventoryViewer(Clone)/SortUI(Clone)/Infomation/Layout/Text
 // MapScene/MapUI(Clone)/CommandCanvas/MenuUI(Clone)/CellularUI/Interface Panel/InventoryUI(Clone)/InventoryViewer(Clone)/SortUI(Clone)/Infomation/Layout/Text
@@ -363,12 +367,14 @@ Hスキル=H-Skill(s)
 
 // Girl - Actions
 //--------------------------------------------------
+#set level 5,-1
 sr:^([\S\s]+)にアクション$=Interact with $1
 sr:^([\S\s]+)と話す$=Talk with $1
 sr:^([\S\s]+)を担ぐ$=Carry $1
 下ろす=Drop Off
 ベッドに寝かせる=Put To Bed
-一緒にご飯を食べる=Eat Rice Together
+一緒にご飯を食べる=Eat Meal Together
+#unset level 5,-1
 
 // Other - Actions
 //--------------------------------------------------
@@ -535,3 +541,12 @@ sr:^(.+)の容姿変更=Change $1's Appearance
 //======================================================================
 上で続ける\n下で抜く=Continue\nPull Out
 続ける=Continue
+
+// Misc
+アイテム名=Item Name
+フレーバーテキスト=Flavor Text
+
+
+#set level 5
+調合=Compounding
+#unset level 5

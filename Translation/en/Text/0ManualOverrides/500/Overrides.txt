@@ -1,0 +1,15 @@
+#set level -1,5
+
+チェスト=Open Chest
+
+sr:^([\S\s]+)をあげる$=Give $1
+sr:^Give\s+([\S\s]+)$=Give $1
+
+sr:^([\S\s]+)を持っていません。$=You do not have a $1.
+sr:^You do not have a\s+([\S\s]+)$=You do not have a $1.
+
+sr:^([\S\s]+)を捕まえる$=Catch $1
+sr:^Catch\s+([\S\s]+)を捕まえる=Catch $1
+
+#unset level -1,5
+

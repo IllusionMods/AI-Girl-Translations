@@ -16,7 +16,7 @@
 主人公の容姿変更=Change 主人公's Appearance
 //タマゴ箱を確認=
 //ニワトリを追加=
-一緒にご飯を食べる=Eat Rice Together
+一緒にご飯を食べる=Eat Meal Together
 分娩台=Delivery Chair
 //木馬=
 //拘束台鞍馬=
