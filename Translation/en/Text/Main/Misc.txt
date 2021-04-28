@@ -1,6 +1,6 @@
 // These regexes are used so differing translations for the replaced sections may be used more easily
 sr:^(女子力|信頼|人間性|本能|変態|警戒|社交|闇|危機管理)EXP$=$1
-sr:^(?<term>[\S\s]+)(?<colon_i>\s*:\s*)=${term}${colon} 
+sr:^(?<term>[\S\s]+)(?<colon_i>\s*:\s*)=${term}${colon_i} 
 
 // MapScene/MapUI(Clone)/HUDCanvas/WarningMessageUI(Clone)
 //==================================================

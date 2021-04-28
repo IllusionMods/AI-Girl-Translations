@@ -196,7 +196,11 @@ Y位置=Y Axis
 透明度=Alpha
 色合い=Hue
 鮮やかさ=Saturation
-明るさ=Brightness
+明るさ=Value
+赤=Red
+緑=Green
+青=Blue
+
 //Sample#
 左クリックで適用=Left-Click to Apply
 

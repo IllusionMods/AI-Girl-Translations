@@ -549,4 +549,5 @@ sr:^(.+)の容姿変更=Change $1's Appearance
 
 #set level 5
 調合=Compounding
+sr:^(男|女)(（フタナリ）)$=$1 $2
 #unset level 5
