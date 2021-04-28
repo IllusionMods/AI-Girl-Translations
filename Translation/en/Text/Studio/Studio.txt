@@ -14,6 +14,8 @@
 
 ワークスペース=Workspace
 
+男=Male
+女=Female
 // Right Sidebar -> Camera
 r:"^カメラ([０-９0-9]+)$"=Camera $1
 
@@ -293,8 +295,8 @@ r:"^星([A-Z])$"=Stars $1
 // Add Menu
 //
 
-女キャラ=Girls
-男キャラ=Boys
+女キャラ=Female
+男キャラ=Male
 アイテム=Items
 マップ=Map
 マップライト=Map Lights
@@ -762,9 +764,9 @@ NoName=No Name
 キャラ=Character
 スタジオ=Studio
 H愛撫=H-Caressing
-女H奉仕=Girl Service
+女H奉仕=Female Service
 男H奉仕=Male Service
-女H挿入=Girl Insertion
+女H挿入=Female Insertion
 男H挿入=Male Insertion
 H特殊=Special H
 // Character Design Addon Pack Vol. 3 (add09)
@@ -775,7 +777,7 @@ H特殊=Special H
 アウトドア=Outdoors
 //Summer
 // Afterschool DLC
-H女複数=Multi-Girl H
+H女複数=Multi-Female H
 //Afterschool
 
 // Animation Controller
