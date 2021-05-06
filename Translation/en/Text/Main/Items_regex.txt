@@ -24,18 +24,19 @@ sr:^(.+)(を手に入れた)$=$2 $1
 // crafting  (level 5)
 //--------------------------------------------------
 #set level 5
-sr:^(?<item_name>[\S\s]+)\s+(?<num_i>x [0-9]+)$=${item_name} ${num_i}
 r:^シピ([０-９0-9]+)$=Recipe $1
 #unset level 5
 
 
 #set level 5,-1
-
 // Girls asking for items
 //---------------------------------------------------
 sr:"^(?<tag_open_i><color[%#0-9A-F]+>)(?<item_name>.+)\s*(?<num_i>x\s*[0-9]+)(?<tag_close_i></color>)\s*(?<extra>.*)$"=${tag_open_i}${item_name}${tag_close_i} ${extra}
 
 // assorted items
+
+//sr:^(?<item_name>[\S\s]+)\s+(?<num_i>x [0-9]+)$=${item_name} ${num_i}
+sr:^(?<item_name>[\S\s]+)\s*x\s*(?<num_i>[0-9]+)$=${item_name} x ${num_i}
 
 r:^予備ポーチ([０-９0-9]+)=Reserve Pouch $1
 #unset level 5,-1
