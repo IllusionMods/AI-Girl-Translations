@@ -1,6 +1,6 @@
 //
 // Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
 //
-//柊のブローチ=
-//サンタの帽子=
-//雪の結晶=
+柊のブローチ=Christmas Brooch
+サンタの帽子=Santa's Hat
+雪の結晶=Snowflake

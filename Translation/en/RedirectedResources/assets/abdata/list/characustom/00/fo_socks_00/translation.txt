@@ -1,13 +1,13 @@
 //
 // Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
 //
-//なし=
-//ソックス=
-//ハイソックス=
-//ニーソックス=
-//スニーカーソックス=
-//ルーズソックス=
-//サイハイ=
-//シースルーサイハイ=
-//フットガーターニーソ=
-//パンプスカバー=
+なし=None
+ソックス=Socks
+ハイソックス=High Socks
+ニーソックス=Kneesocks
+スニーカーソックス=Sneaker Socks
+ルーズソックス=Loose Socks
+サイハイ=High Tights
+シースルーサイハイ=See Through High Tights
+フットガーターニーソ=Garter Socks
+パンプスカバー=Low-Cut Socks

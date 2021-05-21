@@ -1,14 +1,14 @@
 //
 // Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
 //
-//なし=
-//Tシャツ=
-//Yシャツ(A)=
-//Yシャツ(B)=
-//ポロシャツ=
-//ジャケット=
-//ベスト=
-//作業着=
-//タンクトップ（A）=
-//タンクトップ（B）=
-//ロングカーディガン=
+なし=None
+Tシャツ=T-shirt
+Yシャツ(A)=Dress Shirt A
+Yシャツ(B)=Dress Shirt B
+ポロシャツ=Polo Shirt
+ジャケット=Jacket
+ベスト=Vest
+作業着=Worker's Jacket
+タンクトップ（A）=Tank Top A
+タンクトップ（B）=Tank Top B
+ロングカーディガン=Long Cardigan

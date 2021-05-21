@@ -1026,7 +1026,7 @@ Hアイテム=H-Items
 壁穴=Wall with Hole
 壁に空いた大きな穴。機能：女の子にエッチな悪戯ができる。=Wall with big hole on it. Function: You can play naughty tricks on girls.
 
-三角木馬=Spanish Donkey
+三角木馬=Wooden Horse
 股の部分が三角になっている木馬。機能：女の子とアクセスするとエッチができる。=Triangle shaped horse. Function: If you access it with a girl, you can have sex.
 
 拘束デンマ台=Restraint Vibrator Chair

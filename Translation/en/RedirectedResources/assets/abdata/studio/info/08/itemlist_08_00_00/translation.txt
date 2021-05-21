@@ -1,5 +1,5 @@
 //
 // Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
 //
-//四分円(通常）=
-//欠け四角(通常)=
+四分円(通常）=Quadrant (General)
+欠け四角(通常)=Square With Curve (General)

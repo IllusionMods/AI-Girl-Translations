@@ -1,6 +1,6 @@
 //
 // Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
 //
-//ウェディングショーツ=
-//コンシェルジュレースS=
-//ガーリーショーツ=
+ウェディングショーツ=Wedding Lace
+コンシェルジュレースS=Concierge Lace Sitri
+ガーリーショーツ=Girly Lace

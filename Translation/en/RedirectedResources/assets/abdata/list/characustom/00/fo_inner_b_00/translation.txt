@@ -1,20 +1,20 @@
 //
 // Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
 //
-//なし=
-//ノーマル=
-//リボンレース=
-//アダルティレース=
-//ハーフレース=
-//フルレース=
-//マイクロレース=
-//スポーツ=
-//ハイレッグ=
-//Ｔバック=
-//ビキニ=
-//リボンビキニ=
-//マイクロビキニ=
-//マイクロSビキニ=
-//ハートシール=
-//スターシール=
-//絆創膏=
+なし=None
+ノーマル=Normal
+リボンレース=Ribbon Lace
+アダルティレース=Adult Lace
+ハーフレース=Half Lace
+フルレース=Full Lace
+マイクロレース=Micro Lace
+スポーツ=Sports
+ハイレッグ=High Leg
+Ｔバック=Thong
+ビキニ=Bikini
+リボンビキニ=Ribbon Bikini
+マイクロビキニ=Micro Bikini
+マイクロSビキニ=Micro Bikini 2
+ハートシール=Heart Seal
+スターシール=Star Seal
+絆創膏=Bandage Plaster

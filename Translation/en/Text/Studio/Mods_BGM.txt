@@ -1,0 +1,26 @@
+// BGM added by mods
+
+#set exe StudioNEOV2
+
+ＡＩ少女=AI Girl
+ハニーセレクト２リビドー=Honey Select 2 Libido
+安らぎの部屋=Room of Peace
+探求=Search
+出会いを求めて=Hoping to Meet
+スタートライン=Starting Line
+恋仲気分=Feeling Love
+宴のワルツ=Banquet Waltz
+あなたに尽くします=Beyond Exhaustion
+苦手意識=Nigateishiki
+壊れた人形=Broken Doll
+ズットイッショ=Zuttoissho
+フュル＝アルバン＝フュール=Fur-Alban-Fur
+ビューティー＆ムーディー=Beautiful & Moody
+//リビドーDX=
+シトリー＝レンブラント=Sitri-Rembrandt
+ナイト・ラブ=Night Love
+大人の時間=Adult Time
+どこへ向かうのか=Where to go
+非現実的世界=Unreal World
+ゴールイン……？=Goal in ...?
+深夜の散歩=Midnight Walk

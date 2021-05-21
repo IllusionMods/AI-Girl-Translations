@@ -2,6 +2,6 @@
 // Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
 //
 //祠=
-//鳥居=
-//灯篭=
-//灯篭(灯付き)=
+鳥居=Birdhouse
+灯篭=Lantern
+灯篭(灯付き)=Lantern (Illuminated)

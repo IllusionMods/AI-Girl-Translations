@@ -1,13 +1,13 @@
 //
 // Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
 //
-//拠点：浜辺=
-//シャンの家=
-//拠点：森=
-//拠点：廃墟=
-//拠点：ハウジング島=
-//：拠点：浜辺=
-//：シャンの家=
-//：拠点：森=
-//：拠点：廃墟=
-//：拠点：ハウジング島=
+拠点：浜辺=Base: Beach
+シャンの家=Shan's House
+拠点：森=Base: Forest
+拠点：廃墟=Base: Ruins
+拠点：ハウジング島=Base: Housing Island
+：拠点：浜辺=: Base: Beach
+：シャンの家=: Shan's House
+：拠点：森=: Base: Forest
+：拠点：廃墟=: Base: Ruins
+：拠点：ハウジング島=: Base: Housing Island

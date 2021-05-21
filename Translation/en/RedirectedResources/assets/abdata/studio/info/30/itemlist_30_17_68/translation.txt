@@ -1,5 +1,5 @@
 //
 // Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
 //
-//ファイルバインダー=
-//注射器=
+ファイルバインダー=File Binder
+注射器=Syringe

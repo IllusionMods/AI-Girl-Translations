@@ -1,3 +1,7 @@
+// These regexes are used so differing translations for the replaced sections may be used more easily
+sr:^(女子力|信頼|人間性|本能|変態|警戒|社交|闇|危機管理)EXP$=$1
+sr:^(?<term>[\S\s]+)(?<colon_i>\s*:\s*)=${term}${colon_i} 
+
 // MapScene/MapUI(Clone)/HUDCanvas/WarningMessageUI(Clone)
 //==================================================
 装備のランクが足りません=Insufficient Equipment Rank
@@ -13,18 +17,9 @@ sr:"^(<color[%#0-9A-F]+>)(.*)(</color>)(が寝ました|が倒れました)$"=$1
 
 // MapScene/MapUI(Clone)/CommandCanvas/CharaEntryUI(Clone)/LoadCharaPanel
 //======================================================================
-性別 : =Sex : 
 通常スキル=Normal Skill
 エッチスキル=Ecchi Skill
-ライフスタイル : =Lifestyle : 
-女子力EXP=Girl-power EXP
-信頼EXP=Trust EXP
-人間性EXP=Humanity EXP
-本能EXP=Instinct EXP
-変態EXP=Perversion EXP
-警戒EXP=Vigilance EXP
-社交EXP=Sociability EXP
-闇EXP=Darkness EXP
+
 
 
 // MapScene/MapUI(Clone)/CommandCanvas/ADVWindow(Clone)/Panel/WindowPanel/WindowLayout/Text
@@ -60,10 +55,18 @@ sr:"^(<color[%#0-9A-F]+>)(.*)(</color>)(が寝ました|が倒れました)$"=$1
 
 // Unsorted Translations
 //--------------------------------------------------
-１人目=1st Person
-２人目=2nd Person
-３人目=3rd Person
-４人目=4th Person
+
+１人目=1st Char
+２人目=2nd Char
+３人目=3rd Char
+４人目=4th Char
+
+sr:^([０-９0-9]*[１1])人目$=$1st Char
+sr:^([０-９0-9]*[２2])人目$=$1nd Char
+sr:^([０-９0-9]*[３3])人目$=$1rd Char
+sr:^([０-９0-9]*[４-９4-9])人目$=$1th Char
+
+
 中に出す=Cum Inside
 同時に=Climax Simultaneously
 外に出す=Cum Outside

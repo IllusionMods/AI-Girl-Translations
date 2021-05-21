@@ -1,16 +1,16 @@
 //
 // Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
 //
-//トーク=
-//アドバイス=
-//おだてる=
-//拠点=
-//データ端末=
-//移動先=
-//睡眠=
-//料理=
-//食事=
-//特殊エッチ=
-//鶏小屋=
-//どう始める？=
-//ワープ装置=
+トーク=Talk
+アドバイス=Advice
+おだてる=Sweet Talk
+拠点=Base
+データ端末=Data Terminal
+移動先=Go to
+睡眠=Sleep
+料理=Cooking
+食事=Meals
+特殊エッチ=Specialty Sex
+鶏小屋=Chicken Coop
+どう始める？=Shall we begin?
+ワープ装置=Warp Unit

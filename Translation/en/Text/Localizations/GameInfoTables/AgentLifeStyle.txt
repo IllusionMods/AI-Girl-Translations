@@ -1,15 +1,15 @@
 //
 // Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
 //
-//ゲッター=
+ゲッター=Getter
 //物欲が先行してしまう欲張りなタイプ。食べ物に執着したり、アイテムを要求されることが多くなる。=
-//ベイビー=
-//常に好かれようとするタイプ。プレゼントしてくれたり、寂しくなると近寄ってくる。=
-//ドライバー=
-//他人に頼らず自分で行動するタイプ。食べ物や、アイテム収集などを行いやすい。=
-//コントローラー=
-//自分自身を前面にアピールしないタイプ。休んだり、寝ることが多い。=
-//エキサイトメント・シーカー=
-//すぐ興味を持つが飽きっぽいタイプ。別の場所に移動しやすいが、飽きて別のことをしだす。=
-//アームチェア=
+ベイビー=Baby
+常に好かれようとするタイプ。プレゼントしてくれたり、寂しくなると近寄ってくる。=Type that always tries to be liked. Will approach to give gifts or when lonely.
+ドライバー=Driver
+他人に頼らず自分で行動するタイプ。食べ物や、アイテム収集などを行いやすい。=Type that acts by themselves without asking others. Inclined to gathering food and items.
+コントローラー=Controller
+自分自身を前面にアピールしないタイプ。休んだり、寝ることが多い。=Type that does not try to appeal to others. Rests and sleeps a lot.
+エキサイトメント・シーカー=Excitement Seeker
+すぐ興味を持つが飽きっぽいタイプ。別の場所に移動しやすいが、飽きて別のことをしだす。=Type that is quickly interested, but easily bored. Likely to move to other places, but gets bored and starts doing something else.
+アームチェア=Armchair
 //常にマイペースタイプ。自分の世界を楽しみ、遊んだりお風呂に入るのが好き=

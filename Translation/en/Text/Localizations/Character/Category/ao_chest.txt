@@ -1,11 +1,11 @@
 //
 // Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
 //
-//シンプルリング=
-//ジュエルリング=
-//洗濯バサミ=
-//ローター=
-//クリップ=
-//溶解粘液A=
-//溶解粘液B=
-//溶解粘液C=
+シンプルリング=Simple Ring
+ジュエルリング=Jewel Ring
+洗濯バサミ=Clothespin
+ローター=Rotor
+クリップ=Clip
+溶解粘液A=Slime A
+溶解粘液B=Slime B
+溶解粘液C=Slime C

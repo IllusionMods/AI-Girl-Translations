@@ -1,9 +1,9 @@
 //
 // Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
 //
-//玉飾り=
-//羽の髪飾り左用=
-//羽の髪飾り右用=
-//ロイヤルクラウン=
-//鎧兜=
-//トゲ=
+玉飾り=New Year Ornament
+羽の髪飾り左用=Left Hair Feather
+羽の髪飾り右用=Right Hair Feather
+ロイヤルクラウン=Royal Crown
+鎧兜=Armored Helmet
+トゲ=Knight Spike

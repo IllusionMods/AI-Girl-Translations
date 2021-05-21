@@ -1,5 +1,5 @@
 //
 // Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
 //
-//バニーパンプス=
-//魔女のブーツ=
+バニーパンプス=Bunny Pumps
+魔女のブーツ=Witch Boots

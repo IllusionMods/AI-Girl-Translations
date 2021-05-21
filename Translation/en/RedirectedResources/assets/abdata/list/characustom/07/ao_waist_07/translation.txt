@@ -1,8 +1,8 @@
 //
 // Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
 //
-//携帯用ランプ=
-//メカアンプ=
-//鎧ドレスガード=
-//バーサーカーの腰飾り=
-//悪魔の尻尾=
+携帯用ランプ=Portable Lamp
+メカアンプ=Mecha Amplifier
+鎧ドレスガード=Armor Dress Guard
+バーサーカーの腰飾り=Berseker Loincloth
+悪魔の尻尾=Devil's Tail

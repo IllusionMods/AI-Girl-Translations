@@ -1,6 +1,6 @@
 //
 // Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
 //
-//溶解粘液A=
-//溶解粘液B=
-//溶解粘液C=
+溶解粘液A=Slime A
+溶解粘液B=Slime B
+溶解粘液C=Slime C

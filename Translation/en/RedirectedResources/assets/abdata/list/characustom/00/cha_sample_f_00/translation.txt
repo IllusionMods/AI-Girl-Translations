@@ -1,5 +1,5 @@
 //
 // Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
 //
-//サンプル０１=
-//商人=
+サンプル０１=Sample 01
+商人=Trader

@@ -1,23 +1,23 @@
 //
 // Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
 //
-//シンプル指輪=
-//ツインリング=
-//宝石の指輪A=
-//宝石の指輪B=
-//スカルヘッド=
-//チアポンポン=
-//レザーバングル=
-//イルカとカラーストーン=
-//腕時計=
-//丸型腕時計=
-//メタルブレスレット=
-//シュシュ=
-//ストーンブレスレット=
-//リストバンドA=
-//リストバンドB=
-//光輪=
-//スマートウォッチ=
-//スポーツブレスレット=
-//ツイストリング=
-//薬瓶の腕輪=
+シンプル指輪=Simple Ring
+ツインリング=Twin Ring
+宝石の指輪A=Gemstone ring A
+宝石の指輪B=Gemstone ring B
+スカルヘッド=Skull Head
+チアポンポン=Chiapompon
+レザーバングル=Leather Bangle
+イルカとカラーストーン=Dolphin And Colored Stone
+腕時計=Watches
+丸型腕時計=Round Watch
+メタルブレスレット=Metal Bracelet
+シュシュ=Scrunchie
+ストーンブレスレット=Stone Bracelet
+リストバンドA=Wristband A
+リストバンドB=Wristband B
+光輪=Halo
+スマートウォッチ=Smart Watch
+スポーツブレスレット=Sports Bracelet
+ツイストリング=Twist Ring
+薬瓶の腕輪=Medicine Bottle Bangles

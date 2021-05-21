@@ -1,5 +1,5 @@
 //
 // Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
 //
-//四分円(アルファ）=
-//欠け四角(アルファ)=
+四分円(アルファ）=Quadrant (Alpha)
+欠け四角(アルファ)=Chip Square (Alpha)

@@ -1,0 +1,124 @@
+#set level 8,9
+
+
+
+NetworkTop/Canvas/BG/Infomation/Contents/chara/Scroll View=IgnoreFontSize()
+NetworkTop/Canvas/BG/Infomation/Contents/chara/Scroll View/Viewport/Content=ChangeFontSizeByPercentage(0.8)
+
+NetworkTop/Canvas/BG/Infomation/Contents/housing/Scroll View=IgnoreFontSize()
+NetworkTop/Canvas/BG/Infomation/Contents/housing/Scroll View/Viewport/Content=ChangeFontSizeByPercentage(0.8)
+
+NetworkTop/Canvas/BG/Main/MainBase/upload/chara/Infomation/Contents/chara/Scroll View=IgnoreFontSize()
+NetworkTop/Canvas/BG/Main/MainBase/upload/chara/Infomation/Contents/chara/Scroll View/Viewport/Content=ChangeFontSizeByPercentage(0.8)
+
+NetworkTop/Canvas/BG/Search/Top/Scroll View=IgnoreFontSize()
+NetworkTop/Canvas/BG/Search/Top/Scroll View/Viewport/Content=ChangeFontSizeByPercentage(0.8)
+
+
+NetworkTop/Canvas_Log/top/Base/Scroll View=IgnoreFontSize()
+NetworkTop/Canvas_Log/top/Base/Scroll View/viewBack/Viewport/Content=ChangeFontSizeByPercentage(0.8)
+
+// buttons
+NetworkTop/Canvas/BG/Main/MainBase/data/contents/housing/Item00 (10)/imgBack=UGUI_HorizontalOverflow(wrap)
+NetworkTop/Canvas/BG/Main/MainBase/data/contents/housing/Item00 (10)/imgBack=UGUI_ChangeLineSpacing(0.75)
+NetworkTop/Canvas/BG/Main/MainBase/data/contents/housing/Item00 (10)/imgBack=ChangeFontSizeByPercentage(0.7)
+
+NetworkTop/Canvas/BG/Main/MainBase/data/contents/housing/Item00 (11)/imgBack=UGUI_HorizontalOverflow(wrap)
+NetworkTop/Canvas/BG/Main/MainBase/data/contents/housing/Item00 (11)/imgBack=UGUI_ChangeLineSpacing(0.75)
+NetworkTop/Canvas/BG/Main/MainBase/data/contents/housing/Item00 (11)/imgBack=ChangeFontSizeByPercentage(0.7)
+
+NetworkTop/Canvas/BG/Main/MainBase/data/contents/housing/Item00 (12)/imgBack=UGUI_HorizontalOverflow(wrap)
+NetworkTop/Canvas/BG/Main/MainBase/data/contents/housing/Item00 (12)/imgBack=UGUI_ChangeLineSpacing(0.75)
+NetworkTop/Canvas/BG/Main/MainBase/data/contents/housing/Item00 (12)/imgBack=ChangeFontSizeByPercentage(0.7)
+
+NetworkTop/Canvas/BG/Main/MainBase/data/contents/housing/Item00 (13)/imgBack=UGUI_HorizontalOverflow(wrap)
+NetworkTop/Canvas/BG/Main/MainBase/data/contents/housing/Item00 (13)/imgBack=UGUI_ChangeLineSpacing(0.75)
+NetworkTop/Canvas/BG/Main/MainBase/data/contents/housing/Item00 (13)/imgBack=ChangeFontSizeByPercentage(0.7)
+
+NetworkTop/Canvas/BG/Main/MainBase/data/contents/housing/Item00 (14)/imgBack=UGUI_HorizontalOverflow(wrap)
+NetworkTop/Canvas/BG/Main/MainBase/data/contents/housing/Item00 (14)/imgBack=UGUI_ChangeLineSpacing(0.75)
+NetworkTop/Canvas/BG/Main/MainBase/data/contents/housing/Item00 (14)/imgBack=ChangeFontSizeByPercentage(0.7)
+
+NetworkTop/Canvas/BG/Main/MainBase/data/contents/housing/Item00 (15)/imgBack=UGUI_HorizontalOverflow(wrap)
+NetworkTop/Canvas/BG/Main/MainBase/data/contents/housing/Item00 (15)/imgBack=UGUI_ChangeLineSpacing(0.75)
+NetworkTop/Canvas/BG/Main/MainBase/data/contents/housing/Item00 (15)/imgBack=ChangeFontSizeByPercentage(0.7)
+
+NetworkTop/Canvas/BG/Main/MainBase/data/contents/housing/Item00 (1)/imgBack=UGUI_HorizontalOverflow(wrap)
+NetworkTop/Canvas/BG/Main/MainBase/data/contents/housing/Item00 (1)/imgBack=UGUI_ChangeLineSpacing(0.75)
+NetworkTop/Canvas/BG/Main/MainBase/data/contents/housing/Item00 (1)/imgBack=ChangeFontSizeByPercentage(0.7)
+
+NetworkTop/Canvas/BG/Main/MainBase/data/contents/housing/Item00 (2)/imgBack=UGUI_HorizontalOverflow(wrap)
+NetworkTop/Canvas/BG/Main/MainBase/data/contents/housing/Item00 (2)/imgBack=UGUI_ChangeLineSpacing(0.75)
+NetworkTop/Canvas/BG/Main/MainBase/data/contents/housing/Item00 (2)/imgBack=ChangeFontSizeByPercentage(0.7)
+
+NetworkTop/Canvas/BG/Main/MainBase/data/contents/housing/Item00 (3)/imgBack=UGUI_HorizontalOverflow(wrap)
+NetworkTop/Canvas/BG/Main/MainBase/data/contents/housing/Item00 (3)/imgBack=UGUI_ChangeLineSpacing(0.75)
+NetworkTop/Canvas/BG/Main/MainBase/data/contents/housing/Item00 (3)/imgBack=ChangeFontSizeByPercentage(0.7)
+
+NetworkTop/Canvas/BG/Main/MainBase/data/contents/housing/Item00 (4)/imgBack=UGUI_HorizontalOverflow(wrap)
+NetworkTop/Canvas/BG/Main/MainBase/data/contents/housing/Item00 (4)/imgBack=UGUI_ChangeLineSpacing(0.75)
+NetworkTop/Canvas/BG/Main/MainBase/data/contents/housing/Item00 (4)/imgBack=ChangeFontSizeByPercentage(0.7)
+
+NetworkTop/Canvas/BG/Main/MainBase/data/contents/housing/Item00 (5)/imgBack=UGUI_HorizontalOverflow(wrap)
+NetworkTop/Canvas/BG/Main/MainBase/data/contents/housing/Item00 (5)/imgBack=UGUI_ChangeLineSpacing(0.75)
+NetworkTop/Canvas/BG/Main/MainBase/data/contents/housing/Item00 (5)/imgBack=ChangeFontSizeByPercentage(0.7)
+
+NetworkTop/Canvas/BG/Main/MainBase/data/contents/housing/Item00 (6)/imgBack=UGUI_HorizontalOverflow(wrap)
+NetworkTop/Canvas/BG/Main/MainBase/data/contents/housing/Item00 (6)/imgBack=UGUI_ChangeLineSpacing(0.75)
+NetworkTop/Canvas/BG/Main/MainBase/data/contents/housing/Item00 (6)/imgBack=ChangeFontSizeByPercentage(0.7)
+
+NetworkTop/Canvas/BG/Main/MainBase/data/contents/housing/Item00 (7)/imgBack=UGUI_HorizontalOverflow(wrap)
+NetworkTop/Canvas/BG/Main/MainBase/data/contents/housing/Item00 (7)/imgBack=UGUI_ChangeLineSpacing(0.75)
+NetworkTop/Canvas/BG/Main/MainBase/data/contents/housing/Item00 (7)/imgBack=ChangeFontSizeByPercentage(0.7)
+
+NetworkTop/Canvas/BG/Main/MainBase/data/contents/housing/Item00 (8)/imgBack=UGUI_HorizontalOverflow(wrap)
+NetworkTop/Canvas/BG/Main/MainBase/data/contents/housing/Item00 (8)/imgBack=UGUI_ChangeLineSpacing(0.75)
+NetworkTop/Canvas/BG/Main/MainBase/data/contents/housing/Item00 (8)/imgBack=ChangeFontSizeByPercentage(0.7)
+
+NetworkTop/Canvas/BG/Main/MainBase/data/contents/housing/Item00 (9)/imgBack=UGUI_HorizontalOverflow(wrap)
+NetworkTop/Canvas/BG/Main/MainBase/data/contents/housing/Item00 (9)/imgBack=UGUI_ChangeLineSpacing(0.75)
+NetworkTop/Canvas/BG/Main/MainBase/data/contents/housing/Item00 (9)/imgBack=ChangeFontSizeByPercentage(0.7)
+
+NetworkTop/Canvas/BG/Main/MainBase/data/contents/housing/Item00/imgBack=UGUI_HorizontalOverflow(wrap)
+NetworkTop/Canvas/BG/Main/MainBase/data/contents/housing/Item00/imgBack=UGUI_ChangeLineSpacing(0.75)
+NetworkTop/Canvas/BG/Main/MainBase/data/contents/housing/Item00/imgBack=ChangeFontSizeByPercentage(0.7)
+
+NetworkTop/Canvas/BG/Search/Top/Scroll View/Viewport/Contents/Bust/imgBack=UGUI_HorizontalOverflow(wrap)
+NetworkTop/Canvas/BG/Search/Top/Scroll View/Viewport/Contents/Bust/imgBack=UGUI_ChangeLineSpacing(0.75)
+NetworkTop/Canvas/BG/Search/Top/Scroll View/Viewport/Contents/Bust/imgBack=ChangeFontSizeByPercentage(0.7)
+
+NetworkTop/Canvas/BG/Search/Top/Scroll View/Viewport/Contents/Hair/imgBack=UGUI_HorizontalOverflow(wrap)
+NetworkTop/Canvas/BG/Search/Top/Scroll View/Viewport/Contents/Hair/imgBack=UGUI_ChangeLineSpacing(0.75)
+NetworkTop/Canvas/BG/Search/Top/Scroll View/Viewport/Contents/Hair/imgBack=ChangeFontSizeByPercentage(0.7)
+
+NetworkTop/Canvas/BG/Search/Top/Scroll View/Viewport/Contents/Height/imgBack=UGUI_HorizontalOverflow(wrap)
+NetworkTop/Canvas/BG/Search/Top/Scroll View/Viewport/Contents/Height/imgBack=UGUI_ChangeLineSpacing(0.75)
+NetworkTop/Canvas/BG/Search/Top/Scroll View/Viewport/Contents/Height/imgBack=ChangeFontSizeByPercentage(0.7)
+
+NetworkTop/Canvas/BG/Search/Top/Scroll View/Viewport/Contents/HN/imgBack=UGUI_HorizontalOverflow(wrap)
+NetworkTop/Canvas/BG/Search/Top/Scroll View/Viewport/Contents/HN/imgBack=UGUI_ChangeLineSpacing(0.75)
+NetworkTop/Canvas/BG/Search/Top/Scroll View/Viewport/Contents/HN/imgBack=ChangeFontSizeByPercentage(0.7)
+
+NetworkTop/Canvas/BG/Search/Top/Scroll View/Viewport/Contents/SearchKeyword/imgBack=UGUI_HorizontalOverflow(wrap)
+NetworkTop/Canvas/BG/Search/Top/Scroll View/Viewport/Contents/SearchKeyword/imgBack=UGUI_ChangeLineSpacing(0.75)
+NetworkTop/Canvas/BG/Search/Top/Scroll View/Viewport/Contents/SearchKeyword/imgBack=ChangeFontSizeByPercentage(0.7)
+
+NetworkTop/Canvas/BG/Search/Top/Scroll View/Viewport/Contents/Sex/imgBack=UGUI_HorizontalOverflow(wrap)
+NetworkTop/Canvas/BG/Search/Top/Scroll View/Viewport/Contents/Sex/imgBack=UGUI_ChangeLineSpacing(0.75)
+NetworkTop/Canvas/BG/Search/Top/Scroll View/Viewport/Contents/Sex/imgBack=ChangeFontSizeByPercentage(0.7)
+
+NetworkTop/Canvas/BG/Search/Top/Scroll View/Viewport/Contents/Sort/imgBack=UGUI_HorizontalOverflow(wrap)
+NetworkTop/Canvas/BG/Search/Top/Scroll View/Viewport/Contents/Sort/imgBack=UGUI_ChangeLineSpacing(0.75)
+NetworkTop/Canvas/BG/Search/Top/Scroll View/Viewport/Contents/Sort/imgBack=ChangeFontSizeByPercentage(0.7)
+
+NetworkTop/Canvas/BG/Search/Top/Scroll View/Viewport/Contents/Voice/imgBack=UGUI_HorizontalOverflow(wrap)
+NetworkTop/Canvas/BG/Search/Top/Scroll View/Viewport/Contents/Voice/imgBack=UGUI_ChangeLineSpacing(0.75)
+NetworkTop/Canvas/BG/Search/Top/Scroll View/Viewport/Contents/Voice/imgBack=ChangeFontSizeByPercentage(0.7)
+
+
+// chara info
+
+NetworkTop/Canvas/BG/Main/MainBase/upload/chara/Infomation/Contents/chara/Scroll View/Viewport/Content/Exp=UGUI_HorizontalOverflow(overflow)
+
+
+NetworkTop/Canvas/BG/Main/MainBase/upload/HandleName=ChangeFontSizeByPercentage(0.8)

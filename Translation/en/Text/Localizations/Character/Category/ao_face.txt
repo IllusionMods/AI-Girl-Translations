@@ -1,18 +1,18 @@
 //
 // Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
 //
-//ピエロの鼻=
-//天狗の鼻=
-//一輪のバラ=
-//リコーダー=
-//顔包帯右=
-//顔包帯左=
-//口当て布=
-//バードマスク=
-//骸骨面上顎=
-//骸骨面下顎=
-//鳥の仮面=
-//剣闘士の額当て=
-//チョコドーナッツ=
-//フェイスベール=
-//キャットマスク=
+ピエロの鼻=Clown Nose
+天狗の鼻=Tengu Nose
+一輪のバラ=Single Rose
+リコーダー=Recorder
+顔包帯右=Face Bandage Right
+顔包帯左=Face Bandage Left
+口当て布=Mouthpiece
+バードマスク=Bird Mask
+骸骨面上顎=Skeletal Upper Jaw
+骸骨面下顎=Skeletal Mandible
+鳥の仮面=Bird Mask
+剣闘士の額当て=Gladiator Forehead
+チョコドーナッツ=Donuts
+フェイスベール=Dancer Veil
+キャットマスク=Cat Mask

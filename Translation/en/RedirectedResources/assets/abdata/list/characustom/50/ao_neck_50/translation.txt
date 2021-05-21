@@ -1,7 +1,7 @@
 //
 // Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
 //
-//ウェディングチョーカー=
-//コンシェルジュスカーフS=
-//ロングリボン=
-//シーフマフラー=
+ウェディングチョーカー=Wedding Choker
+コンシェルジュスカーフS=Concierge Scarf Sitri
+ロングリボン=Long Ribbon
+シーフマフラー=Thief Muffler

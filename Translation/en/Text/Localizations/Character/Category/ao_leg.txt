@@ -1,18 +1,18 @@
 //
 // Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
 //
-//レースガーターリング左=
-//レースガーターリング右=
-//ティアアンクレット=
-//ガーターリング左=
-//ガーターリング右=
-//ミサンガA左=
-//ミサンガA右=
-//ミサンガB左=
-//ミサンガB右=
-//弾丸ガーターリング=
-//メカフット左=
-//メカフット右=
-//リベットレッグ=
-//足縄（左）=
-//足縄（右）=
+レースガーターリング左=Left Lace Garter
+レースガーターリング右=Right Lace Garter
+ティアアンクレット=Tier Anklet
+ガーターリング左=Left Leg Garter
+ガーターリング右=Right Leg Garter
+ミサンガA左=Friendship Bracelet A Left
+ミサンガA右=Friendship Bracelet A Right
+ミサンガB左=Left Friendship Bracelet B
+ミサンガB右=Right Friendship Bracelet B
+弾丸ガーターリング=Bullet Garter
+メカフット左=Left Mecha Foot
+メカフット右=Right Mecha Foot
+リベットレッグ=Rivet Leg
+足縄（左）=Foot Rope (Left)
+足縄（右）=Foot Rope (Right)

@@ -1,5 +1,5 @@
 //
 // Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
 //
-//設置物=
-//自然物=
+設置物=Installed Objs
+自然物=Nature

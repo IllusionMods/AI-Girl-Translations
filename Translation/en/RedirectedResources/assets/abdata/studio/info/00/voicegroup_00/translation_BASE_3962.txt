@@ -1,0 +1,9 @@
+//
+// Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
+//
+機械的で無感情=Emotionless
+おおらかでやさしい=Friendly
+意識が高く自信家=Confident
+自分勝手でわがまま=Selfish
+無気力でものぐさ=Lazy
+ポジティブで明るい=Positive

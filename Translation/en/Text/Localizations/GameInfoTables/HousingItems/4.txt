@@ -1,26 +1,26 @@
 //
 // Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
 //
-//Hアイテム=
-//分娩台=
-//両足を開いて座る診察台。機能：女の子とアクセスするとエッチができる。=
-//ディルド=
-//性器を模して造られた模型。機能：女の子がエッチをする。=
-//拘束台=
-//首と手を拘束する台。機能：女の子とアクセスするとエッチができる。=
-//壁穴=
-//壁に空いた大きな穴。機能：女の子にエッチな悪戯ができる。=
-//三角木馬=
-//股の部分が三角になっている木馬。機能：女の子とアクセスするとエッチができる。=
-//拘束デンマ台=
-//手足を拘束してデンマなどを使う台。機能：女の子とアクセスするとエッチができる。=
-//拘束鞍馬=
-//手足を拘束する鞍馬。機能：女の子とアクセスするとエッチができる。=
+Hアイテム=H-Items
+分娩台=Delivery Chair
+両足を開いて座る診察台。機能：女の子とアクセスするとエッチができる。=2 legs opened examination chair. Function: If you access it with a girl, you can have sex.
+ディルド=Dildo
+性器を模して造られた模型。機能：女の子がエッチをする。=Model made of penis shape. Function: Girls have sex.
+拘束台=Pillory
+首と手を拘束する台。機能：女の子とアクセスするとエッチができる。=Stand that can restain the head and hands. Function: If you access it with a girl, you can have sex.
+壁穴=Wall with Hole
+壁に空いた大きな穴。機能：女の子にエッチな悪戯ができる。=Wall with big hole on it. Function: You can play naughty tricks on girls.
+三角木馬=Wooden Horse
+股の部分が三角になっている木馬。機能：女の子とアクセスするとエッチができる。=Triangle shaped horse. Function: If you access it with a girl, you can have sex.
+拘束デンマ台=Restraint Vibrator Chair
+手足を拘束してデンマなどを使う台。機能：女の子とアクセスするとエッチができる。=Chair used for vibrator which can restain hands and feet. Function: If you access it with a girl, you can have sex.
+拘束鞍馬=Restraint Pommel Horse
+手足を拘束する鞍馬。機能：女の子とアクセスするとエッチができる。=Pommel horse which restain hands and feet. Function: If you access it with a girl, you can have sex.
 //エッチマシーン=
 //エッチなことをするための装置。=
 //吊るし縄=
 //女の子を縛ることが出来そうな縄。=
-//拘束具=
+拘束具=Restraints
 //体を固定する器具セット。=
 //サディスティックチェア=
 //足を拘束し自由を奪う椅子=

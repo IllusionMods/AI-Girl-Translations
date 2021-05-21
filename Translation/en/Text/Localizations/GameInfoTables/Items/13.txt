@@ -1,6 +1,6 @@
 //
 // Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
 //
-//貴重品=
-//シャンのカギ=
-//シャンが縄張りを守るために使っている錠のカギ。=
+貴重品=Valuable(s)
+シャンのカギ=Shan's Key
+シャンが縄張りを守るために使っている錠のカギ。=Key to the lock that Shan uses to protect her territory.

@@ -1,0 +1,36 @@
+#set exe CharaStudio
+
+// Commonly used Folder names/prefixes on uploader scenes
+
+// numbers 0-9０-９\u1f10b\u2780-\u2789\u24ea\u2460-\u2473\u3251-\u32bf
+シーン=Scene
+コマ=Scene
+
+説明=Explanation
+
+sr:^説明[　\s]*[:：][　\s]*(.*)$=Explanation: $1
+
+
+// Camera
+sr:"^カメラ?[_　\s]*(?<cam_num>[0-9０-９\u1f10b\u2780-\u2789\u24ea\u2460-\u2473\u3251-\u32bf]+([~，～・、,－―][0-9０-９\u1f10b\u2780-\u2789\u24ea\u2460-\u2473\u3251-\u32bf]+)*)[　\s]*(?<post_pre_i>[\[\(（<]+)(?<post>[^\]\)）>]+)(?<post_post_i>[\]\)）>]+)$"=Camera ${cam_num} ${post_pre_i}${post}${post_post_i}
+r:^カメラ?[_　\s]*([0-9０-９\u1f10b\u2780-\u2789\u24ea\u2460-\u2473\u3251-\u32bf]+([~，～・、,－―-][0-9０-９\u1f10b\u2780-\u2789\u24ea\u2460-\u2473\u3251-\u32bf]+)+)$=Camera $1
+sr:^カメラ?[_　\s]*(?<cam_num_i>[0-9０-９\u1f10b\u2780-\u2789\u24ea\u2460-\u2473\u3251-\u32bf]+([~，～・、,－―][0-9０-９\u1f10b\u2780-\u2789\u24ea\u2460-\u2473\u3251-\u32bf]+)*([：:　\s]*))(?<body>.*)$=Camera ${cam_num_i} ${body}
+
+sr:"^(?<cam_num>[0-9０-９\u1f10b\u2780-\u2789\u24ea\u2460-\u2473\u3251-\u32bf]+([~，～・、,－―][0-9０-９\u1f10b\u2780-\u2789\u24ea\u2460-\u2473\u3251-\u32bf]+)*)[_　\s]*カメラ?[　\s]*(?<post_pre_i>[\[\(（<]+)(?<post>[^\]\)）>]+)(?<post_post_i>[\]\)）>]+)$"=Camera ${cam_num} ${post_pre_i}${post}${post_post_i}
+r:^(?<cam_num>[0-9０-９\u1f10b\u2780-\u2789\u24ea\u2460-\u2473\u3251-\u32bf]+([~，～・、,－―][0-9０-９\u1f10b\u2780-\u2789\u24ea\u2460-\u2473\u3251-\u32bf]+)*)[_　\s]*カメラ?$=Camera $1
+sr:(?<cam_num>[0-9０-９\u1f10b\u2780-\u2789\u24ea\u2460-\u2473\u3251-\u32bf]+([~，～・、,－―][0-9０-９\u1f10b\u2780-\u2789\u24ea\u2460-\u2473\u3251-\u32bf]+)*)[_　\s]*カメラ?(?<break_i>[：:　\s]*)(?<body>.*)$=Camera ${cam_num_i}${break_i} ${body}
+
+
+// Scene
+sr:"^(シーン|コマ)[_　\s]*(?<scene_num>[0-9０-９\u1f10b\u2780-\u2789\u24ea\u2460-\u2473\u3251-\u32bf]+([~，～・、,－―][0-9０-９\u1f10b\u2780-\u2789\u24ea\u2460-\u2473\u3251-\u32bf]+)*)[　\s]*(?<post_pre_i>[\[\(（<]+)(?<post>[^\]\)）>]+)(?<post_post_i>[\]\)）>]+)$"=Scene ${scene_num} ${post_pre_i}${post}${post_post_i}
+r:^(シーン|コマ)[_　\s]*([0-9０-９\u1f10b\u2780-\u2789\u24ea\u2460-\u2473\u3251-\u32bf]+([~，～・、,－―-][0-9０-９\u1f10b\u2780-\u2789\u24ea\u2460-\u2473\u3251-\u32bf]+)+)$=Scene $1
+sr:^(シーン|コマ)[_　\s]*(?<scene_num_i>[0-9０-９\u1f10b\u2780-\u2789\u24ea\u2460-\u2473\u3251-\u32bf]+([~，～・、,－―][0-9０-９\u1f10b\u2780-\u2789\u24ea\u2460-\u2473\u3251-\u32bf]+)*([：:　\s]*))(?<body>.*)$=Scene ${scene_num_i} ${body}
+
+sr:"^(?<scene_num>[0-9０-９\u1f10b\u2780-\u2789\u24ea\u2460-\u2473\u3251-\u32bf]+([~，～・、,－―][0-9０-９\u1f10b\u2780-\u2789\u24ea\u2460-\u2473\u3251-\u32bf]+)*)[_　\s]*(シーン|コマ)[　\s]*(?<post_pre_i>[\[\(（<]+)(?<post>[^\]\)）>]+)(?<post_post_i>[\]\)）>]+)$"=Scene ${scene_num} ${post_pre_i}${post}${post_post_i}
+r:^(?<scene_num>[0-9０-９\u1f10b\u2780-\u2789\u24ea\u2460-\u2473\u3251-\u32bf]+([~，～・、,－―][0-9０-９\u1f10b\u2780-\u2789\u24ea\u2460-\u2473\u3251-\u32bf]+)*)[_　\s]*(シーン|コマ)$=Scene $1
+sr:(?<scene_num>[0-9０-９\u1f10b\u2780-\u2789\u24ea\u2460-\u2473\u3251-\u32bf]+([~，～・、,－―][0-9０-９\u1f10b\u2780-\u2789\u24ea\u2460-\u2473\u3251-\u32bf]+)*)[_　\s]*(シーン|コマ)(?<break_i>[：:　\s]*)(?<body>.*)$=Scene ${scene_num_i}${break_i} ${body}
+
+
+
+sr:^(?<front_i>[A-ZＡ-Ｚa-zａ-ｚ 0-9０-９\u1f10b\u2780-\u2789\u24ea\u2460-\u2473\u3251-\u32bf　\s]+)(?<post_pre_i>[\[\(（<]+)(?<post>[^\]\)）>]+)(?<post_post_i>[\]\)）>]+)$=${front_i} ${post_pre_i}${post}${post_post_i}
+

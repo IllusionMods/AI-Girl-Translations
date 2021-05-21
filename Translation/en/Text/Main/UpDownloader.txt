@@ -1,0 +1,10 @@
+#set level 8,9
+
+投稿日時=Date Posted
+マップサイズ=Map Size
+キャラ名=Character Name
+解除=Clear
+
+r:^(\d+)月(\d+)日$=$1/$2
+
+sr:^(.*)Exp$=$1

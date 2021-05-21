@@ -1,8 +1,7 @@
 //
 // Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
 //
-//表示名=
-//待機=
+待機=Idle
 //落ち込むin=
 //落ち込むloop=
 //落ち込むout=
@@ -11,8 +10,8 @@
 //ぬいぐるみを抱く=
 //会話 右=
 //会話 左=
-//ベンチ座り 男女=
-//ベンチ膝枕 男女=
+ベンチ座り 男女=Rest Together Sit
+ベンチ膝枕 男女=Rest Together Lap-Pillow
 //本を読む=
 //ページをめくる=
 //洋式トイレin=

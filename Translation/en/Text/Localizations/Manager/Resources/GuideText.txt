@@ -1,8 +1,8 @@
 //
 // Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
 //
-//決定=
+決定=Select
 //もどる=
-//項目選択=
-//拡大・縮小=
-//マップを閉じる=
+項目選択=Item Selection
+拡大・縮小=Zoom In/Out
+マップを閉じる=Close Map

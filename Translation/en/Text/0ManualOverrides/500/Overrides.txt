@@ -1,0 +1,18 @@
+#set level -1,5
+
+チェスト=Open Chest
+
+sr:^([\S\s]+)をあげる$=Give $1
+sr:^Give\s+([\S\s]+)$=Give $1
+
+sr:^([\S\s]+)を持っていません。$=You do not have a $1.
+sr:^You do not have a\s+([\S\s]+)$=You do not have a $1.
+
+sr:^([\S\s]+)を捕まえる$=Catch $1
+sr:^Catch\s+([\S\s]+)を捕まえる=Catch $1
+
+// fix up formatting when girl asks for something
+sr:^(?<color_open_i><color[^>]+>)(?<item_name>[\S\s]+)\s*x\s*(?<item_count_i>[1-9][0-9]*)(?<color_close_i><\/color>)(?<rest>[\S\s]+)$=${color_open_i}${item_name} x ${item_count_i}${color_close_i} ${rest}
+
+#unset level -1,5
+

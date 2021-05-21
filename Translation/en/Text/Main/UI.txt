@@ -35,7 +35,7 @@
 // MapScene/MapUI(Clone)/CommandCanvas/AllAreaMap(Clone)/Move/warpArea/Scroll View/Viewport/Content/WarpListNode(Clone)/Text
 //--------------------------------------------------
 // for "拠点：XXX" lines
-sr:"^(：?拠点)(：)(.*)$"=$1$2 $3
+sr:^(：?拠点)：(.*)$=$1： $2
 拠点=Base
 ：拠点=: Base
 シャンの家=Shan's House
@@ -46,7 +46,7 @@ sr:"^(：?拠点)(：)(.*)$"=$1$2 $3
 
 // MapScene/MapUI(Clone)/CommandCanvas/AllAreaMap(Clone)/ClickedText/Text
 //--------------------------------------------------
-sr:"^(：)(.*)$"=$1 $2
+sr:^(：)(.+)$=$1 $2
 グローブ=Gloves
 虫網=Bug Net
 シャベル=Shovel
@@ -127,7 +127,8 @@ sr:"^(：)(.*)$"=$1 $2
 
 // MapScene/MapUI(Clone)/CommandCanvas/MenuUI(Clone)/CellularUI/Interface Panel/StatusUI(Clone)/Content/AgentContent/Flavor/LifeStyle/Text
 //--------------------------------------------------
-ライフスタイル：=Lifestyle:
+// regex handles colon
+ライフスタイル=Lifestyle
 
 // MapScene/MapUI(Clone)/CommandCanvas/MenuUI(Clone)/CellularUI/Interface Panel/StatusUI(Clone)/Content/AgentContent/Flavor/joshi-pow/Text
 //--------------------------------------------------
@@ -152,6 +153,8 @@ sr:"^(：)(.*)$"=$1 $2
 // MapScene/MapUI(Clone)/CommandCanvas/MenuUI(Clone)/CellularUI/Interface Panel/StatusUI(Clone)/Content/AgentContent/Flavor/risk/Text
 //--------------------------------------------------
 警戒=Vigilance
+// alternate used based on version, keep both
+危機管理=Vigilance
 
 // MapScene/MapUI(Clone)/CommandCanvas/MenuUI(Clone)/CellularUI/Interface Panel/StatusUI(Clone)/Content/AgentContent/Flavor/sociability/Text
 //--------------------------------------------------
@@ -195,7 +198,7 @@ sr:"^(：)(.*)$"=$1 $2
 すべて=All
 草花=Plant(s)
 樹木=Tree(s)
-魚=Fish(es)
+魚=Fish
 種=Seed(s)
 エサ=Bait
 飲み物=Drink(s)
@@ -207,6 +210,7 @@ sr:"^(：)(.*)$"=$1 $2
 素材=Material(s)
 //スキル=Skill(s)
 Hスキル=H-Skill(s)
+
 
 // MapScene/MapUI(Clone)/CommandCanvas/ChickenCoopUI(Clone)/Panel/InventoryPanel/InventoryLayout/InventoryViewer(Clone)/ListLabel/Icon/Text
 // MapScene/MapUI(Clone)/CommandCanvas/FarmlandUI(Clone)/Panel/InventoryPanel/InventoryLayout/InventoryViewer(Clone)/ListLabel/Icon/Text
@@ -276,7 +280,7 @@ Hスキル=H-Skill(s)
 // MapScene/MapUI(Clone)/CommandCanvas/PetCraftUI(Clone)/Panel/CraftMainPanel/Layout/CraftViewer(Clone)/Base/ListLabel/StackCount/Text
 // MapScene/MapUI(Clone)/CommandCanvas/MedicineCraftUI(Clone)/Panel/CraftMainPanel/Layout/CraftViewer(Clone)/Base/ListLabel/StackCount/Text
 //--------------------------------------------------
-所持数=#
+所持数=Quantity
 
 // MapScene/MapUI(Clone)/CommandCanvas/ItemBoxUI(Clone)/Top/Panel/ItemBoxPanel/Layout/InventoryViewer(Clone)/SortUI(Clone)/Infomation/Layout/Text
 // MapScene/MapUI(Clone)/CommandCanvas/MenuUI(Clone)/CellularUI/Interface Panel/InventoryUI(Clone)/InventoryViewer(Clone)/SortUI(Clone)/Infomation/Layout/Text
@@ -363,12 +367,14 @@ Hスキル=H-Skill(s)
 
 // Girl - Actions
 //--------------------------------------------------
-r:"^(.*)にアクション$"=r:"Interact with $1"
-r:"^(.*)と話す$"=r:"Talk with $1"
-r:"^(.*)を担ぐ$"=r:"Carry $1"
+#set level 5,-1
+sr:^([\S\s]+)にアクション$=Interact with $1
+sr:^([\S\s]+)と話す$=Talk with $1
+sr:^([\S\s]+)を担ぐ$=Carry $1
 下ろす=Drop Off
 ベッドに寝かせる=Put To Bed
-一緒にご飯を食べる=Eat Rice Together
+一緒にご飯を食べる=Eat Meal Together
+#unset level 5,-1
 
 // Other - Actions
 //--------------------------------------------------
@@ -461,9 +467,9 @@ r:"^(.*)を担ぐ$"=r:"Carry $1"
 // MapScene/MapUI(Clone)/CommandCanvas/CharaLookEditUI(Clone)/Panel/SelectPanel/Infomation/IconText/Text
 女の子の容姿変更=Change Girl's Appearance
 // MapScene/MapUI(Clone)/CommandCanvas/PlayerChangeUI(Clone)/Panel/SelectPanel/Infomation/IconText/Text
-r:"^(.*)を変更$"=r"Change $1"
+sr:^(.+)を変更$=Change $1
 // MapScene/MapUI(Clone)/CommandCanvas/PlayerLookEditUI(Clone)/Panel/SelectPanel/Infomation/IconText/Text
-r:"^(.*)の容姿変更"=r:"Change $1's Appearance"
+sr:^(.+)の容姿変更=Change $1's Appearance
 // MapScene/MapUI(Clone)/CommandCanvas/CharaLookEditUI(Clone)/Panel/SelectPanel/Infomation/ElementLayout/btnCharaCreation/Text
 // MapScene/MapUI(Clone)/CommandCanvas/PlayerLookEditUI(Clone)/Panel/SelectPanel/Infomation/ElementLayout/btnCharaCreation/Text
 キャラ編集=Edit Char.
@@ -535,3 +541,13 @@ r:"^(.*)の容姿変更"=r:"Change $1's Appearance"
 //======================================================================
 上で続ける\n下で抜く=Continue\nPull Out
 続ける=Continue
+
+// Misc
+アイテム名=Item Name
+フレーバーテキスト=Flavor Text
+
+
+#set level 5
+調合=Compounding
+sr:^(男|女)(（フタナリ）)$=$1 $2
+#unset level 5

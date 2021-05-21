@@ -1,23 +1,23 @@
 //
 // Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
 //
-//なし=
-//ショートパンツ=
-//ホットパンツ=
-//スポーツパンツ=
-//プリーツスカート=
-//ミニスカート=
-//タイトスカート=
-//バックスリットタイト=
-//ミニタイトスカート=
-//ショートレギンス=
-//ジーンズ=
-//スーツパンツ=
-//ブルマ=
-//パレオ=
-//南国スカート=
-//腰蓑=
-//レザースカート=
-//ストレッチパンツ=
-//フロントリボン=
-//ラップスカート=
+なし=None
+ショートパンツ=Short Pants
+ホットパンツ=Hotpants
+スポーツパンツ=Sport Shorts
+プリーツスカート=Pleated Skirt
+ミニスカート=Miniskirt
+タイトスカート=Tight Skirt
+バックスリットタイト=Back Slit Skirt
+ミニタイトスカート=Tight Miniskirt
+ショートレギンス=Short Leggings
+ジーンズ=Jeans
+スーツパンツ=Slacks
+ブルマ=Bloomers
+パレオ=Pareo
+南国スカート=Tropical Skirt
+腰蓑=Grass Skirt
+レザースカート=Leather Skirt
+ストレッチパンツ=Joggers
+フロントリボン=Front Ribbon
+ラップスカート=Wrap Skirt

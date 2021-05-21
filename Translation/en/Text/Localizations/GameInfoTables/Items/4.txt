@@ -1,14 +1,14 @@
 //
 // Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
 //
-//種=
-//野花の種=
-//いろいろな種類の植物が混ざっている種。=
-//綿花の種=
-//綿花が採取しやすい種。=
-//赤い種=
-//赤い実が採取しやすい種。=
-//ウリの種=
-//ニガウリが採取しやすい種。=
-//バナナの種=
-//バナナイモが採取しやすい種。=
+種=Seed(s)
+野花の種=Wildflower Seed
+いろいろな種類の植物が混ざっている種。=Seed mixed with various kinds of plants.
+綿花の種=Cotton Flower Seed
+綿花が採取しやすい種。=Seed that makes it easier to gather Cotton Flower.
+赤い種=Red Seed
+赤い実が採取しやすい種。=Seed that makes it easier to gather Red Fruit.
+ウリの種=Melon Seed
+ニガウリが採取しやすい種。=Seed that makes it easier to gather Bitter Melon.
+バナナの種=Banana Seed
+バナナイモが採取しやすい種。=Seed that makes it easier to gather Banana Potato.

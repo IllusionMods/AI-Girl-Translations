@@ -1,16 +1,16 @@
 //
 // Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
 //
-//コツブウオ=
-//コムツ=
-//空き缶=
-//空き瓶=
-//オッチャン=
-//ヤリマス=
-//オニブダイ=
-//長靴=
-//カニ=
-//ヌタウナギ=
-//猫魚=
-//トアバ=
-//魚雷=
+コツブウオ=Dragonfly
+コムツ=Komtsu
+空き缶=Empty Can
+空き瓶=Empty Bottle
+オッチャン=Ochan
+ヤリマス=Yarimus
+オニブダイ=Onibudai
+長靴=Boots
+カニ=Crab
+ヌタウナギ=Japanese Eel
+猫魚=Cat Fish
+トアバ=Toaba
+魚雷=Torpedo

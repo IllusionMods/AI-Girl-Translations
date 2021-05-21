@@ -1,8 +1,8 @@
 //
 // Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
 //
-//朝霧=
-//夕涼み=
-//探索好き=
-//見られてる？=
-//勝負！！=
+朝霧=Mists of Morning
+夕涼み=Cool of Evening
+探索好き=I Love Exploring
+見られてる？=Are They Watching?
+勝負！！=Game On!!

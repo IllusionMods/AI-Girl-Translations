@@ -1,15 +1,15 @@
 //
 // Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
 //
-//なし=
-//スニーカー=
-//ビーチサンダル=
-//ローファー=
-//ビジネスシューズ=
-//ランニングシューズ=
-//メッシュシューズ=
-//カフシューズ=
-//トレッキング=
-//マリンシューズ=
-//上履き=
+なし=None
+スニーカー=Sneakers
+ビーチサンダル=Beach Sandals
+ローファー=Loafers
+ビジネスシューズ=Business Shoes
+ランニングシューズ=Running Shoes
+メッシュシューズ=Mesh shoes
+カフシューズ=Cuff Shoes
+トレッキング=Trekking Shoes
+マリンシューズ=Rubber Sneakers
+上履き=Slippers
 //ロングブーツ　=

@@ -1,6 +1,6 @@
 //
 // Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
 //
-//エプロン=
-//亀甲縛り=
-//着物ミニ=
+エプロン=Apron
+亀甲縛り=Rope Harness
+着物ミニ=Kimono Mini

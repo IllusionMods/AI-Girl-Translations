@@ -15,51 +15,18 @@
 //************************************************************
 
 //------------------------------------------------------------
-// Personalities
+// Personalities 
 //------------------------------------------------------------
-機械的で無感情=Emotionless and stoic
-おおらかでやさしい=Friendly and gentle
-意識が高く自信家=Confident and aware
-自分勝手でわがまま=Selfish and spoiled
-無気力でものぐさ=Lazy and sluggish
-ポジティブで明るい=Positive and cheerful
+// RedirectedResources/assets/abdata/etcetra/list/config/*
 
 //------------------------------------------------------------
 // Desires
 //------------------------------------------------------------
-やさしさ=Kindness
-快楽=Pleasure
-小悪魔=Mischief
-刺激=Thrills
-礼儀=Courtesy
-禁断=Taboos
-落ち着き=Calmness
-お金=Wealth
-知性=Intelligence
-信念=Conviction​
-忠誠=Loyalty
-持久力=Endurance
-可憐さ=Sweetness
-無邪気=Innocence
-不完全=Imperfection
-理解力=Understanding
-判断力=Sharpness
-癒やし=Comfort
+// RedirectedResources/assets/abdata/list/characustom/*/init_wish_param_*
 
-//------------------------------------------------------------
-// use # to search for instances of the following "\\Sample#"
-//------------------------------------------------------------
-サンプル=Sample
-タイプ=Type
-名前=Name
-コーデ=Clothing
-瞳の設定=Eye Settings
-キャラ設定=Character Setting
-ハート=Heart
-肌=Skin
-顔=Face
-耳=Ears
-眼鏡=Eyewear
+
+
+
 眉=Eyebrows
 目=Eye
 鼻=Nose
@@ -69,8 +36,9 @@
 肩=Shoulder
 胸=Chest
 腰=Waist
-腕=Arm
-脚=Leg
+腕=Arms
+脚=Legs
+手=Hands
 左手=L hand
 右手=R hand
 
@@ -78,44 +46,24 @@
 // Placement (Paint and Accessories) Arrangement and Parent Tabs
 //------------------------------------------------------------
 //Paint and Accessories
-左肩=L Should
-右肩=R Should
+左肩=L Shoulder
+右肩=R Shoulder
 
-//paint face
-//Chest#
-左頬=L Side of Face
-右頬=R Side of Face
-おでこ=Forehead
-//Nose#
-//Mouth#
-//Jaw#
+//paint face:
+// RedirectedResources/assets/abdata/list/characustom/*/facepaint_layout_*
 
-//paint body
-腹・股間=Midriff
-背中・うなじ=Between Shoulder Blades
-右脚裏=Back of Right Leg
-右ふくらはぎ=Back of Right Calf
-左脚裏=Back of Left Leg
-左ふくらはぎ=Back of Left Calf
-右脚=Right Leg
-左脚=Left Leg
-右スネ=Right Shin
-左スネ=Left Shin
-右足=Right Foot
-左足=Left Foot
-左尻=Left Buttcheek
-右尻=Right Buttcheek
-左腕=Left Arm
-右腕=Right Arm
+//paint body:
+// RedirectedResources/assets/abdata/list/characustom/*/bodypaint_layout_*
+
 
 //accessories
 ポニー=Ponytail
-ツイン左=L Twin
-ツイン右=R Twin
+ツイン左=L Twintail
+ツイン右=R Twintail
 ヘアピン左=L Hairpin
 ヘアピン右=R Hairpin
 帽子=Hat
-額=Brow
+額=Forehead
 頭中心=Center of Head
 //Face#
 左耳=L Ear
@@ -125,10 +73,10 @@
 //Mouth#
 //Neck#
 胸上=Throat
-胸上中央=Center of Neck
+胸上中央=Center of Chest
 左胸=L Chest
 右胸=R Chest
-背中中央=Mid Back
+背中中央=Center Back
 背中左=L Back
 背中右=R Back
 //Waist#
@@ -144,6 +92,8 @@
 右足首=R Ankle
 かかと左=L Heel
 かかと右=R Heel
+//L Shoulder#
+//R Shoulder#
 左肘=L Elbow
 右肘=R Elbow
 左上腕=L up arm
@@ -158,20 +108,21 @@
 右中指=R Middle
 左薬指=L Ring
 右薬指=R Ring
-下腹部①=Low Ab1
-下腹部②=Low Ab2
-下腹部③=Low Ab3
+下腹部①=Crotch①
+下腹部②=Crotch②
+下腹部③=Crotch③ 
 
 //------------------------------------------------------------
 // Tabs
 //------------------------------------------------------------
 //pattern also used in Color fields
-種類=Pattern
-カラー=Color
+種類=Type
+//カラー=Color
+親=Position
+配置=Arrange
+その他=Other
 親=Parent
-調整=Adjust
-配置=Arrangement
-その他=Misc
+
 
 //------------------------------------------------------------
 // Pattern fields
@@ -181,10 +132,12 @@
 //------------------------------------------------------------
 // Color fields
 //------------------------------------------------------------
-ツヤ=Gloss
+//Color
+ツヤ=Shine
 質感=Texture
 カラーサンプル=Color Sample
 柄設定=Pattern Setting
+柄=Pattern Type
 
 //------------------------------------------------------------
 // Misc fields
@@ -199,35 +152,37 @@
 //eye
 幅=Width
 高さ=Height
-X位置=X Position
-Y位置=Y Position
-傾き=Incline
+X位置=X Axis
+Y位置=Y Axis
+傾き=Angle
 
 位置X=Position X
 位置Y=Position Y
 
-位置=Tran
-回転=Rot
+位置=Move
+回転=Rotate
 拡縮=Scale
 
-移動量=Step
-回転量=Step
-拡縮量=Step
+移動量=Move Unit
+回転量=Rotate Unit
+拡縮量=Scale Unit
 
-操作軸=Op Axis
-移動=Mov
-速度=Spd
+操作軸=Show Axis
+移動=Move
+速度=Speed
 大きさ=Size
 
 揺らさない=Rigid
 
 //Hair
+操作軸設定=Axis Settings
+全ての操作軸=Show Axis
 移動X=Move X
 移動Y=Move Y
 移動Z=Move Z
-回転X=Rotation X
-回転Y=Rotation Y
-回転Z=Rotation Z
+回転X=Rotate X
+回転Y=Rotate Y
+回転Z=Rotate Z
 
 全て初期化=Reset All
 初期親=Initial Parent
@@ -241,7 +196,11 @@ Y位置=Y Position
 透明度=Alpha
 色合い=Hue
 鮮やかさ=Saturation
-明るさ=Brightness
+明るさ=Value
+赤=Red
+緑=Green
+青=Blue
+
 //Sample#
 左クリックで適用=Left-Click to Apply
 
@@ -255,65 +214,12 @@ Y位置=Y Position
 //------------------------------------------------------------
 // Paint
 //------------------------------------------------------------
-星=Star
-三日月=Crescent Moon
-水滴=Water Droplet
-絆創膏=Bandage Plaster
-十字=Cross
-五十字=Five Crosses
-蝶=Butterfly
-クモ=Spider
-クモの巣=Spiderweb
-禁止=Prohibited
-陰陽=Yin-Yang
-キスマーク=Kiss Mark
-瞳=Pupil
+// RedirectedResources/assets/abdata/list/characustom/*/st_paint_*
 
 //------------------------------------------------------------
 // Patterns
 //------------------------------------------------------------
-ストライプ=Vertical Stripes
-ボーダー=Horizontal Stripes
-チェックA=Checkered A
-水玉=Polka Dots
-イチゴ=Strawberries
-ハーリキンチェック=Harlequin Checkered
-星B=Stars B
-チェックB=Checkered B
-千鳥格子=Hound's Tooth
-網=Netting
-ヒョウ=Leopard Print
-ゼブラ=Zebra
-迷彩=Camouflage
-レンガ=Brick
-編み込み=Weaved
-市松=Checkered
-麻の葉=Hexagons
-青海波=Ocean Waves
-唐草=Arabesque
-矢絣=Arrow Feathers
-ノルデック=Nordic
-鹿子=Deerskin
-亀甲花菱=Turtleshell Flowers
-星A=Stars A
-ドクロ=Skull
-グラデーションボーダー=Gradient
-花柄=Flowers
-縦線=Vertical Lines
-横線=Horizontal Lines
-モザイク=Mosaic
-アーガイル=Argyle
-チマヨ=Chimayo
-ギンガムチェック=Gingham Checkered
-変則ストライプ=Irregular Vertical Stripes
-変則ボーダー=Irregular Horizontal Stripes
-丸=Circle
-ペイズリー=Paisley
-エイシェント=Ancient
-南国リーフ=Tropical Leaf
-ハイビスカス=Hibiscus
-スポーツ=Sports
-ストライプ細=Striped Thin
+// RedirectedResources/assets/abdata/list/characustom/*/st_pattern_*
 
 //************************************************************
 // Main Menues (Left side)
@@ -330,7 +236,7 @@ Y位置=Y Position
 //------------------------------------------------------------
 フェイス=Face
 
-顔周り=Face Area
+顔周り=Face Settings
 顔のタイプ=Facial Type
 //Jaw#
 頬=Cheeks
@@ -340,9 +246,11 @@ Y位置=Y Position
 //Mouth#
 //Ears#
 ホクロの設定=Moles
+//Male editor:
+ヒゲのタイプ=Mustache type
 
-目周り=Eye Area
-左右の設定を合わせる=Adjust Left and Right
+目周り=Eye Settings
+左右の設定を合わせる=Set both left and right eyes
 左目=Left Eye
 右目=Right Eye
 //Eye Settings#
@@ -352,7 +260,7 @@ Y位置=Y Position
 
 化粧=Makeup
 アイシャドウ=Eye Shadow
-チーク=Blush
+チーク=Cheeks
 リップ=Lips
 
 //------------------------------------------------------------
@@ -375,13 +283,16 @@ Y位置=Y Position
 アンダーヘア=Pubic Hair
 爪の色=Nail Color
 
+特殊=Special
+ふたなり=Futanari
 //------------------------------------------------------------
 // Hair
 //------------------------------------------------------------
 ヘアー=Hair
 
-前髪と後ろ髪の色を統一=Match Bangs and Back
-根本と毛先の色を自動設定=Auto Set Highlights
+前髪と後ろ髪の色を統一=Match back and bangs color
+根本と毛先の色を自動設定=Auto Set root and tip colors
+髪の調整をまとめて行う=Match Hair Axis Settings
 
 後ろ髪=Back Hair
 後ろ髪の設定=Back Hair Settings
@@ -392,10 +303,10 @@ Y位置=Y Position
 横髪=Side Hair
 横髪の設定=Side Hair Settings
 
-エクステ=Extensions
-エクステの設定=Extension Settings
+エクステ=Hair Extensions
+エクステの設定=Hair Extensions Settings
 
-描画設定=Graphics
+描画設定=Render Settings
 
 //------------------------------------------------------------
 // Clothing
@@ -412,11 +323,16 @@ Y位置=Y Position
 靴下=Socks
 靴=Shoes
 
+衣装カード=Costume Card
+//Save / Delete
+// Load
 //------------------------------------------------------------
 // Accessory
 //------------------------------------------------------------
-アクセサリー=Accessory
-
+アクセサリー=Accessories
+スロット=Slot
+コピー=Copy
+コピーする=Make a Copy
 頭=Head
 //Ears#
 //Eyewear#
@@ -429,7 +345,7 @@ Y位置=Y Position
 //Arm#
 手=Hand
 //Leg#
-
+下腹部=Crotch
 スロット=Slot
 
 //------------------------------------------------------------
@@ -447,13 +363,14 @@ Y位置=Y Position
 読込み=Load
 
 システム=System
-状態設定表示=Status Setting Display
-スライダーホイール操作=Slider Wheel Operation
+状態設定表示=Display "Settings" Window
+ウィンドウ配置の初期化=Reset Windows Positions
+スライダーホイール操作=Use Mouse Weel in Sliders
 
 コンフィグ=Config
-注視点の表示=Show Crosshair
-BGM音量=BGM vol
-SE音量=SFX vol
+注視点の表示=Display Focal Point
+BGM音量=BGM Volume
+SE音量=SFX Volume
 
 //************************************************************
 // Sub Menues (Right side)
@@ -462,6 +379,9 @@ SE音量=SFX vol
 //------------------------------------------------------------
 // Face -> Face Type
 //------------------------------------------------------------
+// RedirectedResources/assets/abdata/list/characustom/*/ft_detail_f_*
+// RedirectedResources/assets/abdata/list/characustom/*/mt_detail_f_*
+
 輪郭=Contour
 //Skin#
 シワ=Wrinkles
@@ -492,7 +412,7 @@ SE音量=SFX vol
 //------------------------------------------------------------
 // Face -> Overall
 //------------------------------------------------------------
-顔全体横幅=Overall Width
+顔全体横幅=Head Width
 顔上部前後=Upper Depth
 顔上部上下=Upper Height
 顔下部前後=Lower Depth
@@ -506,7 +426,7 @@ SE音量=SFX vol
 顎前後=Jaw Depth
 顎角度=Jaw Angle
 顎下部上下=Neck Droop
-顎先幅=Chin Width
+顎先幅=Chin Size
 顎先上下=Chin Height
 顎先前後=Chin Depth
 
@@ -527,7 +447,7 @@ SE音量=SFX vol
 眉の高さ=Height
 眉の位置X=Position X
 眉の位置Y=Position Y
-眉の傾き=Tilt
+眉の傾き=Angle
 
 //------------------------------------------------------------
 // Face -> Eye
@@ -549,10 +469,10 @@ SE音量=SFX vol
 //------------------------------------------------------------
 // Face -> Nose
 //------------------------------------------------------------
-鼻全体上下=Height
-鼻全体前後=Projection
-鼻全体角度X軸=Angle
-鼻全体横幅=Width
+鼻全体上下=Nose Height
+鼻全体前後=Nose Depth
+鼻全体角度X軸=Nose Angle
+鼻全体横幅=Nose Size
 鼻筋高さ=Bridge Height
 鼻筋横幅=Bridge Width
 鼻筋形状=Bridge Shape
@@ -561,9 +481,9 @@ SE音量=SFX vol
 小鼻前後=Nostril Length
 小鼻角度X軸=Nostril Inner Width
 小鼻角度Z軸=Nostril Outer Width
-鼻先高さ=Tip Length
-鼻先角度X軸=Tip Height
-鼻先サイズ=Tip Size
+鼻先高さ=Nose Tip Length
+鼻先角度X軸=Nose Tip Height
+鼻先サイズ=Nose Tip Size
 
 //------------------------------------------------------------
 // Face -> Mouth
@@ -571,7 +491,7 @@ SE音量=SFX vol
 口上下=Mouth Height
 口横幅=Mouth Width
 口縦幅=Lip Thickness
-口前後位置=Projection
+口前後位置=Depth
 口形状上=Upper Lip Thickness
 口形状下=Lower Lip Thickness
 口形状口角=Corner Shape
@@ -588,19 +508,10 @@ SE音量=SFX vol
 //------------------------------------------------------------
 // Face -> Moles
 //------------------------------------------------------------
-ホクロ=Mole
-ホクロ２=Mole 2
-ソバカス=Buckwheat
-ソバカス２=Buckwheat 2
+// RedirectedResources/assets/abdata/list/characustom/*/st_mole_*
+// RedirectedResources/assets/abdata/list/characustom/*/mole_layout_*
 
-左の口元=Left Mouth
-右の口元=Right Mouth
-左の口上=Left Mouth Above
-右の口上=Right Mouth Above
-左の目元=Left Eye
-右の目元=Right Eye
-額中央=Front Center
-そばかす=Freckle
+//Arrangement
 ホクロの幅=Mole Width
 ホクロの高さ=Mole Height
 ホクロの位置X=Mole Position X
@@ -609,19 +520,19 @@ SE音量=SFX vol
 //------------------------------------------------------------
 // Face -> Left/Right Eye
 //------------------------------------------------------------
-白目=Whites
-瞳の種類=Type
+白目=Eye Whites
+瞳の種類=Iris Type
 //Eye Settings#
 瞳孔種類=Pupil Type
-瞳孔設定=Pupil Setting
+瞳孔設定=Pupil Settings
 
-発光=Light Emission
+発光=Glow
 
 //------------------------------------------------------------
 // Face -> Eye Settings
 //------------------------------------------------------------
-設定=Config
-高さ調整=Height Adjustment
+設定=Settings
+高さ調整=Adjust Height
 影の範囲=Shadow Range
 
 //------------------------------------------------------------
@@ -651,8 +562,8 @@ SE音量=SFX vol
 //------------------------------------------------------------
 首周り幅=Neck Width
 首周り奥=Neck Thickness
-胴体肩周り奥=Thorax Thicknes
-胴体肩周り幅=Thorax Width
+胴体肩周り奥=Shoulder Thickness
+胴体肩周り幅=Shoulder Width
 胴体上幅=Chest Width
 胴体上奥=Chest Thickness
 胴体下幅=Waist Width
@@ -673,7 +584,7 @@ SE音量=SFX vol
 // Body -> Arm
 //------------------------------------------------------------
 //Shoulder#
-上腕=Upper Arm
+上腕=Upper Arms
 前腕=Forearm
 
 //------------------------------------------------------------
@@ -682,194 +593,212 @@ SE音量=SFX vol
 太もも上=Thighs
 太もも下=Legs
 ふくらはぎ=Calves
-足首=Ankle
+足首=Ankles
 
 //------------------------------------------------------------
 // Body -> Skin Type
 //------------------------------------------------------------
-肉感=Strength
-肉感の強さ=Strength
-普通=Normal
-ムキムキ=Muscular
-ポッチャリ=Chubby
-スレンダー=Slender
+// RedirectedResources/assets/abdata/list/characustom/*/ft_detail_b_*
+// Male editor:
+// RedirectedResources/assets/abdata/list/characustom/*/mt_detail_b_*
+
+肉感=Build
+肉感の強さ=Definition
 
 //------------------------------------------------------------
 // Body -> Suntan
 //------------------------------------------------------------
-ワンピースライン１=One-piece Line 1
-ワンピースライン２=One piece Line 2
-レーシングライン=Racing Line
-スクール水着ライン=School Swimsuit Line
-ビキニライン=Bikini Line
-マイクロライン１=Micro Line 1
-マイクロライン２=Micro Line 2
-チューブトップライン=Tube Top Line
-ランジェリーライン=Lingerie Line
-キャミソールライン=Camisole Line
-スポーツライン=Sports Line
-体操着ライン=Gymnastics Wear Line
-ナチュラルライン1=Natural Line 1
-ナチュラルライン2=Natural Line 2
+// RedirectedResources/assets/abdata/list/characustom/*/ft_sunburn_*
+
 
 //------------------------------------------------------------
 // Body -> Public Hair
 //------------------------------------------------------------
-四角=Rectangular
-円形=Round
-薄小=Thin
-薄四角=Thin Square
-薄円形=Thin Circle
-小円形=Small Circle
-大三角=Large Triangle
-小三角=Small Triangle
-Iライン=I Line
-細Iライン=Fine I Line
-長菱=Chonbishi
-//Heart#
-まばら=Sparse
-ナチュラル=Natural
+// RedirectedResources/assets/abdata/list/characustom/*/st_underhair_*
+
 
 //------------------------------------------------------------
-// Hair -> Back Hair/Bangs
+// Hair -> Back Hair
 //------------------------------------------------------------
-//Both
-ショートヘア=Short Hair
-ウェーブロング=Wave Long
-外はねミディアム=Medium Outside
-外はねショート=Short, Swept Out
-//Back
-ストレートロング=Straight Long
-くせっけショート=Short, Curled
-ボリュームポニー=Volume Pony
-細ツインテール=Thin Twintails
-セミロング=Semi-Long
-ぱっつんロング=Pad Long
-ツイン前おさげ=Twin Front Pigtails
-後ろおさげ=Pigtails Behind
-はねっけロング=Hanekke Long
-ツインロール=Twin Roll
-ぱっつんミディアム=Pattsu Medium
-横おさげ=Side Pigtails
-//Bangs
-ロングヘア=Long Hair
-くせっ毛ショート=Short, Curled
-横分け=Side by Side
-エムバング=Embang
-梳き髪=Combed Hair
-姫カット=Princess Cut
-でこだし中わけ=Breaking Out
-片目隠し=One Blindfold
-はねっ毛=Lashes
-アシンメトリ=Asymmetry
-ぱっつんミデイアム=Patsun Medium
-切り揃えショート=Trim Short
-//Side
-太もみあげ=Thick Sideburns
-ロングもみあげ=Long Sideburns
-細もみあげ=Fine Sideburns
-カール=Curl
-ポニーおくれ毛=Pony Combing Hair
-三つ編み=Braided
-細三つ編み=Thin Braid
-//Extentions
-横あほ毛=Horizontal Hair
-2本あほ毛=2 Ahoge
-上向きあほ毛=Upwards
-前あほ毛=Ahoge
-お団子=Dumpling
-編みカチューシャ=Braided Headband
-後ろ編み込み=Back Weave
+// RedirectedResources/assets/abdata/list/characustom/*/so_hair_b_*
 
-髪設定=Hair setting
+//------------------------------------------------------------
+// Hair -> Bangs
+//------------------------------------------------------------
+// RedirectedResources/assets/abdata/list/characustom/*/so_hair_f_*
+
+//------------------------------------------------------------
+// Hair -> Extentions
+//------------------------------------------------------------
+// RedirectedResources/assets/abdata/list/characustom/*/so_hair_o_*
+
+髪設定=Color
 滑らかさ=Smoothness
 基本カラー=Basic Color
 根本カラー=Root Color
 毛先カラー=Tips Color
-ツヤカラー=Glossy Color
+ツヤカラー=Shine Color
 
-装飾設定=Decoration Settings
+装飾設定=Accessories Settings
 
 //------------------------------------------------------------
 // Clothing -> Tops
 //------------------------------------------------------------
-ワンピース=One-Piece
-Tシャツ=T-shirt
-キャミソールA=Camisole A
+// RedirectedResources/assets/abdata/list/characustom/*/fo_top_*
+
+// Male tops:
+// RedirectedResources/assets/abdata/list/characustom/*/mo_top_*
+
 
 //------------------------------------------------------------
 // Clothing -> Bottoms
 //------------------------------------------------------------
-ショートパンツ=Short Pants
-ホットパンツ=Hotpants
-プリーツスカート=Pleated Skirt
+// RedirectedResources/assets/abdata/list/characustom/*/fo_bot_*
+// Male Bottom:
+// RedirectedResources/assets/abdata/list/characustom/*/mo_bot_*
+
 
 //------------------------------------------------------------
-// Clothing -> Inner Top/Bottom
+// Clothing -> Inner Top
 //------------------------------------------------------------
-ノーマル=Normal
-リボンビキニ=Ribbon Bikini
+// RedirectedResources/assets/abdata/list/characustom/*/fo_inner_t_*
+
+//------------------------------------------------------------
+// Clothing -> Inner Bottom
+//------------------------------------------------------------
+// RedirectedResources/assets/abdata/list/characustom/*/fo_inner_b_*
 
 //------------------------------------------------------------
 // Clothing -> Gloves
 //------------------------------------------------------------
-軍手=Work Gloves
+// RedirectedResources/assets/abdata/list/characustom/*/fo_gloves_*
+// Male Gloves:
+// RedirectedResources/assets/abdata/list/characustom/*/mo_gloves_*
 
 //------------------------------------------------------------
 // Clothing -> Pantyhose
 //------------------------------------------------------------
-ストッキング=Stockings
+// RedirectedResources/assets/abdata/list/characustom/*/fo_panst_*
+
 
 //------------------------------------------------------------
 // Clothing -> Socks
 //------------------------------------------------------------
-ソックス=Socks
+// RedirectedResources/assets/abdata/list/characustom/*/fo_socks_*
 
 //------------------------------------------------------------
 // Clothing -> Shoes
 //------------------------------------------------------------
-ビーチサンダル=Beach Sandals
+// RedirectedResources/assets/abdata/list/characustom/*/fo_shoes_*
+// Male Shoes:
+// RedirectedResources/assets/abdata/list/characustom/*/mo_shoes_*
+
 
 //------------------------------------------------------------
-// Accessories
+// Clothing -> Costume Card
 //------------------------------------------------------------
-//Head
-ヘアピン=Hairpin
-うさ耳リボン=Rabbit Ear Ribbon
+服読込み=Load Clothing
+装飾読込み=Load\nAccessories
+全て読込み=Load All
+コーディネート名=Clothing Set Name
+//Return
+決定=Accept
 
-//Ears
-スター=Star
+//------------------------------------------------------------
+// Accessories - Head
+//------------------------------------------------------------
+// RedirectedResources/assets/abdata/list/characustom/*/ao_head_*
 
-//Eyes
-スクエア=Square
+//------------------------------------------------------------
+// Accessories - Ears
+//------------------------------------------------------------
+// RedirectedResources/assets/abdata/list/characustom/*/ao_ear_*
 
-//Face
-ピエロの鼻=Clown Nose
 
-//Neck
-コアキューブ=Core Cube
+//------------------------------------------------------------
+// Accessories - Glasses
+//------------------------------------------------------------
+// RedirectedResources/assets/abdata/list/characustom/*/ao_glasses_*
 
-//Shoulder
-トートバッグ=Tote Bag
+//------------------------------------------------------------
+// Accessories - Face
+//------------------------------------------------------------
+// RedirectedResources/assets/abdata/list/characustom/*/ao_face_*
 
-//Chest
-シンプルリング=Simple Ring
+//------------------------------------------------------------
+// Accessories - Neck
+//------------------------------------------------------------
+// RedirectedResources/assets/abdata/list/characustom/*/ao_neck_*
 
-//Waist
-ウエストバッグ=Waist Bag
 
-//Back
-リュック=Backpack
+//------------------------------------------------------------
+// Accessories - Shoulder
+//------------------------------------------------------------
+// RedirectedResources/assets/abdata/list/characustom/*/ao_shoulder_*
 
-//Arm
-腕章A=Armband A
+//------------------------------------------------------------
+// Accessories - Breasts
+//------------------------------------------------------------
+// RedirectedResources/assets/abdata/list/characustom/*/ao_chest_*
 
-//Hand
-シンプル指輪=Simple Ring
 
-//Leg
-ミサンガA右=Friendship Bracelet A Right
-ミサンガA左=Friendship Bracelet A Left
+//------------------------------------------------------------
+// Accessories - Waist
+//------------------------------------------------------------
+// RedirectedResources/assets/abdata/list/characustom/*/ao_waist_*
+
+
+//------------------------------------------------------------
+// Accessories - Back
+//------------------------------------------------------------
+// RedirectedResources/assets/abdata/list/characustom/*/ao_back_*
+
+//------------------------------------------------------------
+// Accessories - Arm
+//------------------------------------------------------------
+// RedirectedResources/assets/abdata/list/characustom/*/ao_arm_*
+
+
+//------------------------------------------------------------
+// Accessories - Hand
+//------------------------------------------------------------
+// RedirectedResources/assets/abdata/list/characustom/*/ao_hand_*
+
+
+//------------------------------------------------------------
+// Accessories - Leg
+//------------------------------------------------------------
+// RedirectedResources/assets/abdata/list/characustom/*/ao_leg_*
+
+
+//------------------------------------------------------------
+// Accessories - Lower Belly
+//------------------------------------------------------------
+// RedirectedResources/assets/abdata/list/characustom/*/ao_kokan_*
+
+
+//------------------------------------------------------------
+// Accessories - Make a copy
+//------------------------------------------------------------
+コピー元を選択=Source
+コピー先を選択=Destination
+左右の親を変更=Change Left and Right Parent
+スロットをコピー=Copy Slot
+調整値のコピー=Copy Adjustment Values
+調整①=Adjustment ①
+調整②=Adjustment ②
+調整①を上下反転=Flip ① Upside Down
+調整②を上下反転=Flip ② Upside Down
+調整①を左右反転=Flip ① Horizontally
+調整②を左右反転=Flip ② Horizontally
+
+
+//------------------------------------------------------------
+// Accessories - Extra
+//------------------------------------------------------------
+髪の毛の色を取得=Get hair color
+初期親=Default Position
+初期化=Reset All
 
 //------------------------------------------------------------
 // Options -> Name / Birthday
@@ -896,7 +825,7 @@ Tシャツ=T-shirt
 //------------------------------------------------------------
 // Options -> Save / Delete
 //------------------------------------------------------------
-消去=Erase
+消去=Delete
 新規保存=Save New
 上書き保存=Save
 
@@ -915,6 +844,15 @@ Tシャツ=T-shirt
 ソート=Sort
 //Name#
 日付=Date
+
+//------------------------------------------------------------
+// Options -> Fusion
+//------------------------------------------------------------
+キャラカードA=Character Card A
+キャラカードB=Character Card B
+融合=Fusion
+掛け合わせる=Fuse Cards
+終了=Close
 
 //------------------------------------------------------------
 // Settings Box (parts also used in shooting menu)
@@ -972,51 +910,32 @@ Tシャツ=T-shirt
 //************************************************************
 本当に上書きしますか？=Are you sure you want to overwrite this?
 本当に削除しますか？=Are you sure you want to delete this?
-終了しますか？=Do you want to exit?
+終了しますか？=Exit character maker?
 
 確定=Confirm
 キャンセル=Cancel
 
 
+//************************************************************
+// Editing girls when you click in "edit"
+//************************************************************
+保存して終了=Save and Exit
+保存しないで終了=Exit\nWithout Saving
+編集に戻る=Return to Editor
+撮影=Take Photo
+撮影し直す=Reshoot
 
-
+//Dialogue
+キャラ編集を終了しますか？=Quit editing this character?
 
 //************************************************************
 // Unsorted
 //************************************************************
 なし=None
-コピー=Copy
-終了=End
-スロットをコピー=Copy Slot
-初期化=Reset
-特殊=Special
-柄=Pattern
-色相=Hue
-彩度=Saturation
-服読込み=Load Clothing
-全て読込み=Load All
-明度=Brightness
-コピー先を選択=Select Copy Destination
-キャラカードA=Character Card A
-キャラカードB=Character Card B
-調整①を上下反転=Flip Adjustment ① Upside Down
-調整②を上下反転=Flip Adjustment ② Upside Down
-調整①を左右反転=Flip Adjustment ① Horizontally
-調整②を左右反転=Flip Adjustment ② Horizontally
-調整①=Adjustment ①
-調整②=Adjustment ②
-衣装カード=Costume Card
-ホクロのタイプ=Mole Type
-左クリックで現在のカラーを登録=Left Click to Register Current Color
-コピー元を選択=Select Copy Source
-装飾読込み=Decorative Reading
-掛け合わせる=Multiply
-ふたなり=Futanari
-調整値のコピー=Copy Adjustment Values
-肌のタイプ=Skin Type
-コピーする=Make a Copy
-下腹部=Lower Abdomen
-左右の親を変更=Change Left and Right Parent
-融合=Fusion
-髪の調整をまとめて行う=Make Hair Adjustments Together
+ホクロのタイプ=Mole type
+肌のタイプ=Skin type
+メッシュ=Mesh
+肌の色に合わせる=Match to Skin Color
+メッシュ設定=Mesh Settings
+
 

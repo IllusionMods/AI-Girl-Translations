@@ -1,5 +1,5 @@
 //
 // Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
 //
-//鉢金=
-//くノ一の髪飾り=
+鉢金=Ninja Girl Band
+くノ一の髪飾り=Ninja Girl Ornament

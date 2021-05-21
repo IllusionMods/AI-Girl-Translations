@@ -1,6 +1,6 @@
 //
 // Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
 //
-//追加=
-//追加女H=
-//追加男H=
+追加=Add Point
+追加女H=Female H Extra
+追加男H=Male H Extra

@@ -1,11 +1,11 @@
 //
 // Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
 //
-//ビーチチェア=
-//ビーチパラソル=
-//サーフボード=
-//かき氷機=
+ビーチチェア=Beach Chair
+ビーチパラソル=Beach Parasol
+サーフボード=Surfboard
+かき氷機=Shaved Ice Machine
 //かき氷=
 //スプーンストロー=
-//提灯=
-//すのこ=
+提灯=Paper Lantern
+すのこ=Slatted Wood

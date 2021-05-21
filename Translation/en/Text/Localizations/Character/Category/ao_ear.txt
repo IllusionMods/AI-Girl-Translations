@@ -1,12 +1,12 @@
 //
 // Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
 //
-//スター=
-//スターリング=
-//クリスタル=
-//クリスタルピラー=
-//三連イヤリング=
-//フラワー=
-//パール=
-//雪の結晶ピアス=
-//ウェディングパール=
+スター=Star
+スターリング=Sterling
+クリスタル=Crystal
+クリスタルピラー=Crystal Pillar
+三連イヤリング=Triple Earrings
+フラワー=Flower
+パール=Pearl
+雪の結晶ピアス=Snowflake Earring
+ウェディングパール=Wedding Pearl

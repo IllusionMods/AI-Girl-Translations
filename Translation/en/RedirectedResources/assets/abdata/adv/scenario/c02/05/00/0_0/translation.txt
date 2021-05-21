@@ -1,12 +1,12 @@
 //
 // Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
 //
-//ふふ、気にしてるの？　大丈夫、素敵な人よ=
-//正直、かなり良い方だと思うわ=
-//すごくいいと思うわ。もっと自信を持っていいんじゃない？=
-//いいと思うわ。私基準の話だけれど……=
-//そうね……悪くはないと思うわ=
-//んー……特に不満はないわね=
-//……言わなきゃ伝わらないかしら？=
-//……特に。何とも思ってないわ=
-//……正直に答えるなら、嫌な人よ=
+ふふ、気にしてるの？　大丈夫、素敵な人よ=Fufu, are you curious? It's okay, you're wonderful person.
+正直、かなり良い方だと思うわ=Honestly, I think you're a pretty good person.
+すごくいいと思うわ。もっと自信を持っていいんじゃない？=I think you're great. Isn't it alright to have more confidence in yourself?
+いいと思うわ。私基準の話だけれど……=I think you're good. That's just my opinion though...
+そうね……悪くはないと思うわ=Well... I don't think you're bad.
+んー……特に不満はないわね=Hmm... I don't have any particular complaints.
+……言わなきゃ伝わらないかしら？=...Is this something I have to answer?
+……特に。何とも思ってないわ=Not much. I don't have an opinion on you.
+……正直に答えるなら、嫌な人よ=...If I have to answer honestly, you're a disgusting person.

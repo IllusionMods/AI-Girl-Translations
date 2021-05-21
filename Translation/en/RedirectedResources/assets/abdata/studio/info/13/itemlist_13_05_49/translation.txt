@@ -1,9 +1,9 @@
 //
 // Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
 //
-//悪魔の角=
-//サキュバスチョーカー=
-//サキュバスアームレット=
-//サキュバス尻尾=
-//サキュバスの翼右用=
-//サキュバスの翼左用=
+悪魔の角=Devil Horns
+サキュバスチョーカー=Succubus Choker
+サキュバスアームレット=Succubus Armlet
+サキュバス尻尾=Succubus Tail
+サキュバスの翼右用=Right Succubus Wing
+サキュバスの翼左用=Left Succubus Wing

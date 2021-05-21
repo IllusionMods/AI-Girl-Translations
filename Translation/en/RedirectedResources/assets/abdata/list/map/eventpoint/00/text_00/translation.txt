@@ -1,15 +1,15 @@
 //
 // Dumped for AI Girl v1.2.3 by Text Dump v1.4.4
 //
-//調べる=
-//開く=
-//開ける=
-//カギを開ける=
-//開けますか？=
-//カギを開けますか？=
-//電気が通るようになりました。=
-//船を修理しました。=
-//ドアが開くようになりました。=
-//データ端末が使えるようになりました。=
-//扉を開ける=
-//ロックを解除しますか？=
+調べる=Inspect
+開く=Open
+開ける=Open it
+カギを開ける=Unlock door
+開けますか？=Do you want to open it?
+カギを開けますか？=Do you want to unlock it?
+電気が通るようになりました。=Electricity now working.
+船を修理しました。=The ship has been repaired.
+ドアが開くようになりました。=The door is now open.
+データ端末が使えるようになりました。=The data terminal is now working.
+扉を開ける=Open Door
+ロックを解除しますか？=Do you want to unlock it?

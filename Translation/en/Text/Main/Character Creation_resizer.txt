@@ -1,0 +1,34 @@
+#set level 4
+
+CharaCustom/CustomControl=ChangeFontSizeByPercentage(0.9)
+CharaCustom/CustomControl=UGUI_ChangeLineSpacing(0.5)
+
+CharaCustom/CustomControl/CanvasDraw/DrawWindow=ChangeFontSizeByPercentage(0.55)
+CharaCustom/CustomControl/CanvasDraw/DrawWindow=UGUI_ChangeLineSpacing(1.0)
+CharaCustom/CustomControl/CanvasDraw/DrawWindow/dwChara/eyebrow=AutoResize(true)
+
+// /CharaCustom/CustomControl=ChangeFontSizeByPercentage(0.9)
+// /CharaCustom/CustomControl=UGUI_ChangeLineSpacing(0.7)
+
+CharaCustom/CustomControl/CanvasSub/SettingWindow=ChangeFontSizeByPercentage(0.775)
+CharaCustom/CustomControl/CanvasSub/SettingWindow=UGUI_ChangeLineSpacing(0.7)
+CharaCustom/CustomControl/CanvasSub/SettingWindow/WinAccessory=UGUI_HorizontalOverflow(wrap)
+CharaCustom/CustomControl/CanvasSub/SettingWindow/WinOption/DefaultWin/O_Status/Setting/=ChangeFontSizeByPercentage(0.65)
+
+// /CharaCustom/CustomControl/CanvasDraw/DrawWindow=ChangeFontSizeByPercentage(0.8)
+// /CharaCustom/CustomControl/CanvasDraw/DrawWindow=UGUI_ChangeLineSpacing(1.0)
+
+CharaCustom/CustomControl/CanvasSub/SettingWindow/WinOption/DefaultWin/O_Chara/ddBirthday/textKindTitle=UGUI_VerticalOverflow(truncate)
+CharaCustom/CustomControl/CanvasSub/SettingWindow/WinOption/DefaultWin/O_Chara/ddBirthday/textKindTitle=ChangeFontSizeByPercentage(1.29)
+
+
+// Accessory parents
+
+CharaCustom/CustomControl/CanvasSub/SettingWindow/WinAccessory/A_Slot/Setting/Setting01/AccessoryType=UGUI_VerticalOverflow(overflow)
+
+
+
+
+
+
+
