@@ -1,0 +1,19 @@
+//
+// Dumped for AI Girl v1.2.3 by Mod Text Dump v0.0.1: 2021-05-26
+//
+
+// custom/00/anim_f_00.unity3d
+マネキン1=Mannequin 1
+マネキン2=Mannequin 2
+
+// custom/30/30.unity3d
+ポーズ02=Pose 02
+ポーズ03=Pose 03
+ポーズ04=Pose 04
+ポーズ05=Pose 05
+ポーズ06=Pose 06
+ポーズ07=Pose 07
+ポーズ08=Pose 08
+ポーズ09=Pose 09
+ポーズ10=Pose 10
+ポーズ11=Pose 11

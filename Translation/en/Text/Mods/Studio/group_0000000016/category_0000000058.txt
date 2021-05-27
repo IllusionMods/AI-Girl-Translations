@@ -1,0 +1,16 @@
+//
+// Dumped for AI Girl v1.2.3 by Mod Text Dump v0.0.1: 2021-05-26
+// #set exe StudioNEOV2
+//
+
+#set exe StudioNEOV2
+
+
+// studio/34.unity3d
+和風の棚1=和風の棚 1
+和風の棚2=和風の棚 2
+小さな和風棚=Small Japanese style shelves
+鏡台=Mirror stand
+掛け軸=Hanging scrolls
+着物かけ=Kimono hangings
+釜=Kettles

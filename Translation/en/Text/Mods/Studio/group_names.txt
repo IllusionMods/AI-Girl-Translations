@@ -1,0 +1,14 @@
+//
+// Dumped for AI Girl v1.2.3 by Mod Text Dump v0.0.1: 2021-05-26
+// #set exe StudioNEOV2
+//
+
+#set exe StudioNEOV2
+
+ベース2=Base 2
+家具2=Furniture 2
+置物2=置物 2
+キャラ2=Character 2
+武器2=Weapons 2
+M-スタジオ=M- Studio
+傲娇的小扬=Tsundere Young

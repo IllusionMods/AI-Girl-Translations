@@ -1,0 +1,18 @@
+//
+// Dumped for AI Girl v1.2.3 by Mod Text Dump v0.0.1: 2021-05-26
+// #set exe StudioNEOV2
+//
+
+#set exe StudioNEOV2
+
+
+// studio/34.unity3d
+ふすま=bran
+障子=shoji
+畳床(大)=畳床 (Large)
+畳1=Tatami Mat 1
+畳2=Tatami Mat 2
+ししおどし=Shishi-odoshi
+小さな灯篭=Small lanterns
+石の皿=Stone plate
+石橋=Stone bridge
