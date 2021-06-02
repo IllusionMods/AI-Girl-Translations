@@ -1,6 +1,5 @@
 //
 // Dumped for AI Girl v1.2.3 by Mod Text Dump v0.0.1: 2021-05-26
-// #set exe StudioNEOV2
 //
 
 #set exe StudioNEOV2
@@ -12,8 +11,8 @@
 猿轡 B2=Gag  B2
 
 // nullpon_mask_tsumibukuro/nullpon_mask_tsumibukuro/data_prefab_000.unity3d
-罪袋=Sin bag
+罪袋=Sin Bag
 袋(´・ω・`)=Bag (´・ω・`)
-袋（穴あき）=Bag (perforated)
-袋（黒）=Bag (black)
-袋（白）=Bag (white)
+袋（穴あき）=Bag (With Holes)
+袋（黒）=Bag (Black)
+袋（白）=Bag (White)

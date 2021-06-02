@@ -1,6 +1,5 @@
 //
 // Dumped for AI Girl v1.2.3 by Mod Text Dump v0.0.1: 2021-05-26
-// #set exe StudioNEOV2
 //
 
 #set exe StudioNEOV2
@@ -8,5 +7,5 @@
 寝具=Bedding
 机=Desk
 椅子=Chair
-キッチンカウンター=Kitchen counter
+キッチンカウンター=Kitchen Counter
 照明=Lighting

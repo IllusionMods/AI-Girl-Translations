@@ -1,6 +1,5 @@
 //
 // Dumped for AI Girl v1.2.3 by Mod Text Dump v0.0.1: 2021-05-26
-// #set exe StudioNEOV2
 //
 
 #set exe StudioNEOV2
@@ -21,9 +20,9 @@
 [SENA]忍刀（納刀）=[SENA] Ninja Sword (Sword)
 [SENA]忍刀（鞘）=[SENA] Ninja Sword (Sheath)
 [SENA]忍刀(抜刀）=[SENA] Ninja Sword (Sword)
-[SENA]槍=[SENA] 槍
-[SENA]槍(鞘付）=[SENA] Spear (with sheath)
-[SENA]薙刀=[SENA] 薙刀
-[SENA]薙刀(鞘付）=[SENA] Cleaver (with sheath)
-[SENA]十字手裏剣=[SENA] 十字手裏剣
-[SENA]五方手裏剣=[SENA] 五方手裏剣
+[SENA]槍=[SENA] Spear
+[SENA]槍(鞘付）=[SENA] Spear (With Sheath)
+[SENA]薙刀=[SENA] Halberd
+[SENA]薙刀(鞘付）=[SENA] Halberd (With Sheath)
+[SENA]十字手裏剣=Cross Shuriken
+[SENA]五方手裏剣=Five-Sided Shuriken

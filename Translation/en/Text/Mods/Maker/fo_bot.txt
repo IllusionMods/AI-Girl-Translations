@@ -66,13 +66,13 @@ PH 空姐制服 裙子=PH Flight Attendant Uniform Skirt
 一番星ドレス（ボトム）=Top Star Dress (Bottom)
 
 // chara/cuzkuz/cuzkuz_bot_12.unity3d
-スーツパンツ2=Suit Pants 2
+スーツパンツ2=Slacks 2
 
 // chara/cuzkuz/cuzkuz_bot_11.unity3d
 フレアーパンツ=Flared Pants
 
 // chara/cuzkuz/cuzkuz_bot_10.unity3d
-ハーフパンツ2=Half Pants 2
+ハーフパンツ2=Shorts 2
 
 // chara/cuzkuz/cuzkuz_bot_09.unity3d
 ショートデニム=Denim Shorts
@@ -124,12 +124,12 @@ CassandraWitch-下衣(真空)=CassandraWitch-underwear (vacuum)
 格闘用スカート=Fighting Skirt
 
 // chara/06/fo_bot_06.unity3d
-スポーツパンツ (no mask)=Sports pants (no mask)
+スポーツパンツ (no mask)=Sports Pants (no mask)
 
 // chara/00/fo_bot_00.unity3d
 ジーンズ (no mask)=Jeans (no mask)
-スーツパンツ (no mask)=suit pants (no mask)
-ストレッチパンツ (no mask)=Stretch pants (no mask)
+スーツパンツ (no mask)=Suit Pants (no mask)
+ストレッチパンツ (no mask)=Stretch Pants (no mask)
 フロントリボン (no mask)=Front Ribbon (no mask)
 
 // chara/sena_mod/sena_anna.unity3d
@@ -152,7 +152,7 @@ CassandraWitch-下衣(真空)=CassandraWitch-underwear (vacuum)
 [SENA]R連邦ベルト=[SENA] R Federation Belt
 
 // chara/sena_mod/sena_g_reiko_s.unity3d
-[SENA]R連合ベルト=[SENA] R Federation Belt
+[SENA]R連合ベルト=[SENA] R Alliance Belt
 
 // chara/sena_mod/sena_k_musashi.unity3d
 [SENA]武蔵スカート=[SENA] Musashi Skirt
@@ -161,13 +161,13 @@ CassandraWitch-下衣(真空)=CassandraWitch-underwear (vacuum)
 [SENA]警備タイトスカート=[SENA] Security Tight Skirt
 
 // chara/sena_mod/sena_riku03.unity3d
-[SENA]ランナーパンツ半脱ぎ改=[SENA] Runner pants half off.
+[SENA]ランナーパンツ半脱ぎ改=[SENA] Runner Pants Half Off
 
 // chara/sena_mod/sena_tifa.unity3d
 [SENA]TFスカート=[SENA] TF Skirt
 
 // chara/sena_mod/sena_various02a.unity3d
-[SENA]もっこりスパッツ=[SENA] Dusty Spats
+[SENA]もっこりスパッツ=[SENA] Erect Spats
 
 // chara/sena_mod/sena_various03.unity3d
 [SENA]ベースボールパンツ=[SENA] Baseball Pants
@@ -180,4 +180,4 @@ CassandraWitch-下衣(真空)=CassandraWitch-underwear (vacuum)
 [SENA]バレーブルマM3=[SENA] Volleyball Bloomers M3
 
 // chara/sena_mod/sena_w_jersey.unity3d
-[SENA]ジャージ=[SENA] Jerseys
+[SENA]ジャージ=[SENA] Jersey
