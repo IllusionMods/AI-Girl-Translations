@@ -1,15 +1,14 @@
 //
 // Dumped for AI Girl v1.2.3 by Mod Text Dump v0.0.1: 2021-05-26
-// #set exe StudioNEOV2
 //
 
 #set exe StudioNEOV2
 
 
 // japanese_street/hooh_japanese_street/data_prefab_00061.unity3d
-Bottle Сrate=Bottle  С rate
+//Bottle Сrate=Bottle Crate
 
 // japanese_street/hooh_japanese_street/data_prefab_00012.unity3d
-Garbage Сan 01=Garbage  С an 01
-Garbage Сan 02=Garbage  С an 02
-Garbage Сan 03=Garbage  С an 03
+//Garbage Сan 01=Garbage Can 01
+//Garbage Сan 02=Garbage Can 02
+//Garbage Сan 03=Garbage Can 03

@@ -1,6 +1,5 @@
 //
 // Dumped for AI Girl v1.2.3 by Mod Text Dump v0.0.1: 2021-05-26
-// #set exe StudioNEOV2
 //
 
 #set exe StudioNEOV2
@@ -8,12 +7,12 @@
 
 // studio/sena/sena_vb_prop01.unity3d
 [SENA] バレーボール=[SENA] Volleyball
-//[SENA]ドリンクボトル=[SENA] ドリンクボトル
-//[SENA]コートモップ=[SENA] コートモップ
-//[SENA]審判台=[SENA] 審判台
-//[SENA]ベンチ=[SENA] ベンチ
-//[SENA]ボール籠=[SENA] ボール籠
-//[SENA]バレーコート=[SENA] バレーコート
-//[SENA]バレーネット=[SENA] バレーネット
-//[SENA]ボールフェンスL=[SENA] ボールフェンス L
-//[SENA]ボールフェンスS=[SENA] ボールフェンス S
+[SENA]ドリンクボトル=[SENA] Drink Bottle
+[SENA]コートモップ=[SENA] Court Mop
+[SENA]審判台=[SENA] Referee's Table
+[SENA]ベンチ=[SENA] Bench
+[SENA]ボール籠=[SENA] Volleyball Basket
+[SENA]バレーコート=[SENA] Volleyball Court
+[SENA]バレーネット=[SENA] Volleyball Net
+[SENA]ボールフェンスL=[SENA] Volleyball Fence L
+[SENA]ボールフェンスS=[SENA] Volleyball Fence S

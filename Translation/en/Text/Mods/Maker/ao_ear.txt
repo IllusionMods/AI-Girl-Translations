@@ -8,3 +8,6 @@
 
 // chara/sena_mod/sena_tifa.unity3d
 [SENA]TFイヤリング=[SENA] TF Earring
+
+// chara/EL.unity3d
+//[TuBge]����=
